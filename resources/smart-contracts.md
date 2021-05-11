@@ -12,6 +12,9 @@ v0.4.1 [0x57805e5a227937BAc2B0FdaCaA30413ddac6B8E1](https://etherscan.io/address
 Ticker: $COMBO  
 Token contract: [0xfFffFffF2ba8F66D4e51811C5190992176930278](https://etherscan.io/token/0xfFffFffF2ba8F66D4e51811C5190992176930278)
 
+Ticker: $rCOMBO  
+Token contract: [0x2dadc3582c0655e8d21b1519bac30bc40ab14e9a](https://etherscan.io/token/0x2dadc3582c0655e8d21b1519bac30bc40ab14e9a#balances)
+
 ## Handlers
 
 #### For v1.0.0 proxy contract \(The latest version\)

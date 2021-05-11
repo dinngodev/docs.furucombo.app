@@ -11,27 +11,25 @@
 
 ## Other FAQ
 
+* [Tutorials](other-faq/tutorials/README.md)
+  * [Beginner’s Guide](other-faq/tutorials/beginners-guide.md)
+  * [How to Stake for Liquidity Mining](other-faq/tutorials/how-to-stake-for-liquidity-mining.md)
+  * [Flashloan Combo](other-faq/tutorials/flashloan-combo.md)
+  * [Passive Income \| Part 1](other-faq/tutorials/passive-income-part1.md)
+  * [Boost Maker vault](other-faq/tutorials/boost-maker-vault.md)
+  * [Close Maker vault](other-faq/tutorials/close-maker-vault.md)
+  * [Instantly Swap cTokens on Compound](other-faq/tutorials/instantly-swap-ctokens-on-compound.md)
+  * [Compound Cubes](other-faq/tutorials/compound-cubes.md)
+  * [Synthetix Cubes](other-faq/tutorials/synthetix-cubes.md)
 * [COMBO Is Here](other-faq/combo-is-here/README.md)
   * [COMBO FAQ](other-faq/combo-is-here/combo-faq.md)
   * [COMBO's Utility](other-faq/combo-is-here/combos-utility.md)
   * [COMBO Distribution](other-faq/combo-is-here/combo-distribution.md)
-  * [COMBO Mining Season 2 \(ongoing\)](other-faq/combo-is-here/combo-mining-season-2.md)
+  * [COMBO Mining Season 2 \(ended\)](other-faq/combo-is-here/combo-mining-season-2.md)
   * [Transaction Mining Program \(ended\)](other-faq/combo-is-here/transaction-mining-program-ended.md)
   * [COMBO launch on Balancer LBP \(ended\)](other-faq/combo-is-here/combo-launch-on-balancer-lbp.md)
 * [Collaboration](other-faq/collaboration.md)
 * [Feature Request](other-faq/feature-request.md)
-
-## tutorials
-
-* [Beginner’s Guide](tutorials/beginners-guide.md)
-* [How to Stake for Liquidity Mining](tutorials/how-to-stake-for-liquidity-mining.md)
-* [Flashloan Combo](tutorials/flashloan-combo.md)
-* [Passive Income \| Part 1](tutorials/passive-income-part1.md)
-* [Boost Maker vault](tutorials/boost-maker-vault.md)
-* [Close Maker vault](tutorials/close-maker-vault.md)
-* [Instantly Swap cTokens on Compound](tutorials/instantly-swap-ctokens-on-compound.md)
-* [Compound Cubes](tutorials/compound-cubes.md)
-* [Synthetix Cubes](tutorials/synthetix-cubes.md)
 
 ## Resources
 

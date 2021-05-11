@@ -1,4 +1,4 @@
-# COMBO Mining Season 2 \(ongoing\)
+# COMBO Mining Season 2 \(ended\)
 
 
 
