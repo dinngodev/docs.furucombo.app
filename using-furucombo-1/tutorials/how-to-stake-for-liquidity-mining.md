@@ -1,10 +1,10 @@
 ---
-description: >-
-  The following a guide on how to stake for the liquidity mining event, and a
-  brief overview of what the liquidity mining event is.
+description: 'Tutorial: How to Stake for Liquidity Mining'
 ---
 
 # How to Stake for Liquidity Mining
+
+The following a guide on how to stake for the liquidity mining event, and a brief overview of what the liquidity mining event is.
 
 ## **What is liquidity mining?**
 
