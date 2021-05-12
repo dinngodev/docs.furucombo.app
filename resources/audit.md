@@ -2,13 +2,24 @@
 
 Furucombo is composed of [Proxy Contract](https://etherscan.io/address/0xA013AfbB9A92cEF49e898C87C060e6660E050569) & Handler Contracts. We keep conducting audits for all of our Smart Contracts and Handler Contracts to enhance the security of the Furucombo system.
 
-## **Smart Contract Audits**
+## **Furucombo Audits**
+
+### Website & API **Audit**
+
+The Furucmobo website and API have been audited by [cure53](https://cure53.de/).   
+****There were no major or critical issues detected.
+
+{% file src="../.gitbook/assets/fur-01-report.final.pdf" caption="\[cure53\] Website & API audit report" %}
 
 ### Furucombo Main Contract
 
+#### Peckshield 
+
+[Peckshield](https://peckshield.cn/en) has formally verified the Proxy, Registry, and handlers of the Furucombo system. Some minor issues were detected which have all been addressed. The full report can be viewed [here](https://github.com/dinngodev/furucombo-contract/tree/master/audit/PeckShield)**.**
+
 #### Certora 
 
-[Certora](https://www.certora.com/) has formally verified the Proxy, Registry, and handlers of the Furucombo system. Some minor issues were detected which have all been addressed. 
+[Certora](https://www.certora.com/) has formally verified the Proxy, Registry, and handlers of the Furucombo system. Some minor issues were detected which have all been addressed. The full report can be viewed [here](https://github.com/dinngodev/furucombo-contract/tree/master/audit/Certora)**.**
 
 ### COMBO token and Vesting contracts
 
