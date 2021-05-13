@@ -1,4 +1,6 @@
-# COMBO Mining Season 3
+# COMBO Mining Season 3 \(ongoing\)
+
+
 
 ![](../../.gitbook/assets/combo-season-3.png)
 
