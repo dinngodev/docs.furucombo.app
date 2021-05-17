@@ -38,14 +38,6 @@ Les frais de 0,09% sont payés directement à Aave pour l'utilisation du flashlo
 
 Il s'agit d'une limitation mise en place par Aave. Lorsque vous utilisez le flashloan, vous prenez les liquidités d'Aave. Cela n'a pas de sens d'utiliser les fonds empruntés sur la pool d’ou proviennent ces derniers, n’est-ce pas ?
 
-### Comment puis-je rembourser ma dette sur Aave ? <a id="how-do-i-repay-my-debt-on-aave"></a>
-
-Malheureusement, la fonction de remboursement d'Aave n'est pas prise en charge sur Furucombo. Mais c'est un travail en cours.
-
-### Comment puis-je emprunter à Aave ? <a id="how-do-i-borrow-from-aave"></a>
-
-Malheureusement, la fonction d'emprunt d'Aave n'est pas prise en charge sur Furucombo. Nous y travaillons.
-
 ## ● CubesMaker  <a id="maker-cubes"></a>
 
 ### Qu'est-ce qu'un Vault ? <a id="what-is-a-vault"></a>
