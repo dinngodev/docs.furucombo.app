@@ -38,14 +38,6 @@ La tarifa del 0.09% se paga directamente a Aave por usar flashloan. Furucombo no
 
 Esta es una configuración de limitación de Aave. Cuando usa flashloan, está tomando la liquidez de Aave. No tiene sentido utilizar los fondos prestados con el fondo común prestado, ¿verdad?
 
-### **¿Cómo pago mi deuda en Aave?**
-
-Desafortunadamente, la función de pago de Aave no es compatible con Furucombo. Pero es un trabajo en progreso.
-
-### **¿Cómo puedo pedir prestado a Aave?**
-
-Desafortunadamente, la función de préstamo de Aave no es compatible con Furucombo. Pero es un trabajo en progreso.
-
 ## ● Cubos Maker
 
 ### **¿Qué es una bóveda?**
