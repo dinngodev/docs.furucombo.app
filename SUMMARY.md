@@ -37,12 +37,14 @@
 * [Smart Contracts](resources/smart-contracts.md)
 * [Brand Assets](resources/brand-assets.md)
 * [Audit Report](resources/audit.md)
+* [Bug Bounty Program](resources/bug-bounty-program.md)
 
 ## Social Medias
 
 * [Twitter](https://twitter.com/furucombo)
 * [Discord](https://discord.gg/JuamDaq)
 * [Blog](https://medium.com/@furucombo)
+* [Forum](https://forum.furucombo.app/)
 * [Youtube](https://www.youtube.com/channel/UCa1kGD4lvTSrmfKbDjQNOxQ)
 * [Telegram](https://t.me/furucombo)
 
