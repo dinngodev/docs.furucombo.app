@@ -56,6 +56,14 @@ Before borrowing, you need to deposit any asset be used as collateral on Aave. T
 
 You can use the Aave repay cube to repay your debt. Select the asset, set the amount to pay back, and confirm the transaction.
 
+### What are Borrow-Variable and Borrow-Stable options?
+
+![](../.gitbook/assets/2020furucombowrapped-copy-9.jpg)
+
+Borrow-Variable is a rate based on the offer and demand in Aave. It'll change depending on market conditions.
+
+Borrow-Stable is a fixed rate in the short-term but can be re-balanced in the long-term in response to changes in market conditions.
+
 ## ● Maker cubes
 
 ### What is a vault?
@@ -164,7 +172,7 @@ Tokens on Furucombo are selected by Furucombo team. If you can't find the token 
 
 2️⃣ Check the assets' weight in the pool
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/2020furucombowrapped-copy-9.jpg)
 
 ### What is Single-Asset and All-Assets options?
 
