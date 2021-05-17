@@ -28,10 +28,6 @@ The default slippage is set at 3%.
 
 ## ● Aave cubes
 
-### Updated at Mar-04–2021
-
-Aave cubes and flashloan are temporarily down as we are undergoing a thorough testing.
-
 ### How to use flashloan
 
 We have a thorough tutorial guiding to create a flashloan combo. [Read here](https://medium.com/furucombo/create-flashloan-combo-on-furucombo-c7c3b23267f0) 
