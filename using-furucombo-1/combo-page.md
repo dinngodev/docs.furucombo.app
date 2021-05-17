@@ -50,7 +50,7 @@ This is a limitation setup by Aave. When you use flashloan, you're taking the li
 
 ### How do I borrow from Aave?
 
-Before borrowing, you need to deposit any asset be used as collateral on Aave. Then, you can use the Aave borrow cube to borrow funds. Select the asset you want to borrow and set the amount you need based on your available deposits used as collateral for the loan.
+Before borrowing, you need to deposit any asset which will be used as collateral on Aave first. Then, you can use the Aave borrow cube to borrow funds. Select the asset you want to borrow and set the amount you need based on your available deposits used as collateral for the loan.
 
 ### **How do I repay my debt on Aave?**
 
