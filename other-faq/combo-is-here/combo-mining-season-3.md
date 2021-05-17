@@ -32,11 +32,11 @@ To maximize rewards, we recommend that you stake COMBO tokens or COMBO/ETH Uni-V
 
 ### 2. Usage Farming
 
-Usage Farming aims to encourage people to use and to try out the magic of Furucombo. This is a basic gas reimbursement program, but users who hold Furucombo NFTs can also boost their rewards up to 2 times.
+Usage Farming aims to encourage people to use and to try out the magic of Furucombo. **This is a basic gas reimbursement program, but users who hold Furucombo NFTs can also boost their rewards up to 2 times.**
 
 * The reward is calculated pro-rata with \(Gas Used\) x \(Gas Price\) x NFT effect / \(COMBO Price in ETH\)
 * Weekly distribution, no vesting
-* Cap: - 100,000 COMBO as total weekly rewards. If the cap is reached, all rewards will be scaled down together. - Maximum gas used per address = 1,200,000 gas limit. This will cover around three transactions on average.
+* Cap: - 100,000 COMBO as total weekly rewards. If the cap is reached, all rewards will be scaled down together. **- Maximum gas used per address = 1,200,000 gas limit.** This will cover around three transactions on average.
 * Which transactions will count? - Basically all transactions you send on the combo page that involve token transfers. - Failed transactions will also count. - Token approvals are not counted because they do not interact with Furucombo. - Using wallets such as Argent and DappLogic will not be counted because the behavior of these wallets is quite unique. - Quick check? If your transaction has the tag “Interacted With \(To\): Furucombo: Proxy vx.x.x” on etherscan, it will be counted.
 
 ### **How to get a Furucombo NFT?**
