@@ -48,21 +48,13 @@ You may also try deleting the flashloan cubes and hit send again to see which cu
 
 This is a limitation setup by Aave. When you use flashloan, you're taking the liquidity from Aave. It doesn't make sense to use the borrowed funds with the borrowed pool right?
 
-### How do I borrow from Aave?
-
-Before borrowing, you need to deposit any asset be used as collateral on Aave. Then, you can use the Aave borrow cube to borrow funds. Select the asset you want to borrow and set the amount you need based on your available deposits used as collateral for the loan.
-
 ### How do I repay my debt on Aave?
 
-You can use the Aave repay cube to repay your debt. Select the asset, set the amount to pay back, and confirm the transaction.
+Unfortunately, Aave's repay feature is not supported on Furucombo. But it is work in progress. 
 
-### What are Borrow-Variable and Borrow-Stable options?
+### How do I borrow from Aave?
 
-![](../.gitbook/assets/2020furucombowrapped-copy-9.jpg)
-
-Borrow-Variable is a rate based on the offer and demand in Aave. It'll change depending on market conditions.
-
-Borrow-Stable is a fixed rate in the short-term but can be re-balanced in the long-term in response to changes in market conditions.
+Unfortunately, Aave's borrow feature is not supported on Furucombo. But it is work in progress. 
 
 ## ● Maker cubes
 
@@ -172,7 +164,7 @@ Tokens on Furucombo are selected by Furucombo team. If you can't find the token 
 
 2️⃣ Check the assets' weight in the pool
 
-![](../.gitbook/assets/2020furucombowrapped-copy-9.jpg)
+![](../.gitbook/assets/image%20%2827%29.png)
 
 ### What is Single-Asset and All-Assets options?
 
