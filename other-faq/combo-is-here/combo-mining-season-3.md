@@ -65,6 +65,11 @@ Usage Farming aims to encourage people to use and to try out the magic of Furuco
 
 That’s it! Enjoy participating in our COMBO mining season 3 and earning COMBO tokens in the following weeks. If you have any questions on this, our team is standing by in [Discord](https://discord.furucombo.app/) to answer any questions. Thanks for participating in the Furucombo community!
 
+{% hint style="success" %}
+[COMBO TX Rewards dashboard](https://go.furucombo.app/reward)  
+[Furucombo Dune dashboard](https://duneanalytics.com/Marcov/furucombo-statistics_1)
+{% endhint %}
+
 Things to Note
 
 * This is the third round of the Furucombo mining program in a series. Any future rounds may have different rules and rewards.

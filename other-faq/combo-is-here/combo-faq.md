@@ -13,7 +13,7 @@
 
 #### **How to get COMBO?**
 
-* Join the COMBO mining season 2 program NOW → Detail [https://go.furucombo.app/ou35k](https://go.furucombo.app/ou35k)
+* Join the COMBO mining season 3 program NOW → Detail [https://go.furucombo.app/3u2fT](https://go.furucombo.app/3u2fT)
 * Join Furucombo ongoing campaigns.
 
 #### How to stake COMBO token**?**
@@ -21,13 +21,6 @@
 ![](../../.gitbook/assets/staking_combo.gif)
 
 ![COMBO Pool \(Pool 0\) / ETH-COMBO Pool \(Pool 1\)](../../.gitbook/assets/jie-tu-20210115-xia-wu-9.23.36.png)
-
-#### What is the difference between COMBO and ETH-COMBO\(UNIV2-LP\) staking pool? 
-
-#### COMBO Mining Season 2
-
-* **COMBO Pool \(stake COMBO token\)** - Rewards: 46,875 COMBO - Competition rule: Base amount = 250 COMBO - Every active user, no matter if they stake or not, will share the rewards in this pool. If you have made trades but staked 0 COMBO, we will automatically act as if staked 250\*COMBO when calculating the rewards; if you have made trades and have staked 1000 COMBO, we will act as if you have staked 1250 COMBO when calculating the rewards. 
-* **COMBO/ETH Uniswap V2 Liquidity Pool \(stake LP token\)** - Rewards: 140,625 COMBO - Only active users who stake LP tokens will be able to share the rewards in this pool.
 
 
 
