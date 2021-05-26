@@ -41,7 +41,7 @@ Usage Farming aims to encourage people to use and to try out the magic of Furuco
 
 ### **How to get a Furucombo NFT?**
 
-This time we collaborate with our best fren Lootex to issue FuruPizza on Polygon!
+This time we collaborate with our best fren [Lootex](https://lootex.io/stores/furucombo-nft) to issue FuruPizza on Polygon!
 
 * **1st-week challenge: using the Aave cube 👻👻👻** - How: Every address which completes a transaction with any Aave cube will get a chance to win a limited NFT. - When: May 13 2021, 3:00 AM \(UTC\) — May 20 2021, 3:00 AM \(UTC\) - What: There will be 26 out of 30 limited NFTs for the winners in week 1. These NFT holders can boost their rewards starting from week 2.
 * **2nd-week challenge: using the Sushiswap cubes 🍣🍣🍣**
