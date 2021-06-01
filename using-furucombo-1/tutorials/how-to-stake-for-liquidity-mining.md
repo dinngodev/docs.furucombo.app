@@ -11,7 +11,7 @@ The following a guide on how to stake for the liquidity mining event, and a brie
 * The liquidity mining event allows users to stake their COMBO or COMBO/ETH LP tokens to earn COMBO rewards.
 * COMBO tokens are available weekly for users to earn based on how many COMBO or COMBO/ETH tokens they have staked. Additionally, the longer a user stakes during a week, the more they will earn. This is reset weekly.
 * For the 2nd phase of liquidity mining, users simply have to do one transaction per week to qualify for these rewards, and rewards are vested over 12 weeks.
-* The historical week by week reward APY can be found here: [\[PUBLIC\] COMBO TM Rewards - Google Sheets](https://docs.google.com/spreadsheets/d/1klbuACed44IA4mNUxx8Gcjc9zSg1ZzS2ni54XkKkK3k/edit#gid=1097834621).
+* The historical week by week reward APY can be found here: [\[PUBLIC\] COMBO TM Rewards - Google Sheets](https://go.furucombo.app/snapshot).
 * Historically users that pair their combo with eth in the COMBO/ETH LP have higher rewards, but must be aware of impermanent loss.
 
 ## **How to buy and stake?**
