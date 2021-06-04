@@ -184,11 +184,17 @@ When adding/removing liquidity to/from Balancer, you will see options of All Ass
 * Add Liquidity - **Single Asset**: You only provide one type of token to the pool. Balancer will swap the token you provided proportionally to add liquidity into the pool.
   * 👉 You send 1 WETH to Balancer and you receive 0.01105BPT token.
 
-## ● Mooniswap cubes
+## ● B.Protocol cubes
 
-### I can't find the pool I want
+[B.Protocol](https://app.bprotocol.org/app) is a backstop liquidity protocol built on top of DeFi lending platforms. Currently, Furucombo supports B.Protocol integration with Maker, and we will later expand to Compound and Aave.
 
-Tokens on Furucombo are selected by Furucombo team. If you can't find the token you want, please let the team know on Discord \#feedback channel.
+### Where do I get my vault number??
+
+If you already have a vault, connect your wallet first and then choose any B.Protocol cube except "New Vault". You will see your vault number displayed when you click the Vault \# blank.
+
+If you use New Vault to create a vault. You will get the vault number after the combo is sent out successfully. Then you come back and choose any B.Protocol cube except "New Vault" to see your vault number.
+
+![](../.gitbook/assets/screen-shot-2021-06-04-at-5.10.25-pm.png)
 
 ## ● Utility cubes
 
