@@ -149,12 +149,6 @@ Al agregar o eliminar liquidez desde Balancer, verá las opciones All-Assets y S
 * Agregar liquidez **Single Asset**: solo proporciona un tipo de token al grupo. Balancer intercambiará proporcionalmente el token que aportó para agregar liquidez al grupo. 
   * 👉 Envía 1 WETH a Balancer y recibe un token de 0.01105BPT.
 
-## ● Cubos Mooniswap
-
-### No encuentro la piscina que quiero
-
-Los token en Furucombo son seleccionadas por el equipo de Furucombo. Si no puede encontrar el token que desea, avísele al equipo en el canal de Discord \#feedback.
-
 ## ● **Cubos de utilidad**
 
 ### **¿Qué es Enviar Token?**
