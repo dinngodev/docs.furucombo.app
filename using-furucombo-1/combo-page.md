@@ -158,12 +158,6 @@ Lorsque vous ajoutez ou retirez des liquidités à Balancer, vous verrez les opt
 * Ajouter de la liquidité - **Actif unique** : Vous ne fournissez qu'un seul type de token au pool. Balancer échangera le token que vous avez fourni proportionnellement pour ajouter de la liquidité dans le pool.
   * ​👉 Vous envoyez 1 WETH à Balancer et vous recevez un jeton de 0,01105 BPT.
 
-## ● Cubes Mooniswap  <a id="mooniswap-cubes"></a>
-
-### Je ne trouve pas le pool que je veux <a id="i-cant-find-the-pool-i-want"></a>
-
-Les tokens sur Furucombo sont sélectionnés par l'équipe de Furucombo. Si vous ne trouvez pas le jeton que vous voulez, veuillez le faire savoir à l'équipe sur le canal Discord \#feedback.
-
 ## ● Cubes Utility  <a id="utility-cubes"></a>
 
 ### Qu'est-ce que "Send Token" ? <a id="what-is-send-token"></a>
