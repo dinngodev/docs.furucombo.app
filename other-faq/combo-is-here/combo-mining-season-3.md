@@ -8,6 +8,8 @@ Season 2 of COMBO mining has ended and we have collected excellent feedback and 
 
 ## Furucombo COMBO mining season 3
 
+{% file src="../../.gitbook/assets/furucombo\_season\_3\_final-1-.pdf" caption="COMBO mining season 3 Infographic" %}
+
 ### **Program period**
 
 May 13 2021, 3:00 AM \(UTC\) — Aug 5 2021, 3:00 AM \(UTC\)
