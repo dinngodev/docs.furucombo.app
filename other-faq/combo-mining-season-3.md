@@ -2,13 +2,13 @@
 
 
 
-![](../../.gitbook/assets/combo-season-3.png)
+![](../.gitbook/assets/combo-season-3.png)
 
 Season 2 of COMBO mining has ended and we have collected excellent feedback and many great ideas for the third season. With the upcoming releases and breaking news, we couldn't be more excited to share what we have for you in the new season of COMBO mining!
 
 ## Furucombo COMBO mining season 3
 
-{% file src="../../.gitbook/assets/furucombo\_season\_3\_final-1-.pdf" caption="COMBO mining season 3 Infographic" %}
+{% file src="../.gitbook/assets/furucombo\_season\_3\_final-1-.pdf" caption="COMBO mining season 3 Infographic" %}
 
 ### **Program period**
 
@@ -80,7 +80,7 @@ This time we collaborate with our best fren [Lootex](https://lootex.io/stores/fu
 * Furucombo team will calculate rewards every Thursday and share the result in our Discord channel for community review.
 * If no disputes are raised within 24hrs, the unlocked amount will then be updated to the Furucombo contract \(Typically by Friday night\). You can then claim your rewards through a “Claim COMBO” cube.
 
-![](../../.gitbook/assets/0_fdxp6gipd57mvifs.png)
+![](../.gitbook/assets/0_fdxp6gipd57mvifs.png)
 
 
 

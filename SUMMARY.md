@@ -21,11 +21,11 @@
 
 ## Other FAQ
 
+* [COMBO Mining Season 3 \(ongoing\)](other-faq/combo-mining-season-3.md)
 * [COMBO Is Here](other-faq/combo-is-here/README.md)
   * [COMBO FAQ](other-faq/combo-is-here/combo-faq.md)
   * [COMBO's Utility](other-faq/combo-is-here/combos-utility.md)
   * [COMBO Distribution](other-faq/combo-is-here/combo-distribution.md)
-  * [COMBO Mining Season 3 \(ongoing\)](other-faq/combo-is-here/combo-mining-season-3.md)
   * [COMBO Mining Season 2 \(ended\)](other-faq/combo-is-here/combo-mining-season-2.md)
   * [Transaction Mining Program \(ended\)](other-faq/combo-is-here/transaction-mining-program-ended.md)
   * [COMBO launch on Balancer LBP \(ended\)](other-faq/combo-is-here/combo-launch-on-balancer-lbp.md)
