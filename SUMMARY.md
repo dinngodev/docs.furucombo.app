@@ -18,6 +18,7 @@
   * [Instantly Swap cTokens on Compound](using-furucombo-1/tutorials/instantly-swap-ctokens-on-compound.md)
   * [Compound Cubes](using-furucombo-1/tutorials/compound-cubes.md)
   * [Synthetix Cubes](using-furucombo-1/tutorials/synthetix-cubes.md)
+* [Furucombo on Polygon](using-furucombo-1/furucombo-on-polygon.md)
 
 ## Other FAQ
 
