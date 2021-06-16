@@ -1,59 +1,55 @@
-# Furucombo V2 & Roadmap
+# Furucombo V2 en Roadmap
 
-## **Furucombo Quick Recap**
+## **Snelle beoordeling van Furucombo**
 
-It has been a year since the first cube was born on the Furucombo platform, and we are very proud to share what we have accomplished so far:
+Het is een jaar geleden dat de eerste kubus op het Furucombo-platform werd geboren en we zijn erg trots om dit te delen wat hebben we tot nu toe bereikt:
 
-📈 captured $4 billion+ in trading volume;  
-****👤 onboarded 35,000+ users;  
-💡 inspired 1000+ strategies;  
-🔥 saved users’ $26,000+ in gas fees;   
-🥇 brought $100,000+ flashloan service fees to Aave;  
-💜 kicked off the first steps towards Furucombo V2 with the COMBO token.
+📈 veroverde $ 4 miljard+ aan handelsvolume;  
+****👤 35.000+ gebruikers toegevoegd;  
+💡 meer dan 1000+ strategieën geïnspireerd;;  
+🔥 bespaarde gebruikers $ 26.000 + aan gaskosten;   
+🥇 bracht $100.000+ flitslening servicekosten voor naar Aave;  
+💜 zette de eerste stappen richting Furucombo V2 met het COMBO-token.
 
-The core value of Furucombo is to empower our users to optimize and enhance their DeFi strategy with ease, and without knowledge of coding. Given the nature of Furucombo, there are numerous combinations and strategies you can make, and the only limitation is your imagination. 
+De kernwaarde van Furucombo is om onze gebruikers in staat te stellen hun DeFi-strategie te optimaliseren en te verbeteren met gemak, en zonder codeerkennis. Door de aard van Furucombo zijn talloze combinaties mogelijk en strategieën die u kunt maken, en de enige beperking is uw verbeeldingskracht.
 
 {% embed url="https://twitter.com/thegreenbutton\_/status/1358669737882914818?s=20" %}
 
-Since we shared our vision in “[The Road to Becoming a Super-Aggregator](https://medium.com/furucombo/the-road-to-becoming-a-super-aggregator-cbd2566a1990)”, our community is super excited about the upcoming Furucombo V2. Today we are pleased to share our roadmap with you as we move into the second year of Furucombo. 
+Sinds we onze visie deelden in "[The Road to Becoming a Super-Aggregator](https://medium.com/furucombo/the-road-to-becoming-a-super-aggregator-cbd2566a1990)", is onze community super enthousiast over de aanstaande Furucombo V2. Vandaag delen we graag onze roadmap met u terwijl we verhuizen naar het tweede jaar van Furucombo.
 
-## **Furucombo V2, the COMBO ecosystem**
+## **Furucombo V2, het COMBO-ecosysteem**
 
 ![](https://lh6.googleusercontent.com/P98iLN86cqmt5WTT8xiJqbFgk5AAePEop6DYSx8ugWARswpLE4zMTGc9aet-V_huzdqyWkJRI4-h9habxoVg0h39u2PRWDivlppzItUc2DnvkFi70veuu8CpFKAiwhksSVHHNG7r)
 
-Furucombo V2 aims to form a value ecosystem as a super-aggregator with three important participants: builders, degens, and novice users. To minimize the barrier for degens and novice users to manage their DeFi strategy and portfolios, we plan to onboard more builders to Furucombo and align the interests of our builders with the ecosystem.
+Furucombo V2 streeft ernaar een waarde-ecosysteem te vormen als een superaggregator met drie belangrijke deelnemers: bouwers, De-gens en beginnende gebruikers. Om de drempel voor "de-gen" en beginnende gebruikers om hun eigen DeFi-strategie en -portfolio's te beheren, te minimaliseren, zijn we van plan meer bouwers aan Furucombo toe te voegen en de belangen van onze ontwikkelingsbouwers af te stemmen op het ecosystem.
 
-Sounds good, but how? Well, given everything is transparent on the blockchain, it seems like a natural fit to open source our smart contracts and let external developers build their own cubes. They should be the best fit, especially since they are the ones who know their own protocols the best.
+Klinkt goed, maar hoe? Nou, aangezien alles transparant is op de blockchain, lijkt het een natuurlijke fit om open source onze slimme contracten en laat externe ontwikkelaars hun eigen kubussen bouwen. Ze zijn meer geschikt voor de taak, vooral omdat zij degenen zijn die hun eigen protocollen het beste kennen.
 
-With this idea in mind, we have invited [Sushiswap](https://twitter.com/SushiSwap) and [B.Protocol](https://twitter.com/bprotocoleth) to develop their own cubes as a trial run. These features are under audits and we aim to release them in May. In the future, there will be a formal process and guideline for every external builder to follow, and our decentralized community will decide which protocols to list next.
+Met dit idee in het achterhoofd hebben we [Sushiswap](https://twitter.com/SushiSwap) en [B.Protocol](https://twitter.com/bprotocoleth) uitgenodigd om op proef hun eigen kubussen te ontwikkelen.Deze functies worden gecontroleerd en we streven ernaar ze in mei uit te brengen. In de toekomst zal er een formele proces en richtlijn die elke externe bouwer moet volgen, en onze gedecentraliseerde gemeenschap zal beslissen welke protocollen hieronder moeten worden vermeld.
 
-But how to prevent fraud? The [COMBO token](https://medium.com/furucombo/introducing-combo-token-99f34eb05295) comes to the spotlight.
+Maar hoe fraude voorkomen? Het [COMBO-token](https://medium.com/furucombo/introducing-combo-token-99f34eb05295) komt in de schijnwerpers 
 
-When external builders build their own cube, they also need to stake COMBO tokens into an insurance reserve. Our decentralized community can then decide whether the cube should be listed, and they can also decide the listing requirements, the insurance details, the incentive programs, and many other parameters within the Furucombo ecosystem.
+Wanneer externe bouwers hun eigen kubus bouwen, moeten ze COMBO-tokens storten in een verzekeringsreservepool.Onze gedecentraliseerde gemeenschap kan dan beslissen of de kubus aan Furucombo moet worden toegevoegd, en ze kunnen ook de vereisten voor toevoeging, het bedrag dat in de verzekeringspool moet worden gestort, de stimuleringsprogramma's en vele andere parameters binnen het Furucombo-ecosysteem bepalen.
 
-## **Development Roadmap**
+## **Ontwikkelingsroutekaart**
 
-There are so many exciting releases coming in the near future to make the Furucombo V2 complete. Here is the sneak peek of our progress so far:
+Er komen in de nabije toekomst zoveel spannende releases aan om de Furucombo V2 te voltooien. Hier is de sneak peek van onze voortgang tot nu toe:
 
-#### **Under audit \(ETA: May 2021\)**
+#### Onder controle \(ETA: mei 2021\)
 
-* Furucombo overall structure
-* Sushiswap swapping and liquidity pools
-* B.Protocol vault management cubes
-* Aave flashloan, lending, and borrowing functions
-* A joint audit with Gelato Network, the automation protocol
+* Algemene structuur van Furucombo
+* Sushiswap swapping en liquiditeitspools
+* B. Protocolkluisbeheerkubussen
+* Aave Flash-lening-, uitleen- en leenfuncties
+* Een gezamenlijke audit met Gelato Network, het automatiseringsprotocol
 
-#### **Under development**
+#### **In ontwikkeling**
 
-* **Layered Security:** To mitigate the risk of the fast-growing DeFi space, we are developing several safety procedures other than audits, including a suspicious transaction monitoring system, and an encrypted transaction process flow. Beyond that, there will be an insurance reserve as a further security measure. Especially when external builders develop their customized cubes, it is crucial to eliminate potential fraud. The insurance reserve will be composed with the revenue generated by Furucombo, and the COMBO tokens staked by external builders.
-* **Revenue Stream:** Currently, Furucombo does not charge fees from users. The entire platform is free. However, to keep the platform running and fuel the insurance reserve, Furucombo will start charging fees by June 2021 with 0.2% of initial funds per transaction. The fees collected will be distributed amongst the insurance reserve, the company reserve, and our decentralized community. Furthermore, some of the current and new features will become premium features, which would only be accessible with the use of COMBO starting from June as well.
-* **On-chain Governance:** To transition the ownership of Furucombo, we are preparing the governance portal to empower our decentralized community. The decentralized community will then be able to protect the integrity of Furucombo through research, discussion, and on-chain voting.
-* **Crypto Pooling:** As a DeFi aggregator, it’s easy to see the flow of funds and overall DeFi movement by tracking the transactions on the Furucombo proxy contract. Instead of just following those transactions, we have outlined the pool combo system to allow users to invest in these strategies directly. The pool combo system can also let degens become fund managers to maximize profits as a whole.
-* **Layer 1&2 Expansion and the Cross-Chain Bridge:** Given the high gas consumption on Ethereum and the developing speed of layer 2 and other layer 1 solutions, we will do some in-depth research and expand Furucombo this year. There is a great opportunity to explore how Furucombo can be brought to a place where gas costs are negligible. And it is the foundation for our next step towards a cross-chain DeFi aggregator.
-
-## **Something missing?** <a id="20c2"></a>
-
-Shout out to the community to join us on the [forum](https://forum.furucombo.app/) and tell us what you want to see next for everything related to Furucombo. No matter how crazy your idea is, we want you to share it with us. Let’s build together! ;\)
+* **Gelaagde beveiliging:** om het risico van de snelgroeiende DeFi-ruimte te verkleinen, ontwikkelen we verschillende andere beveiligingsprocedures dan audits, waaronder een systeem voor het monitoren van verdachte transacties, en a versleutelde transactieprocesstroom. Verder zal er een verzekeringsreservepool zijn als een toegevoegde veiligheidsmaatregel. Vooral wanneer externe bouwers hun aangepaste kubussen ontwikkelen, is het cruciaal om: mogelijke fraude uit te sluiten. De pool van verzekeringsreserves is samengesteld uit de inkomsten die worden gegenereerd door: Furucombo en de COMBOtokens die zijn gedeponeerd door externe bouwers.
+* **Inkomstenstroom:** Furucombo brengt gebruikers momenteel geen kosten in rekening. Het hele platform is gratis. Om het platform echter draaiende te houden en de reservepool voor verzekeringen van brandstof te voorzien, zal Furucombo vanaf juni 2021 een vergoeding van 0,2% per transactie in rekening brengen. De geïnde vergoedingen zullen worden verdeeld tussen de reservepool voor verzekeringen, de bedrijfsreserve en onze gedecentraliseerde gemeenschap. Bovendien zullen sommige van de huidige en nieuwe functies premiumfuncties zijn, die ook pas vanaf juni toegankelijk zouden zijn met het gebruik van COMBO.
+* **On-chain governance:** om het eigendom van Furucombo over te dragen, bereiden we een governance-portaal voor om onze gedecentraliseerde community te versterken. De gedecentraliseerde gemeenschap zal dan in staat zijn om de integriteit van Furucombo te beschermen door middel van onderzoek, discussie en stemmen over voorstellen.
+* **Crypto Pooling:** als DeFi-aggregator is het gemakkelijk om de geldstroom en de algehele DeFibeweging te zien door de transacties op het Furucombo-proxycontract te volgen. In plaats van alleen de te volgen transacties hebben we het poolcombinatiesysteem geschetst, zodat gebruikers direct in deze strategieën kunnen investeren. Het poolcombinatiesysteem kan degens ook in staat stellen om fondsbeheerders te worden om de winst als geheel te maximaliseren
+* **Layer 1 & 2 Expansion en de Cross-Chain Bridge:** Gezien het hoge gasverbruik op Ethereum en de ontwikkelingssnelheid van Layer 2 en andere Layer 1-oplossingen, zullen we dit jaar diepgaand onderzoek doen en Furucombo uitbreiden. Er is een geweldige kans om te onderzoeken hoe je Furucombo naar een plek kunt brengen waar de gaskosten te verwaarlozen zijn. En het is de basis voor onze volgende stap naar een cross-chain DeFiaggregator.
 
 \*\*\*\*
 

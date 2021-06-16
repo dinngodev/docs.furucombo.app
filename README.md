@@ -1,29 +1,28 @@
-# Furucombo Introduction
+# Furucombo Inleiding
 
-## What is Furucombo?
+## Wat is Furucombo?
 
-Furucombo is a tool built for end-users to optimize their DeFi strategy simply by drag and drop. It visualizes complex DeFi protocols into cubes. Users setup inputs/outputs and the order of the cubes, then Furucombo bundles all the cubes into one transaction and sends out. We call this building-blocks setup a “combo”. If you don’t know what to do, you can find inspirations from pre-built combos at [Explore page](https://furucombo.app/explore).
+Furucombo is een hulpmiddel dat voor eindgebruikers wordt gebouwd om hun strategie DeFi eenvoudig te optimaliseren door te slepen en te laten vallen. Het visualiseert complexe protocollen DeFi in kubussen. De input/de output van de opstelling van het gebruik en de orde van de kubussen, dan bundelt Furucombo alle kubussen in één transactie en stuurt uit. We noemen deze bouwstenen opstelling een "combo". Als u niet weet wat te doen, kunt u inspiratie van pre-gebouwde kammen bij [Onderzoek pagina](https://furucombo.app/explore) vinden.
 
 {% embed url="https://www.youtube.com/watch?v=wCfMm2a91qs&feature=youtu.be" %}
 
-## Do you charge any fees?
+## Breng je kosten in rekening?
 
-No, currently we do not charge any fee.
+Nee, we rekenen momenteel geen vergoeding aan?
 
-## How do you make money then?
+## Hoe verdien je geld?
 
-We are exploring different possibilities now, feel free to share your ideas at our [Discord](https://discord.furucombo.app/) community!
+We verkennen nu verschillende mogelijkheden, voelen ons vrij om je ideeën te delen in onze [Discord](https://discord.furucombo.app/) gemeenschap!
 
-## What is the risk of using Furucombo?
+## Welke risico’ s houdt het gebruik van Furucombo in?
 
-On Furucombo, we use a proxy contract and handler contracts to execute your transactions across different DeFi protocols. Once the transaction is executed successfully, the proxy contract sends all the funds back to your wallet. That being said, Furucombo does not hold any funds.
+Voor Furucombo gebruiken we een proxycontract en een handlercontract om uw transacties via verschillende DeFi-protocollen uit te voeren. Zodra de transactie met succes is uitgevoerd, zal het proxycontract al het geld terug naar uw portemonnee overboeken. Dat gezegd hebbende, Furucombo houdt gebruikers geen geld vast.
 
 ## Is Furucombo open-sourced?
 
-You can find our proxy contract is verified [on Etherscan](https://etherscan.io/accounts/label/Furucombo), where you can see the contract source code.  
-The rest of Furucombo is not open-sourced yet.
+U kunt vinden ons proxy contract wordt geverifieerd op Etherscan, waar u de contractbroncode kunt zien. De rest van Furucombo is nog niet open-sourced.
 
-## Does Furucombo have a token?
+## Heeft Furucombo een token?
 
-Yes, here's our official COMBO token address: [0xfFffFffF2ba8F66D4e51811C5190992176930278](https://etherscan.io/token/0xfFffFffF2ba8F66D4e51811C5190992176930278)
+Ja, hier is ons officiële COMBO token adres: [0xfFffFffF2ba8F66D4e51811C5190992176930278](https://etherscan.io/token/0xfFffFffF2ba8F66D4e51811C5190992176930278)
 

@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Furucombo Introduction](README.md)
-* [Furucombo V2 & Roadmap](furucombo-v2-and-roadmap.md)
+* [Furucombo Inleiding](README.md)
+* [Furucombo V2 en Roadmap](furucombo-v2-and-roadmap.md)
 
 ## Using Furucombo <a id="using-furucombo-1"></a>
 
