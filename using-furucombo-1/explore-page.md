@@ -1,12 +1,12 @@
-# Explore Page
+# Verken pagina
 
-### Navigating Explore page 
+### Navigeer door de pagina Ontdekken 
 
-The [Explore page](https://furucombo.app/explore) serves as the DeFi strategy sharing center, letting you discover top used combos. Here, you will see a gallery of strategies that have been built on Furucombo. When you click a strategy, you will be taken to a page where we explain the purpose of it and how this strategy is composed of cubes. Other features of the Explore page also include filtering strategies by popular tags and displaying relevant information, such as APY, liquidity, and rewards. With these features, users may find their combo more easily.
+De [Explore-pagina](https://furucombo.app/explore) dient als het DeFi-strategiedeelcentrum, zodat u de meest gebruikte combo's kunt ontdekken. Hier ziet u een galerij met strategieën die op Furucombo zijn gebouwd. Wanneer u op een strategie klikt, wordt u naar een pagina geleid waar we het doel ervan uitleggen en hoe deze strategie is samengesteld uit kubussen. Anderen Functies van de Explore-pagina omvatten ook filterstrategieën op populaire tags en het weergeven van relevante informatie, zoals APY, liquiditeit en beloningen. Deze functies maken het voor gebruikers gemakkelijker om hun combo te vinden.
 
 ![](../.gitbook/assets/explore-.png)
 
-### Can I list a combo I created on the explore page?
+### Kan ik een combo die ik heb gemaakt op de verkenningspagina vermelden?
 
-Share it on the discord channel \#combohacking, and Furucombo team will list new combos from the channel every other week onto the explore page.
+Deel het op het discord-kanaal \#combohacking, en het Furucombo-team zal om de week nieuwe combo's van het kanaal op de verkenningspagina plaatsen.
 

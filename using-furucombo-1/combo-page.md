@@ -1,457 +1,444 @@
 # Combo Page
 
-## ● Synthetix cubes
+## ● Synthetix-kubussen
 
-### How do I stake on Synthetix?
+### Hoe stort ik op Synthetix?
 
-We have a thorough tutorial guiding how to create a Synthetix Stake combo. [Read here](https://medium.com/furucombo/tutorial-synthetix-cubes-29dcc7a2fcdc)
+We hebben een diepgaande zelfstudie waarin wordt uitgelegd hoe u een Synthetix Stakecombo kunt maken. [Lees hier](https://medium.com/furucombo/tutorial-synthetix-cubes-29dcc7a2fcdc)
 
-### How do I unstake, claim, or see my rewards after using Synthetix Stake?
+### Hoe kan ik mijn beloningen verwijderen, claimen of bekijken na het gebruik van Synthetix Stake?
 
-If you use Furucombo's Synthetix Stake Token cube, it will lead you to stake through Furucombo’s adapter contract. Hence, if you want to unstake, claim, or see rewards after the operation, you must use Furucombo as well.
+Het gebruik van Furucombo's Synthetix Stake Token-kubus leidt je naar uitzetten via het adaptercontract van Furucombo. Dus als u uw geld wilt verwijderen, het wilt claimen of beloningen wilt zien na de operatie, moet u ook Furucombo gebruiken
 
-## ● Uniswap V2 cubes
+## ● Uniswap V2 kubussen
 
-### I can't find the token/pool I want
+### Ik kan de token/pool die ik wil niet vinden
 
-We support import token feature on Uniswap V2 cubes. Simply paste the token address/pool token address onto the search bar. 
+We ondersteunen de functie voor het importeren van tokens op Uniswap V2-kubussen. Plak het tokenadres/pooltokenadres in de zoekbalk.
 
 ![](../.gitbook/assets/image%20%288%29.png)
 
-### Can I swap WETH directly?
+### Kan ik WETH direct inwisselen?
 
-Unfortunately, using WETH as input/output in Uniswap V2 cubes is not available on Furucombo. Alternatively, you can use WETH cube under the Utility to wrap/unwrap first. 
+Helaas is het gebruik van WETH als input/output in Uniswap V2-cubes niet beschikbaar op Furucombo. Als alternatief kunt u de WETH-kubus onder het hulpprogramma gebruiken om eerst WETH-ETH te converteren.
 
-### What is the slippage set up on Uniswap?
+### Wat is de slippage ingesteld op Uniswap?
 
-The default slippage is set at 3%.
+De standaard is ingesteld op 3%.
 
-## ● Aave cubes
+## ● Aave kubussen
 
-### How to use flashloan
+### Hoe gebruik je een flitslening?
 
-We have a thorough tutorial guiding to create a flashloan combo. [Read here](https://medium.com/furucombo/create-flashloan-combo-on-furucombo-c7c3b23267f0) 
+We hebben een grondige gids voor het maken van een flashloan-combo. [Lees hier](https://medium.com/furucombo/create-flashloan-combo-on-furucombo-c7c3b23267f0)
 
-### Why does it say "something's wrong inside the flashloan cubes"?
+### Waarom staat er "er is iets mis in de flashloan-kubussen"?
 
-When you hit send button, Furucombo runs an estimate of your combo in the sequence of your cubes setup. When you see the error message "something's wrong inside the flashloan", that means the transaction will fail when executing cubes inside the flashloan pair. 
+Wanneer u op de verzendknop drukt, schat Furucombo uw combo in de volgorde van uw kubusconfiguratie. Wanneer je de foutmelding krijgt "er is iets mis in de flitslening", betekent dit dat de transactie zal mislukken bij het uitvoeren van kubussen binnen het flitsleenpaar.
 
-The most common error is that the price has changed in the cubes inside the flashloan pair. Hit the refresh price button in this case. 
+De meest voorkomende fout is dat de prijs is veranderd in de kubussen in het flashloan-paar. Druk in dat geval op de knop Prijs verversen.
 
-You may also try deleting the flashloan cubes and hit send again to see which cube comes in error. 
+Je kunt ook proberen de flashloan-kubussen te verwijderen en nogmaals op verzenden drukken om te zien welke kubus de fout heeft.
 
-### Why do I have to pay 0.09% fee?
+### Waarom moet ik 0,09% kosten betalen?
 
-0.09% fee is paid directly to Aave for using flashloan. Furucombo does not charge any fee in any form.
+Voor het gebruik van de flitslening wordt 0,09% rechtstreeks aan Aave betaald. Furucombo rekent momenteel geen kosten.
 
-### Why can't I put Aave cubes inside flashloan?
+### Waarom kan ik Aave blokjes niet in een flitslening zetten?
 
-This is a limitation setup by Aave. When you use flashloan, you're taking the liquidity from Aave. It doesn't make sense to use the borrowed funds with the borrowed pool right?
+Dit is een beperkende instelling van Aave. Wanneer u gebruik maakt van een flitslening, neemt u de liquiditeit van Aave. Dat doet het niet heeft het toch zin om het geleende geld te gebruiken met de geleende pool?
 
-### How do I borrow from Aave?
+### Hoe leen ik bij Aave?
 
-Before borrowing, you need to deposit first any asset which will be used as collateral on Aave. Then, you can use the Aave borrow cube to borrow funds. Select the asset you want to borrow and set the amount you need based on your available deposits used as collateral for the loan.
+Voordat u gaat lenen, moet u eerst het als onderpand gebruikte actief op Aave storten. Vervolgens kunt u de Aave-leenkubus gebruiken om fondsen te lenen. Selecteer het actief dat u wilt lenen en stel het benodigde bedrag in op basis van uw beschikbare deposito's die als onderpand voor de lening worden gebruikt.
 
-### **How do I repay my debt on Aave?**
+### **Hoe betaal ik mijn schuld bij Aave terug?**
 
-You can simply use the Aave repay cube to repay your debt. Select the asset, set the amount to pay back, and confirm the transaction.
+U kunt eenvoudig de terugbetalen kubus van Aave gebruiken om uw schuld af te lossen. Selecteer het activum, stel het terug te betalen bedrag in en bevestig de transactie
 
-### **What are Borrow-Variable and Borrow-Stable options?**
+### **Wat zijn leen-variabele en leen-stabiele opties?**
 
 ![](../.gitbook/assets/2020furucombowrapped-copy-9.jpg)
 
-Borrow-Variable is a rate based on the offer and demand in Aave. It'll change depending on market conditions.
+De leenvariabele is een tarief op basis van vraag en aanbod in Aave. Het zal veranderen afhankelijk van de marktomstandigheden. 
 
-Borrow-Stable is a fixed rate in the short-term but can be re-balanced in the long-term in response to changes in market conditions.
+Lenen stabiel is een korte termijn vaste rente, maar kan op lange termijn worden aangepast in reactie op veranderingen in de marktomstandigheden.
 
-## ● Maker cubes
+## ● Maker kubussen
 
-### What is a vault?
+### Wat is een gewelf?
 
-The Maker Vault is a core component of the Maker Protocol, which facilitates the generation of DAI against locked up collateral. All DAI in circulation are created by Vaults. Vault usage collectively alters the total supply of DAI. Users create DAI by generating it against their collateral and in-turn destroy DAI when repaying their generated DAI balance. 
+De Maker Vault is een kerncomponent van het Maker Protocol, dat het genereren van DAI tegen vergrendeld onderpand vergemakkelijkt. Alle DAI die in omloop zijn, zijn gemaakt door Vaults. Vault-gebruik verandert gezamenlijk de hoeveelheid DAI. Gebruikers creëren DAI door het te genereren tegen hun onderpand en vernietigen op hun beurt DAI bij het terugbetalen van hun gegenereerde DAI-saldo.
 
-Vaults are not free to use and come with inherent risks. Generating DAI requires the payment of Stability Fees \(SF\). The SF is a variable rate and is subject to change based on the decisions of MKR Token holders through voting. 
+Gewelf zijn niet gratis te gebruiken en brengen inherente risico's met zich mee. Het genereren van DAI vereist de betaling van Stabiliteitsvergoedingen \(SF\). De SF is een variabel tarief en kan worden gewijzigd op basis van de beslissingen van MKR Token-houders door middel van stemmen.
 
-To reclaim collateral, users must repay the previously generated DAI and the accumulated SF.
+Om zekerheden te recupereren, moeten gebruikers de eerder gegenereerde DAI en opgebouwde SF terugbetalen.
 
-Vaults are required to be overcollateralized and have a Liquidation Ratio that Vault owners need to uphold to avoid the Liquidation of their Vaults. When a Vault is liquidated, a Liquidation Penalty is applied, and collateral is sold to repay the Vault's outstanding DAI balance. Additionally, a Debt Ceiling is imposed globally on the Maker Protocol, as well as individually on each Vault type.
+Vaults moeten overcollateralized zijn en een liquidatieratio hebben die Vault-eigenaren moeten handhaven om de liquidatie van hun Vaults te voorkomen. Wanneer een Vault wordt geliquideerd, wordt een liquidatieboete toegepast en wordt onderpand verkocht om het uitstaande DAI-saldo van de Vault terug te betalen. Daarnaast wordt er wereldwijd een schuldplafond opgelegd aan het Maker Protocol, maar ook individueel aan elk Vault-type.
 
-### Where do I get my vault number??
+### Waar haal ik mijn gewelf nummer vandaan??
 
-If you already have a vault, connect your wallet first and then choose any Maker cube except "New Vault". You will see your vault number displayed when you click the Vault \# blank.
+Als je al een gewelf hebt, verbind je portemonnee eerste en kies vervolgens een Maker-kubus behalve "Nieuwe gewelt". U ziet uw gewelf nummer weergegeven wanneer u op de gewelf klikt \#blank.
 
-If you use New Vault to create a vault. You will get the vault number after the combo is sent out successfully. Then you come back and choose any Maker cube except "New Vault" to see your vault number.
+Als u New Vault-kubus gebruikt om een gewelf te maken. U krijgt het gewelfnummer nadat de combo met succes is verzonden. Kom dan terug en kies een Maker-kubus behalve "Nieuwe gewelf" om je gewelfnummer te zien.
 
 ![](../.gitbook/assets/image%20%2832%29.png)
 
-Alternatively, you can visit [oasis.app](https://oasis.app) to see your vault number.
+### Wat is Oasis Trade?
 
-### What is Oasis Trade?
+Oasis Trade wordt gelanceerd door Maker. Het is een liquiditeitspool op de Ethereumblockchain. Simple Market en Matching Market slimme contracten zorgen voor de betrouwbare atomaire uitwisseling van ERC20-tokens zonder tegenrisico van derden.
 
-Oasis Trade is launched by Maker. It is a liquidity pool on the Ethereum blockchain. The Simple Market and Matching Market smart contracts provide for the trustless atomic exchange of ERC20 tokens without third party counter-risk.
+### Hoe kunt u profiteren van het verplaatsen van de CDP naar Compound?
 
-### How to profit from moving CDP to Compound?
+Dit is een COMBO voor gebruikers die al een kluis op Maker hebben, zodat ze de tokens gemakkelijk naar Compound kunnen verplaatsen. Het is niet per se een winstgevende COMBO. Meer als een COMBO voor activabeheer voor Maker.
 
-This is a combo for users who already have a vault on Maker to help them easily move the tokens to Compound. It's not necessarily a profitable combo. More as an asset management combo for Maker 
+## ● Curve kubussen
 
-## ● Curve cubes
+### Kan ik de pool kiezen om te ruilen?
 
-### Can I choose the pool to swap?
+Je kunt het zwembad op Curve niet kiezen. Wanneer u Curve's Swap Token-kubus gebruikt, kiest Curve automatisch de beste pool voor u.
 
-You are not able to choose the pool on Curve. When you use Curve's Swap Token cube, Curve automatically choose the best pool for you. 
+### Wat is de slippage ingesteld op Curve?
 
-### What is the slippage set up on Curve?
+De standaard is ingesteld op 3%.
 
-The default slippage is set at 3%.
+### Mijn Claim CRV-combinatie werkt niet
 
-### My Claim CRV combo doesn't work
+Wanneer je Claim CRV gebruikt, gaat het geclaimde CRV-token rechtstreeks naar je portemonnee. Dus als je de CRV-tokens in de volgende kubussen wilt gebruiken, moet je een "Add Funds"-kubus invoegen als de volgende kubus met CRV als invoer
 
-When you use Claim CRV, the claimed CRV token goes straight to your wallet. So, if you want to use the CRV tokens in the following cubes, you must insert an "Add Funds" cube as the next cube with CRV as inputs.
+## ● 1inch kubussen
 
-## ● 1inch cube
+### Ik kan het token dat ik wil niet vinden, maar ik kan het vinden op 1 inch
 
-### I can't find the token I want, but I can find it on 1inch
+Tokens op Furucombo worden geselecteerd door het Furucombo-team. Als je het gewenste token niet kunt vinden, laat het team dan weten op Discord \#feedbackchannel.
 
-Tokens on Furucombo are selected by Furucombo team. If you can't find the token you want, please let the team know on Discord \#feedback channel.
+### Wat is de slippage op die kubus van 1inch?
 
-### What is the slippage set up on 1inch cube?
+De standaard is ingesteld op 3%.
 
-The default slippage is set at 3%.
+### Ik gebruik 1inch in mijn combo, maar hij blijft maar zeggen dat het zal mislukken
 
-### I use 1inch in my combo but it keeps saying it will fail
+Er is een bekend inconsistent probleem bij het gebruik van 1 inch. Hier is een tijdelijke oplossing voor uw referentie:
 
-There's a known inconsitent issue for using 1inch. Here's a workaround solution for your reference:
+* Ga naar 1inch.exchange om te zien welke swapservice zij gebruiken in de route voor jouw
 
-* Go to 1inch.exchange to see  which swapping service they use in the route for your swapping pair. Say you see it goes through Uniswap V2
-* Come back to Furucombo and replace 1inch cube with Uniswap V2
+  swappaar. Stel dat je ziet dat het via Uniswap V2
 
-## ● Compound cubes
+* Kom terug naar Furucombo en vervang de kubus van 1 inch door Uniswap V2
 
-### How do I repay all debt on Compound?
+## ●  Compound kubussen
 
-Set a higher repay amount that exceeds debt and Furucombo will exactly repay all debt then return the rest of token to you.
+### Hoe betaal ik alle schulden op Compound terug?
 
-### How can I self-liquidate on Compound?
+Stel een hoger aflossingsbedrag in dat hoger is dan de schuld en Furucombo zal alle schulden exact terugbetalen en de rest van het token aan je teruggeven
 
-We have a [pre-built combo](https://furucombo.app/combo/bt49ulfm1503gp5r5keg?refreshPrice=1) for you, which you can also find it on our [Explore Page](https://furucombo.app/explore/combo_compound_00004) for your future revisit. 
+### Hoe kan ik liquideren op Compound?
 
-![use Compund tag to fast locate the combo](../.gitbook/assets/compound-self-liq.png)
+We hebben een [kant-en-klare combinatie](https://furucombo.app/combo/bt49ulfm1503gp5r5keg?refreshPrice=1) voor je, die je ook op onze [Explore-pagina](https://furucombo.app/explore/combo_compound_00004) kunt vinden voor toekomstig gebruik.
 
-### What are Compound smart cubes? \(Smart Borrow/ Smart Repay/ Smart Collect\)
+![gebruik de samengestelde tag om de combo snel te vinden](../.gitbook/assets/compound-self-liq.png)
 
-The smart cubes are advanced features on Furucombo and only users with a DSProxy smart wallet can use them. You can easily create a DSProxy smart wallet on Furucombo within 3 transactions, and you can skip 1 of them if you have ever created a vault on Maker or a smart wallet on DeFi Saver.
+### Wat zijn Compound slimme kubussen? \(Slim lenen/ Slim terugbetalen/ Slim incasseren\)
 
-![Smart wallet setup](https://miro.medium.com/max/2844/0*swwmMmF5NBoK2WRL)
+De slimme kubussen zijn geavanceerde functies op Furucombo en alleen gebruikers met een DSProxy slimme portemonnee kunnen gebruik ze. U kunt binnen 3 transacties eenvoudig een DSProxy smart wallet maken op Furucombo, en u kunt sla 1 over als je ooit een gewelf hebt gemaakt op Maker of een slimme portemonnee op DeFi Saver.
 
-Once you create the smart wallet and create your Compound collateral-and-debt position, you would see a dashboard for the position in the wallet tab, and you could then use the Compound smart cubes to manage the position.
+![Slimme portemonnee instellen](https://miro.medium.com/max/2844/0*swwmMmF5NBoK2WRL)
 
-![Compound smart wallet dashboard](https://miro.medium.com/max/2842/0*8zhkjxH6zYXzq70v)
+Nadat u de slimme portemonnee hebt gemaakt en uw Compound onderpand-en-schuldpositie hebt gemaakt, ziet u een positiedashboard op het tabblad Portefeuille en kunt u de Compound slimme kubussen gebruiken om de positie te bewaken en te beheren.
 
-## ● Kyberswap cube
+![Compound slim portemonnee-dashboard](https://miro.medium.com/max/2842/0*8zhkjxH6zYXzq70v)
 
-### I can't find the token I want, but I can find it on Kyberswap
+## ●  Kyberswap-kubus
 
-Tokens on Furucombo are selected by Furucombo team. If you can't find the token you want, please let the team know on Discord \#feedback channel.
+### Ik kan het token dat ik wil niet vinden op Furucombo, maar ik kan het wel vinden op Kyberswap
 
-### What's the slippage setup on Kyberswap?
+Tokens op Furucombo worden geselecteerd door het Furucombo-team. Als je het gewenste token niet kunt vinden, laat het team dan weten op Discord \#feedbackchannel.
 
-The default slippage is set at 3%.
+### Wat is de slippage-instelling op Kyberswap?
 
-## ● Balancer cubes
+De standaard is ingesteld op 3%.
 
-### I can't find the token/pool I want
+## ● Balancer kubussen
 
-Tokens on Furucombo are selected by Furucombo team. If you can't find the token you want, please let the team know on Discord \#feedback channel.
+### Ik kan de token/pool die ik wil niet vinden
 
-### How do I cross-examine the pool with Balancer?
+Tokens op Furucombo worden geselecteerd door het Furucombo-team. Als je het gewenste token niet kunt vinden, laat het team dan weten op Discord \#feedbackchannel.
 
-1️⃣ Check the first six digits of the pool address.
+### Hoe onderzoek ik het zwembad met Balancer?
+
+1️⃣ Controleer de eerste zes cijfers van het pooladres.
 
 ![](../.gitbook/assets/image%20%2819%29.png)
 
-2️⃣ Check the assets' weight in the pool
+2️⃣ Controleer het gewicht van de activa in de pool
 
 ![](../.gitbook/assets/image%20%2827%29.png)
 
-### What is Single-Asset and All-Assets options?
+### Wat zijn Single-Asset en All-Assets opties?
 
-When adding/removing liquidity to/from Balancer, you will see options of All Assets and Single Asset at the top. Let's take the WETH 50%/WBTC 50% pool as an example:
+Bij het toevoegen/verwijderen van liquiditeit aan/uit Balancer, ziet u de opties Alle activa en Enkele activa bovenaan. Laten we als voorbeeld de pool WETH 50%/WBTC 50% nemen:
 
 ![](../.gitbook/assets/image.png)
 
-* Add Liquidity - **All Assets**: You provide all the assets in the pool proportionally in the weights of the pool. 
-  * 👉 You send 1 WETH and 0.0285WBTC to Balancer and you receive 0.02283BPT token.
-* Add Liquidity - **Single Asset**: You only provide one type of token to the pool. Balancer will swap the token you provided proportionally to add liquidity into the pool.
-  * 👉 You send 1 WETH to Balancer and you receive 0.01105BPT token.
+* Liquiditeit toevoegen - **Alle activa**: U levert alle activa in de pool proportioneel in de gewichten van de pool. 
+  * 👉 Je stuurt 1 WETH en 0.0285WBTC naar Balancer en je ontvangt 0.02283BPT token
+* Liquiditeit toevoegen - **één activum**: u verstrekt slechts één type token aan de pool. Balancer zal het door u verstrekte token proportioneel omwisselen om liquiditeit aan de pool toe te voegen.
+  * 👉 Je stuurt 1 WETH naar Balancer en je ontvangt 0.01105BPT token.
 
-## ● B.Protocol cubes
+## ● B.Protocolkubussen
 
-[B.Protocol](https://app.bprotocol.org/app) is a backstop liquidity protocol built on top of DeFi lending platforms. Currently, Furucombo supports B.Protocol integration with Maker, and we will later expand to Compound and Aave.
+B.Protocol is een backstop-liquiditeitsprotocol dat bovenop DeFi-leningsplatforms is gebouwd. Momenteel ondersteunt Furucombo B.Protocol-integratie met Maker, en we zullen later uitbreiden naar Compound en Aave.
 
-### Where do I get my vault number??
+### Waar haal ik mijn gewelfnummer vandaan??
 
-If you already have a vault, connect your wallet first and then choose any B.Protocol cube except "New Vault". You will see your vault number displayed when you click the Vault \# blank.
+Als u al een gewelf heeft, sluit u eerst uw portemonnee aan en kiest u vervolgens een willekeurige B.Protocol-kubus behalve "Nieuwe gewelf". U ziet uw gewelfnummer weergegeven wanneer u op de gewelf \# blank.
 
-If you use New Vault to create a vault. You will get the vault number after the combo is sent out successfully. Then you come back and choose any B.Protocol cube except "New Vault" to see your vault number.
+Als u Nieuwe gewelf gebruikt om een gewelf te maken. U krijgt het gewelfnummer nadat de combo met succes is verzonden. Dan kom je terug en kies je een willekeurige B.Protocol-kubus behalve "Nieuwe gewelf" om je gewelfnummer te zien.
 
 ![](../.gitbook/assets/screen-shot-2021-06-04-at-5.10.25-pm.png)
 
-## ● Utility cubes
+## ● Nutskubussen
 
-### What is Send Token?
+### Wat is verzendtoken?
 
-As it says, Send Token cube lets you send token to your designated address. Some use case can be
+Zoals het zegt, kunt u met de Token-kubus een token naar het opgegeven adres sturen. Enkele use-cases kunnen zijn:
 
-* Send token to multiple addresses
-* Send multiple tokens to one address
-* Move all your dust tokens to another wallet
+* Token naar meerdere adressen verzenden
+* Stuur meerdere tokens naar één adres
+* Verplaats al je stoffiches naar een andere portemonnee
 
-### What is WETH?
+### Wat is WETH?
 
-When you "wrap" ETH, you aren't really wrapping so much as trading via a smart contract for an equal token called WETH. If you want to get plain ETH back you need to "unwrap" it. AKA trade it back for plain ETH.
+Wanneer u ETH "wikkelen", wikkelt u niet zozeer in als handel via een slim contract voor een gelijk token genaamd WETH. Als je gewone ETH terug wilt krijgen, moet je het "uitpakken". AKA ruilt het in voor gewone ETH.
 
-To learn more about WETH, visit[ weth.io](https://weth.io/)
+Ga voor meer informatie over WETH naar[ weth.io](https://weth.io/)
 
-### What is Add Funds?
+### Wat is Fondsen toevoegen?
 
-Add Funds cube is used when you need to send ETH or tokens to Furucombo **during the execution** of a combo. 
+De Add Funds-kubus wordt gebruikt wanneer u ETH of tokens naar Furucombo moet verzenden tijdens de uitvoering van een combo. 
 
-For example, when you wanna claim your CRV and sell them to DAI, you must use "Add Funds" to complete the combo. This is because when you claim CRV, the claimed CRV tokens go straight to your wallet but not Furucombo. In order to continue sending those CRV to Uniswap, you need to send the CRV to Furucombo first. See the correct setup below.
+Als u bijvoorbeeld uw CRV wilt claimen en deze wilt inwisselen voor DAI, moet u 'Fonds toevoegen' gebruiken om de Combo te voltooien. Dit komt omdat wanneer je CRV claimt, de geclaimde CRV-tokens rechtstreeks naar je portemonnee gaan, maar niet naar Furucombo. Om die CRV naar Uniswap te kunnen blijven sturen, moet je eerst de CRV naar Furucombo sturen. Zie hieronder de juiste opstelling.
 
 ![](../.gitbook/assets/image%20%2811%29.png)
 
-### What is Return Funds?
+### Wat is Return Funds?
 
-Return Funds cube is used when you want to send ETH or tokens back to your wallet **during the execution** of the combo. Although Furucombo sends all the funds back to users upon completing the execution of the combo, in some cases, Return Funds must be added to successfully execute the combo. 
+Return Funds-kubus wordt gebruikt wanneer u ETH of tokens naar uw portemonnee wilt retourneren tijdens de uitvoering van de Combo. Hoewel Furucombo alle fondsen terugstuurt naar gebruikers na het voltooien van de combo, moet in sommige gevallen Return Funds worden toegevoegd om de combo met succes uit te voeren.
 
-For example \(see below image\), you want to swap your collaterals on Compound, say cDAI to cETH. When you borrow ETH from flashloan and supply the ETH to Compound, the cETH you see in the second cube is actually sent to Furucombo's proxy. Your cDAI are locked until you have enough cETH supporting your debt, so here we need "Return Funds" cube which transfers cETH from Furucombo's proxy to your wallet. And in the next cube, you move your cDAI to Furucombo's proxy by "Add Funds" cube!
+U wilt bijvoorbeeld uw zekerheden op Compound ruilen \(zie onderstaande afbeelding\), bijvoorbeeld cDAI naar cETH. Wanneer je ETH leent van flashloan en de ETH aan Compound levert, wordt de cETH die je in de tweede kubus ziet, daadwerkelijk naar Furucombo's proxy gestuurd. Je cDAI is vergrendeld totdat je genoeg cETH hebt om je schuld te ondersteunen, dus hier hebben we de "Return Funds"-kubus nodig die cETH overdraagt van Furucombo's proxy naar je portemonnee. En in de volgende kubus verplaats je je cDAI naar Furucombo's proxy door "Add Funds" kubus!
 
-![Compound Collateral Swap](../.gitbook/assets/image%20%2821%29.png)
+![Compound onderpandswap](../.gitbook/assets/image%20%2821%29.png)
 
-### What is Gas Saver?
+### Wat is Gas Saver?
 
-Gas Saver cube is used when you have some CHI or GST2 tokens in your wallet. When you burn them \(esp at a high gas price\), you get a refund to make the gas cost much cheaper to execute than the same transaction that doesn't use GasToken. To learn more about gas token, check out the links below:
+Gas Saver-kubus wordt gebruikt wanneer u enkele CHI- of GST2-tokens in uw portemonnee heeft. Wanneer je ze verbrandt \(vooral tegen een hoge gasprijs\), krijg je een deel van de gaskosten terug, waardoor het goedkoper is dan dezelfde transactie zonder GasToken. Bekijk de onderstaande links voor meer informatie over gastokens:
 
 * [GasToken.io](https://gastoken.io/#:~:text=GasToken%20is%20a%20new%2C%20cutting,gas%20when%20it%20is%20expensive.)
 * [CHI token by 1inch ](https://medium.com/@1inch.exchange/everything-you-wanted-to-know-about-chi-gastoken-a1ba0ea55bf3)
 
-## 🧠 Arbitrage strategies
+## 🧠 Arbitrage strategieën
 
-### What is arbitrage?
+### Wat is arbitrage?
 
-In many ways, crypto arbitrage is just like fiat or sports arbitrage. The main idea here is simple: you try to benefit from price differences for the same asset on different markets or exchanges. 
+In veel opzichten is crypto-arbitrage net als fiat- of sportarbitrage. Het belangrijkste idee hier is eenvoudig: u probeert te profiteren van prijsverschillen voor hetzelfde activum in verschillende markten of beurzen.
 
-Investopedia describes arbitrage as “the simultaneous purchase and sale of an asset to profit from an imbalance in the price. It is a trade that profits by exploiting the price differences of identical or similar financial instruments on different markets or in different forms.”
+Investopedia beschrijft arbitrage als "de gelijktijdige aan- en verkoop van een actief om te profiteren van een prijsonevenwichtigheid. Het is een transactie die winst maakt door gebruik te maken van de prijsverschillen van identieke of vergelijkbare financiële instrumenten in verschillende markten of in verschillende vormen."
 
-In other words, **buy low and sell high**! 
+Met andere woorden, **koop laag en verkoop hoog!**
 
-Related reads: 
+Verwante lectuur: 
 
-* [Arbitrage in DeFi by The Block](https://www.theblockcrypto.com/post/45750/exploring-defi-trading-strategies-arbitrage-in-defi)
+* [Arbitrage in DeFi door The Block](https://www.theblockcrypto.com/post/45750/exploring-defi-trading-strategies-arbitrage-in-defi)
 
-### What does a profitable combo look like?
+### Hoe ziet een winstgevende combo eruit?
 
 ![](../.gitbook/assets/profitable.png)
 
-* There is **no** initial funds
+* Er is geen initiële fondsen
 
 {% hint style="danger" %}
-If you see initial funds section appears, that means this is not a profitable combo. The worst case is that you lose the initial funds and get nothing back. 
+Als u de initiële fondsensectie ziet verschijnen, betekent dit dat dit geen winstgevende combo is. Het ergste geval is dat u het initiële fondsen verliest en niets terugkrijgt.
 {% endhint %}
 
-* You will receive
-  * Assets shown in this section are profits from the combo.
+* Jij ontvangt
+  * Activa die in deze sectie worden getoond, zijn winsten uit de Combo.
 
-### How to make a profitable combo?
+### Hoe maak je een winstgevende combo?
 
-* First and foremost, you need to find an arbitrage opportunity. 
-* Taking gas costs into consideration, arbitrage combos cost more than average combos due to the complexity of the actions. This is a primary cost factor influencing the profitability of the trade.
-* Remember there are many bots front-running trades at all times. So there's a chance that your combo may be front-ran by bots.
-* Arbitrage combos have a higher chance to fail as the combo setup usually has a high dependency on each cubes' outputs. That being said, once the opportunity vanishes, your combo fails and you lose the gas fee you just pay. 
+* Allereerst moet u een arbitragemogelijkheid vinden.
+* Rekening houdend met de gaskosten, kosten arbitragecombo's meer dan gemiddelde combo's vanwege de complexiteit van de acties. Dit is een primaire kostenfactor die de winstgevendheid van de handel beïnvloedt.
+* Onthoud dat er altijd veel front-running transacties van bots zijn. Er is dus een kans dat uw Combo-arbitragemogelijkheid door de bots wordt uitgebuit.
+* Arbitrage combo's zullen eerder mislukken omdat de Combo-configuratie meestal sterk afhankelijk is van de uitvoer van elke kubus. Dat gezegd hebbende, als de kans voorbij is, zal uw Combo falen en verliest u de gasprijs die u hebt betaald. 
 
-## 👛 Wallet
+## 👛 Portemonnee
 
-### I don't see Coinbase wallet in the menu
+### Ik zie de Coinbase-portemonnee niet in het menu
 
-If you don't see Coinbase Wallet, click Wallet Connect and scan the QR code with your Coinbase Wallet app.
+Als u Coinbase Wallet niet ziet, klikt u op Wallet Connect en scant u de QR-code met uw Coinbase Wallet-app.
 
-### Can I use MetaMask on Brave?
+### Kan ik MetaMask op Brave gebruiken?
 
-Follow [this tutorial](https://www.loom.com/share/bee83b1e0d724779aa4d22c9d8a242c0) to let Furucombo connect your MetaMask on Brave.
+[Volg deze tutorial](https://www.loom.com/share/bee83b1e0d724779aa4d22c9d8a242c0) om Furucombo je MetaMask op Brave te laten verbinden.
 
-The reason behind this is because Brave just update their setting on how to connect "Web3 provider for using Dapps".  
+De reden hierachter is dat Brave zojuist hun instellingen heeft bijgewerkt om verbinding te maken met een "Web3-provider voor het gebruik van Dapps".  
 ​  
-We will keep investigating this issue and make sure it is up to date.
+We zullen dit probleem blijven onderzoeken en ervoor zorgen dat het up-to-date is.
 
-### I can not connect to the platform
+### Ik kan geen verbinding maken met het platform
 
-* Make sure to select the correct network \(Ethereum Mainnet\), normally on the wallet provider you can switch the network on the settings options.
-* On Ledger natively or over Metamask:
-  * Make sure to unlock and select Ethereum app.
-  * Make sure Contract data is allowed on the Ethereum app settings.
+* Zorg ervoor dat je het juiste netwerk selecteert \(Ethereum Mainnet\), normaal gesproken staat de wallet provider je toe om via de instellingen van netwerk te wisselen.
+* Op Ledger native of via Metamask:
+  * Zorg ervoor dat u de Ethereum-app ontgrendelt en selecteert.
+  * Zorg ervoor dat contractgegevens zijn toegestaan in de instellingen van de Ethereum-app.
 * Coinbase
-  * Use the scan QR code to connect.
+  * Scan de QR-code om verbinding te maken.
 * Wallet connect
-  * Use the scan QR code to connect
+  * Scan de QR-code om verbinding te maken.
 * Fortmatic
-  * Make sure to switch to Ethereum Mainnet.
+  * Zorg ervoor dat u overschakelt naar Ethereum Mainnet.
 
 ## ⛽️ Gas
 
-### Why is the gas fee so high?
+### Waarom zijn de gaskosten zo hoog?
 
-It depends on how many cubes you use and how busy the Ethereum network is. You can click “Send” button to estimate the gas cost. Your wallet \(e.g. MetaMask\) will pop up and tell you how much you may spend on the gas fee.
+Het hangt af van hoeveel kubussen je gebruikt en hoe druk het Ethereum-netwerk is. U kunt op de knop "Se-n-d" klikken om de gaskosten te schatten. Uw portemonnee \(bijv. MetaMask\) zal verschijnen en u vertellen hoeveel het Combo-gas kost.
 
-### Can I know how much gas before send?
+### Kan ik weten hoeveel de gaskosten zijn voordat ik op verzenden klik?
 
-Unfortunately, you are not able to get the estimate of gas before hitting the send button.
+Helaas kunt u geen schatting van het gas krijgen voordat u op de verzendknop drukt.
 
-### How can I set up the gas price?
+### Hoe kan ik de gasprijs instellen?
 
-You can adjust gas price and gas limit when using MetaMask wallet. Upon hitting the send button, you'll see a MetaMask pop-up. Click "EDIT" then you will see choices of speed. 
+U kunt de gasprijs en gaslimiet aanpassen bij gebruik van de MetaMask-portemonnee. Wanneer u op de verzendknop drukt, ziet u een MetaMask-pop-up. Klik op "EDIT" dan ziet u keuzes van snelheid.
 
-To customize the transaction fee, select Advanced Options:
+Selecteer Geavanceerde opties om de transactiekosten aan te passen:
 
-You can manually enter Gas Price \(GWEI\) and Gas Limit.  You can also click on the Live Gas Predictions graph.
+U kunt Gasprijs \(GWEI\) en Gaslimiet handmatig invoeren. U kunt ook op de grafiek Live Gas Forecasts klikken.
 
 ![](../.gitbook/assets/image%20%289%29.png)
 
-### Should I reduce gas limit?
+### Moet ik de gaslimiet verlagen?
 
-No, you shouldn't. The gas limit is the budget of the transaction. The unused gas will be refunded to your wallet. However, if the gas costs more than your gas limit, everything will be reverted but the gas will NOT be returned.
+Nee, dat zou je niet moeten doen. De gaslimiet is het budget van de transactie. Het ongebruikte gas gaat terug naar uw portemonnee. Als het gas echter meer kost dan uw gaslimiet, wordt alles teruggedraaid maar wordt het gas NIET geretourneerd.
 
-## 📖 Other FAQs
+## 📖 Andere veelgestelde vragen
 
-### How do I adjust initial funds?
+### Hoe pas ik initiële fondsen aan?
 
-The amount of initial funds is auto-updated.
+Het bedrag van de initiële fondsen wordt automatisch bijgewerkt
 
-You just need to adjust the numbers in the cubes, then the required amount of initial fund would be updated accordingly.
+U hoeft alleen de cijfers in de kubussen aan te passen, waarna het vereiste bedrag van het initiële fonds dienovereenkomstig wordt bijgewerkt.
 
-### Why do I need to sign two times?
+### Waarom moet ik twee keer tekenen?
 
-Normally you need to send 2 transactions to process a non-ETH token transfer.  
-For example, If you want to swap DAI to COMP, you have to sign twice on your wallet:
+Normaal gesproken moet u 2 transacties verzenden om een niet-ETH-tokenoverdracht te verwerken. Als u bijvoorbeeld DAI wilt omwisselen naar COMP, moet u twee keer goedkeuren in uw portemonnee:
 
-1. Approve: to grant Furucombo the permission to move your tokens.
-2. Send: to execute your transaction. In this example, to swap your DAI to COMP.
+1. Goedkeuren: Om Furucombo toe te staan je tokens te verplaatsen
+2. Verzenden: om uw transactie te verzenden. In dit voorbeeld, om uw DAI over te schakelen naar COMP.
 
-### How many times do I have to approve?
+### Hoe vaak moet ik goedkeuren?
 
-It depends on what tokens you have and what cubes you are going to use.
+Het hangt af van welke tokens je hebt en welke kubussen je gaat gebruiken.
 
-The number of times you need to approve is based on how many conditions below are met, and how much the amount of approved ERC-20 tokens that you grant Furucombo to move.
+Het aantal keren dat je moet goedkeuren is gebaseerd op het aantal voorwaarden hieronder en het aantal goedgekeurde ERC-20 tokens dat je Furucombo geeft om te verplaatsen.
 
-* First time to use ERC20 tokens as initial funds
-* First time to use any of the below cubes:
-  * Maker withdraw
-  * Maker Generate
-  * Curve Stake
-  * Curve Claim
+* Eerste keer dat ERC20-tokens als initiële fondsen worden gebruikt
+* De eerste keer dat u een van de onderstaande kubussen gebruikt:
+  * Maker terugtrekken
+  * Maker genereren
+  * Curve storting
+  * Curve claim
 
-Amount of the approved ERC-20 token:
+Bedrag van het goedgekeurde ERC-20-token:
 
-* For safety considerations, the default ERC-20 token amount of approval will be precisely the amount spent on Furucombo.
-* You can custom a higher token amount of approval as well. By doing so, before the amount of token approval limit running out, you don't need to send out other approval transactions of the token.
-  * MetaMask - when approving Furucombo to spend your tokens, you can click "Edit Permission" to custom a higher spend limit. 
-  * Please note that the transaction will fail if you adjust it to a fewer approval limit.
+* Om veiligheidsredenen is het standaard ERC-20-tokenbedrag van goedkeuring precies het bedrag dat aan Furucombo wordt uitgegeven.
+* U kunt ook een hoger tokengoedkeuringsbedrag aanpassen.Hierdoor hoeft u geen andere tokengoedkeuringstransacties te verzenden voordat de tokengoedkeuringslimiet is verstreken.
+  * MetaMask - wanneer u Furucombo goedkeurt om uw tokens uit te geven, kunt u op "Toestemming bewerken" klikken om een aangepaste hogere bestedingslimiet in te stellen.
+  * Houd er rekening mee dat de transactie zal mislukken als u deze aanpast aan een lagere goedkeuringslimiet.
 
 ![Setting Spend limit permission on MetaMask](../.gitbook/assets/jie-tu-20210304-xia-wu-1.42.39.png)
 
-Examples:
+Voorbeelden:
 
-* First-time user Alice's combo: Swap ETH to DAI
-  * No need to approve \(ETH is not an ERC-20 token\)
-* First-time user Bob's combo: Swap $500 DAI to ETH
-  * Need to approve once for DAI
-  * And he adjusts the DAI's Spend Limit on Furucombo to $1000.
-* Bob's 2nd combo: Swap $200 DAI to COMBO
-  * No need to approve \(Because he still has the rest $500 amount of DAI approval limit.\)
-* Bob's 3rd combo: Deposit WBTC to Maker and Generate DAI
-  * Need to approve twice \(Once for WBTC, Once for Maker Generate\)
+* Alice's Combo voor de eerste keer: wissel ETH om naar DAI
+  * Geen goedkeuring vereist \(ETH is geen ERC-20-token\)
+* Bob's Combo voor de eerste keer: wissel $ 500 DAI om naar ETH
+  * Eenmalig goedkeuren voor DAI
+  * En hij stelt de bestedingslimiet van de DAI voor Furucombo bij tot $ 1000.
+* Bob's 2e combo: ruil $ 200 DAI in voor COMBO
+  * Geen goedkeuring nodig \(omdat hij nog steeds de resterende $ 500 aan DAIgoedkeuringslimiet heeft.\)
+* Bob's 3e combo: stort WBTC op Maker en genereer DAI
+  * Twee keer goedkeuren \(één keer voor WBTC, één keer voor Maker Generate\)
 
-### Why does it keep saying my transaction will fail?
+### Waarom blijft het zeggen dat mijn transactie zal mislukken?
 
-In most cases, it's because the price has changed and you need to update the numbers.
+In de meeste gevallen is dit omdat de prijs is gewijzigd en u de cijfers moet bijwerken.
 
-If you use flash loan cubes and see the error message, it means that you need to update the numbers of the cubes within the flash loan pair.
+U wilt bijvoorbeeld 1 ETH inwisselen voor DAI en vervolgens DAI toevoegen aan Curve pool als Liquidity Provider \(LP\):
 
-### Why did my transaction fail?
+Goede COMBO:
 
-In most cases, it's because the price changed which making your combo too far from your original set. You can avoid this kind of failure by leaving more room for slippage:
+* Kubus 1: Ruil 1 ETH in voor 400 DAI
+* Kubus 2: 380 DAI toevoegen aan Curve Pool
 
-For example, you want to swap 1 ETH to DAI, then add DAI to Curve pool as a Liquidity Provider \(LP\): 
+Slechte COMBO:
 
-Good combo:
+* Kubus 1: Ruil 1 ETH in voor 400 DAI
+* Kubus 2: 400 DAI toevoegen aan Curve Pool
 
-* Cube 1: swap 1 ETH to 400 DAI
-* Cube 2: add 380 DAI to Curve pool
+Wanneer u 400DAI invoert in Cube 2, zal uw transactie mislukken zodra het swapresultaat in Cube 1 u minder dan 400DAI geeft, wat niet ongebruikelijk is. Een verschil laten in de invoer van de 2e kubus kan de kans op succes enorm vergroten. In het voorbeeld van 'Goede combo' zou de transactie alleen mislukken als de ETH-prijs onder $ 380 \(&gt; 5%\) daalt tussen het moment dat u de combo instelt en verzendt.
 
-Bad combo:  
+De functie Geketende invoer gebruiken om slippen te voorkomen:
 
-* Cube 1: swap 1 ETH to 400 DAI 
-* Cube 2: add 400 DAI to Curve pool
+Geketende invoerfunctie - waardoor kubussen automatisch het on-chained resultaat van de vorige kunnen vastleggen om de handelsefficiëntie te optimaliseren. Met slechts één klik op de knop "Vorige uitvoer" kunt u 100% vol gebruiken gewisseld bedrag in een kubus om onmiddellijk te communiceren met uw volgende handelsacties.
 
-When you enter 400DAI in Cube 2, your transaction will fail once the swapping result in Cube 1 gives you less than 400DAI, which is not uncommon. Leaving a difference in the 2nd cube input can increase the chance of success significantly. In the "Good combo" example, the transaction would only fail when ETH price drops below $380 \(&gt; 5%\)  between the time you set the combo and send it out.  
-  
-Using Chained input feature to avoid slippage: 
+### Waarom kan ik niet verzenden, zelfs als ik weet dat het zal mislukken?
 
-* Chained input feature - enabling cubes to auto-capture the previous one's on-chained result to optimize the trading efficiency. With just one click of a "Prev Output" button, you can use 100% entirely swapped amount in a cube to interact instantaneously with your following trading actions.
+Het is een mechanisme om te voorkomen dat je gemakkelijk geld verliest.
 
-### Why can't I send even I know it will fail?
+### Hoe annuleer ik mijn lopende transactie?
 
-It's a mechanism to prevent you from losing money easily.
+U kunt de knop "annuleren" in de app gebruiken als u MetaMask of Trust gebruikt. Voor andere portefeuilles kunt u hun officiële websites raadplegen voor meer informatie. Als alternatief kunt u ook een andere transactie verzenden met dezelfde portemonnee en een keer met een hogere gasprijs.
 
-### How do I cancel my pending transaction?
+### Mijn transactie zit vast in afwachting van bevestiging
 
-You can use the "cancel" button in-app if you are using MetaMask or Trust. For other wallets, you can check their official websites for more details. Alternatively, you can also send another transaction with the same wallet and **same** **nonce** with a higher gas price. 
+Zorg er in dit geval voor dat u geen transacties blijft verzenden. Elke nieuwe transactie blijft hangen totdat de oudste transactie is bevestigd. U kunt de vastgelopen transactie verwijderen door deze te versnellen of te annuleren, afhankelijk van of de portemonnee die u gebruikt die optie standaard heeft. Metamask of Trust-portemonnee hebben bijvoorbeeld beide opties om transacties te annuleren of te versnellen.
 
-### My transaction is stuck pending confirmation
+Als uw portemonnee-provider geen versnelde of annuleringsoptie heeft, kunt u de vastgelopen transactie nog steeds laten vallen door een 0 ETH-transactie naar uw adres \(naar uzelf\) te sturen met dezelfde nonce \(nummer-ID\). U kunt de nonce in uw transactie op [Etherscan](https://etherscan.io/) inspecteren en services zoals [MEW](https://www.myetherwallet.com/) en [MyCrypto](https://mycrypto.com/) gebruiken om deze transactie met hogere gaskosten te verzenden en de vastgelopen transactie te vervangen.
 
-In this situation make sure to not keep sending transactions. Every new transaction will be stuck pending until the oldest transaction is confirmed. You can get rid of the stuck transaction by speeding it up or canceling it, depending on if the wallet you are using you has natively that option. For example, Metamask or Trust wallet have both the options to cancel or speed up transactions. 
+### Ik kan niet op de verzendknop drukken
 
-Alternatively, if your wallet provider doesn't have a speed-up or cancel option, you can still drop the stuck transaction by sending a 0 ETH transaction to your address \(to yourself\) using the same nonce \(number id\). You can inspect the nonce in your transaction on [Etherscan ](https://etherscan.io)and use services like [MEW ](https://www.myetherwallet.com/)and [MyCrypto ](https://mycrypto.com/)to send this transaction with higher gas cost and replace the stuck one. 
+Probeer uw portemonnee opnieuw te aansluiten.
 
-### I can not press the send button
+### Ik weet niet wat ik moet bouwen, is er een voorbeeld Combo?
 
-Try to reconnect your wallet.
+Bezoek de [Explore-pagina](https://furucombo.app/explore) om wat inspiratie op te doen.
 
-### I don't know what to build, is there any example combo
+### Hoe sla ik mijn combo op?
 
-Visit [Explore Page](https://furucombo.app/explore) to get some inspirations. 
-
-### How do I save my combo?
-
-When you set up a combo, click the chain icon underneath the send button. Thank you'll get a link to the current combo.
+Klik bij het opzetten van een combo op het kettingpictogram onder de verzendknop. Dat geeft je een link naar de huidige Combo.
 
 ![](../.gitbook/assets/image%20%2820%29.png)
 
-### How do I share my combo?
+### Hoe deel ik mijn combo?
 
-When you set up a combo, there will be a “share” link at the bottom, click the chain icon to get the link or click the Twitter icon to share it on Twitter.
+Wanneer je een combo instelt, zal er onderaan een "deel"-link zijn, klik op het kettingpictogram om de link te krijgen of klik op het Twitter-pictogram om het op Twitter te delen.
 
 ![](../.gitbook/assets/image%20%2815%29.png)
 
-### I refresh price and it still says it will fail
+### Ik ververs de prijs en er staat nog steeds dat het zal mislukken
 
-In most cases, it's because the price changed again and you need to update the numbers.
+In de meeste gevallen is dit omdat de prijs weer is gewijzigd en u de cijfers moet bijwerken.
 
-Furthermore, if you are using 1inch cube and see this error message several times, try to use another swapping cube to get a more stable quotation. 
+Als u bovendien een kubus van 1 inch gebruikt en deze foutmelding meerdere keren ziet, probeer dan een andere wisselkubus te gebruiken om een stabielere prijsopgave te krijgen.
 
-### The site does not load
+### De site wordt niet geladen
 
-The following steps may solve your problems:
+De volgende stappen kunnen uw problemen oplossen:
 
-* If you use Brave browser, switch to another browser to discard the issues from the browser. If it is related with Brave browser, some actions to take that may help are:
-  * Clearing cache data and cookies for the site
-  * Hard refresh with control + F5 \(or cmd + r\)
-  * Disable brave wallet \(or the not default wallet been used, for example, metamask, dapper etc\)
-  * Or other extensions that might be interfering with proper connection with the wallet
-  * If after trying all the above steps, it still keeps failing. Unfortunately, we suggest you access Furucombo using other browser as those incompatibilities come from Brave browser.
-* Make sure your internet connection is working and is stable
-* Restart the browser and try to connect again
-* Try to hard refresh the site with control + F5
-* Check if there is any update for your browser or wallet provider used, if so, update it to the latest version.
+* Probeer cachegegevens en cookies voor de site te wissen 
+* Hard verversen met control + F5 \(of cmd + r\) 
+* Probeer Furucombo met een andere browser te gebruike
 
 ### 
 

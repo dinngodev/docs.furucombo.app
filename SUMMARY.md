@@ -6,8 +6,8 @@
 ## Using Furucombo <a id="using-furucombo-1"></a>
 
 * [Combo Page](using-furucombo-1/combo-page.md)
-* [Explore Page](using-furucombo-1/explore-page.md)
-* [Decombo Page](using-furucombo-1/decombo-page.md)
+* [Verken pagina](using-furucombo-1/explore-page.md)
+* [Decombo-pagina](using-furucombo-1/decombo-page.md)
 * [Tutorials](using-furucombo-1/tutorials/README.md)
   * [Beginner’s Guide](using-furucombo-1/tutorials/beginners-guide.md)
   * [How to Stake for Liquidity Mining](using-furucombo-1/tutorials/how-to-stake-for-liquidity-mining.md)
