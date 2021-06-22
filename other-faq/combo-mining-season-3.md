@@ -16,7 +16,7 @@ Season 2 of COMBO mining has ended and we have collected excellent feedback and 
 📅  Begins: June 24 2021, 3 AM \(UTC\)  
 💰  Weekly total rewards: 7,000 $MATIC+14,000 $COMBO  
 🏃  Goal: Using [Furucombo](https://furucombo.app/) on Polygon AMAP!  
-🍕  Polygon Pizza can boost rewards by 1.2x! \([5th-week challenge](https://docs.furucombo.app/other-faq/combo-mining-season-3)\)  
+🍕  Polygon Pizza can boost rewards by 1.2x! \(5th-week challenge pizza\)  
 [👉  **More info**](https://docs.furucombo.app/other-faq/combo-mining-season-3-usage-farming-on-polygon)\*\*\*\*
 {% endhint %}
 
