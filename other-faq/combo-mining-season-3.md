@@ -69,7 +69,7 @@ This time we collaborate with our best fren [Lootex](https://lootex.io/stores/fu
 
   - When: June 10 2021, 3:00 AM \(UTC\) — June 17 2021, 3:00 AM \(UTC\)
 
-  - What: There will be 30 limited NFTs for the winners in week 5. These NFT holders can boost their rewards starting from week 6. \*\*This week’s NFT also has a special utility function, we’ll announce how to use it soon! Stay tuned!
+  - What: There will be 30 limited NFTs for the winners in week 5. These NFT holders can boost their rewards starting from week 6. [\*\*This week’s NFT can be used to boost your usage farming rewards on Polygon.](https://docs.furucombo.app/other-faq/combo-mining-season-3-usage-farming-on-polygon)
 
 * **6th-week challenge: using the Curve cubes on the Polygon network 🌈🌈🌈**
 
