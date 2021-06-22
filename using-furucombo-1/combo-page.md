@@ -1,4 +1,4 @@
-# Combo Page
+# Combo Pagina
 
 ## ● Synthetix-kubussen
 
@@ -440,5 +440,7 @@ De volgende stappen kunnen uw problemen oplossen:
 * Hard verversen met control + F5 \(of cmd + r\) 
 * Probeer Furucombo met een andere browser te gebruike
 
-### 
+
+
+> 🧊 Special thanks to [blackcatx](https://twitter.com/gaintodayx) for translating this page.
 

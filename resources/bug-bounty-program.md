@@ -2,56 +2,60 @@
 description: Furucombo Bug Bounty Program
 ---
 
-# Bug Bounty Program
+# Bug Bounty-Programma
 
-### **Program Overview**
+### **Programma overzicht**
 
-The Furucombo team has been seeking to combine the merits of every kind of DeFi protocol to create the most comprehensive DeFi aggregator platform on Ethereum. The structure of Furucombo is composed of Proxy Contract and Handler Contracts. The security of our system is of paramount importance to us. While we keep conducting professional audits for the whole system, a bug bounty program is necessary to further ensure the platform’s safety.
+Het Furucombo-team heeft geprobeerd de verdiensten van elk type DeFi-protocol te combineren om het meest uitgebreide DeFi-aggregatorplatform op Ethereum te creëren. De structuur van Furucombo bestaat uit Proxy Contract en Handler Contracts. De veiligheid van ons systeem is onze topprioriteit. Hoewel we professionele systeembrede audits zullen blijven uitvoeren, is een bugbounty-programma nodig om de veiligheid van het platform verder te waarborgen.
 
-This program is intended to work with independent security researchers across the globe and set out our definition of good faith in the context of finding and reporting vulnerabilities, as well as what users can expect from us in return. Should you encounter a security vulnerability in one of our products, we want to hear from you. We believe that the Furucombo ecosystem will be further bolstered with support from our community.
+Dit programma is ontworpen om samen te werken met onafhankelijke beveiligingsonderzoekers over de hele wereld en om onze definitie van goede trouw in de context van het vinden en rapporteren van kwetsbaarheden uit te leggen, evenals wat gebruikers in ruil daarvoor van ons kunnen verwachten. Mocht u een beveiligingsprobleem tegenkomen in een van onze producten, dan horen wij dat graag van u. Wij geloven dat het Furucombo-ecosysteem verder zal worden versterkt met de steun van onze gemeenschap.
 
-### **Scope**
+### **Toepassingsgebied**
 
-The scope of the bug bounty will be applicable for the following repositories and sites:
+De bug bounty is van toepassing op de volgende repositories en sites:
 
 * [https://furucombo.app/](https://furucombo.app/)
 * [https://github.com/dinngodev/furucombo-contract](https://github.com/dinngodev/furucombo-contract)
 
-Note: Other issues found outside of the locations mentioned above, will be considered on a case by case basis, please, reach out to the Furucombo development team for clarification.
+Opmerking: andere problemen die buiten de bovenstaande locaties worden gevonden, worden per geval bekekencase. Neem contact op met het ontwikkelingsteam van Furucombo voor opheldering.
 
-### **Rewards**
+### **Beloningen**
 
-The value of rewards will vary depending on severity as judged by the Furucombo team. The severity of a bug will be assessed according to [the OWASP risk rating model](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology#:~:text=Discovering%20vulnerabilities%20is%20important%2C%20but,business%20is%20just%20as%20important.&text=This%20system%20will%20help%20to,that%20are%20less%20well%20understood.) based on Impact and Likelihood:
+De waarde van beloningen hangt af van de ernst, zoals beoordeeld door het Furucombo-team. De ernst van een bug wordt beoordeeld volgens het [OWASP-risicobeoordelingsmodel](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology#:~:text=Discovering%20vulnerabilities%20is%20important%2C%20but,business%20is%20just%20as%20important.&text=This%20system%20will%20help%20to,that%20are%20less%20well%20understood.) op basis van Impact en Waarschijnlijkheid:
 
-* Note: Up to $100 USD
-* Low: $100 — $1,000 USD
-* Medium: $1,000 — $5,000 USD
-* High: $5,000 — $20,000 USD
-* Critical: $20,000 — $250,000 USD
+* Opmerking: tot $ 100 USD
+* Laag: $ 100 - $ 1.000 USD
+* Gemiddeld: $ 1.000 - $ 5.000 USD
+* Hoog: $ 5.000 - $ 20.000 USD
+* Kritiek: $ 20.000 - $ 250.000 USD
 
 ![](../.gitbook/assets/0_gq46hq7nbtpxrp30.png)
 
-Furucombo team determines the eligibility of vulnerability, scores, and whether a reward is granted at its sole and own discretion. The payouts will be denominated in USD and be paid in COMBO tokens.
+Het Furucombo-team bepaalt naar eigen goeddunken of kwetsbaarheid, scores en of een beloning wordt toegekend, in aanmerking komen. De uitbetalingen worden uitgedrukt in USD en worden betaald in COMBO-tokens.
 
-### **Disclosure**
+### **Openbaarmaking**
 
-Any vulnerability or bug discovered must be reported **only** to the following email: **security@dinngo.co**
+Elke ontdekte kwetsbaarheid of bug mag alleen worden gemeld aan het volgende e-mailadres: **security@dinngo.co**
 
-* Please do not disclose any vulnerability or bug to the public or to any person.
-* Please limit each submission to one issue.
-* Please provide sufficient detail in your disclosure, including a description of the bug, its potential impact, and steps for reproducing it or proof of concept, to enable the Furucombo team to quickly understand, reproduce, and address the vulnerability promptly.
+* Maak a.u.b. geen enkele kwetsbaarheid of bug bekend aan het publiek of aan een persoon.
+* Beperk elk item tot één probleem.
+* Geef voldoende details in uw openbaarmaking, inclusief een beschrijving van de bug, de mogelijke impact en stappen om deze te reproduceren of proof of concept, zodat het Furucombo-team de kwetsbaarheid snel kan begrijpen, reproduceren en aanpakken.
 
-A detailed report of a vulnerability increases the likelihood of a reward and may increase the reward amount.
+Een gedetailleerde melding van een kwetsbaarheid vergroot de kans op een beloning en kan het beloningsbedrag verhogen.
 
-### **Rules for the Bounty**
+### **Regels voor de Bounty**
 
-* Identify an original, previously unreported, non-public vulnerability within the scope of the Furucombo bug bounty program.
-* Provide sufficient information to reproduce the problem to enable the Furucombo team to address the issue.
-* Do not exploit the vulnerability in any way, including through making it public or by obtaining a profit.
-* Duplicated issues are not eligible for reward. The first submission would be the eligible one.
-* Avoid privacy violations, destruction of data, interruption, degradation, or any malicious attack on Furucombo.
+* Identificeer een originele, voorheen niet bekendgemaakte, niet-openbare kwetsbaarheid in het kader van het Furucombo bug bounty-programma.
+* Geef voldoende informatie om het probleem te reproduceren, zodat het Furucombo-team het probleem kan oplossen.
+* Maak op geen enkele manier misbruik van de kwetsbaarheid, ook niet door deze openbaar te maken of winst te maken.
+* Dubbele nummers komen niet in aanmerking voor een beloning. De eerste inzending zou de in aanmerking komende inzending zijn
+* Voorkom privacyschendingen, gegevensvernietiging, onderbrekingen, degradatie of kwaadaardige aanvallen op Furucombo.
 
 {% hint style="warning" %}
-_Breaking or neglecting any of the rules mentioned above will be a violation of the Furucombo Bug Bounty Program. Furucombo reserves the right to modify or cancel the program at Furucombo’s sole discretion and at any time._
+Het overtreden of verwaarlozen van een van de hierboven genoemde regels is een overtreding van het Furucombo Bug Bounty-programma. Furucombo behoudt zich het recht voor om het programma naar eigen goeddunken en op elk moment te wijzigen of te annuleren.
 {% endhint %}
+
+
+
+> 🧊 Special thanks to [blackcatx](https://twitter.com/gaintodayx) for translating this page.
 

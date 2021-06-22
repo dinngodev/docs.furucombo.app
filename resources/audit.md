@@ -1,69 +1,73 @@
-# Audit Report
+# Auditrapport
 
-Furucombo is composed of [Proxy Contract](https://etherscan.io/address/0xA013AfbB9A92cEF49e898C87C060e6660E050569) & Handler Contracts. We keep conducting audits for all of our Smart Contracts and Handler Contracts to enhance the security of the Furucombo system.
+Furucombo is samengesteld uit [Proxy Contract](https://etherscan.io/address/0xA013AfbB9A92cEF49e898C87C060e6660E050569) & Handler Contracts. We zullen doorgaan met het controleren van al onze Smart Contracts en Handler Contracts om de beveiliging van het Furucombo-systeem te verbeteren.
 
-## **Furucombo Audits**
+## **Furucombo Auditrapport**
 
-### Website & API **Audit**
+### Website & API-audit
 
-The Furucmobo website and API have been audited by [cure53](https://cure53.de/).   
-****There were no major or critical issues detected.
+De website en API van Furucmobo zijn geverifieerd door [cure53](https://cure53.de/).   
+****Er zijn geen grote of kritieke problemen gedetecteerd.
 
 {% file src="../.gitbook/assets/fur-01-report.final.pdf" caption="\[cure53\] Website & API audit report" %}
 
-### Furucombo Main Contract
+### FuruCombo Hoofdcontract
 
 #### Peckshield 
 
-[Peckshield](https://peckshield.cn/en) has formally verified the Proxy, Registry, and handlers of the Furucombo system. Some minor issues were detected which have all been addressed. The full report can be viewed [here](https://github.com/dinngodev/furucombo-contract/tree/master/audit/PeckShield)**.**
+[Peckshield](https://peckshield.cn/en) heeft de proxy, het register en de handlers van het Furucombo-systeem formeel geverifieerd. Er zijn enkele kleine problemen gedetecteerd die allemaal zijn opgelost. Het volledige rapport is [hier](https://github.com/dinngodev/furucombo-contract/tree/master/audit/Certora) te bekijken.
 
 #### Certora 
 
-[Certora](https://www.certora.com/) has formally verified the Proxy, Registry, and handlers of the Furucombo system. Some minor issues were detected which have all been addressed. The full report can be viewed [here](https://github.com/dinngodev/furucombo-contract/tree/master/audit/Certora)**.**
+[Certora](https://www.certora.com/) heeft de proxy, het register en de handlers van het Furucombo-systeem formeel geverifieerd. Er zijn enkele kleine problemen gedetecteerd die allemaal zijn opgelost. Het volledige rapport is [hier](https://github.com/dinngodev/furucombo-contract/tree/master/audit/Certora) te bekijken
 
-### COMBO token and Vesting contracts
-
-#### **C**hainsulting
-
-The COMBO token and Vesting contracts have been audited by [Chainsulting](https://chainsulting.de/).   
-****There were no major or critical issues detected. The full report can be viewed [here](https://github.com/dinngodev/furucombo-token/tree/master/audit/ChainSulting)**.**
-
-#### Hacken
-
-The COMBO token and Vesting contracts have been audited by [Hacken](https://hacken.io/).   
-There were no major or critical issues detected. The full report can be viewed [here](https://github.com/dinngodev/furucombo-token/tree/master/audit/Hacken)**.**
-
-#### **Certik**
-
-The COMBO token and Vesting contracts have been audited by [Certik](https://www.certik.io/).   
-There were no major or critical issues detected. The full report can be viewed [here](https://github.com/dinngodev/furucombo-token/tree/master/audit/CertiK)**.**
-
-### **r**COMBO token contract
+### COMBO-token en Vesting-contracten
 
 #### **C**hainsulting
 
-The rCOMBO token ****contract has been audited by [Chainsulting](https://chainsulting.de/).   
-****There were no major or critical issues detected. The full report can be viewed [here](https://github.com/dinngodev/RCOMBO/tree/master/audit/ChainSulting)**.**
+De COMBO-token en Vesting-contracten worden gecontroleerd door [Chainsulting](https://chainsulting.de/).   
+Er zijn geen grote of kritieke problemen gedetecteerd. Het volledige rapport is [hier](https://github.com/dinngodev/RCOMBO/tree/master/audit/ChainSulting) te bekijken.
 
 #### Hacken
 
-The rCOMBO token ****contract has been audited by [Hacken](https://hacken.io/).   
-There were no major or critical issues detected. The full report can be viewed [here](https://github.com/dinngodev/RCOMBO/tree/master/audit/Hacken)**.**
+De COMBO-token- en Vesting-contracten zijn geverifieerd door [Hacken](https://hacken.io/).   
+Er zijn geen grote of kritieke problemen gedetecteerd. Het volledige rapport is [hier](https://github.com/dinngodev/RCOMBO/tree/master/audit/Hacken) te bekijken.
 
 #### **Certik**
 
-The rCOMBO token ****contract has been audited by [Certik](https://www.certik.io/).   
-There were no major or critical issues detected. The full report can be viewed [here](https://github.com/dinngodev/RCOMBO/tree/master/audit/CertiK)**.**
+De COMBO-token- en Vesting-contracten worden beheerd door [Certik](https://www.certik.io/).   
+Er zijn geen grote of kritieke problemen gedetecteerd. Het volledige rapport is [hier](https://github.com/dinngodev/RCOMBO/tree/master/audit/CertiK) te bekijken.
 
-### Compound smart wallet handler and Synthetix staking handler
+### **r**COMBO-token-contract
+
+#### **C**hainsulting
+
+De COMBO-token en Vesting-contracten worden gecontroleerd door [Chainsulting](https://chainsulting.de/).   
+Er zijn geen grote of kritieke problemen gedetecteerd. Het volledige rapport is [hier](https://github.com/dinngodev/RCOMBO/tree/master/audit/ChainSulting) te bekijken.
+
+#### Hacken
+
+De COMBO-token- en Vesting-contracten zijn geverifieerd door [Hacken](https://hacken.io/).   
+Er zijn geen grote of kritieke problemen gedetecteerd. Het volledige rapport is [hier](https://github.com/dinngodev/RCOMBO/tree/master/audit/Hacken) te bekijken.
+
+#### **Certik**
+
+De COMBO-token- en Vesting-contracten worden beheerd door [Certik](https://www.certik.io/).   
+Er zijn geen grote of kritieke problemen gedetecteerd. Het volledige rapport is [hier](https://github.com/dinngodev/RCOMBO/tree/master/audit/CertiK) te bekijken.
+
+### Samengestelde slimme portemonnee-handler en Synthetix staking-handler
 
 #### **Haechi**
 
-Compound smart wallet handler and Synthetix staking handler have been audited by Haechi with zero critical issues found.
+Samengestelde slimme portemonnee-handler en Synthetix staking-handler zijn gecontroleerd door Haechi en er zijn geen kritieke problemen gevonden.
 
 {% file src="../.gitbook/assets/haechi-audit-furucombo-smart-contract-audit-report-v2.0.pdf" %}
 
 {% hint style="info" %}
-Furucombo's system DOES NOT hold user's funds right now, so the risk of being hack is relatively low compare to other money protocols. We send user's funds directly to those protocols s/he is using, and we send all funds back to the user's wallet after her/his transaction is done.
+Het systeem van Furucombo houdt momenteel GEEN gebruikersgeld vast, dus het risico om gehackt te worden is relatief laag in vergelijking met andere geldprotocollen. We sturen het geld van de gebruiker rechtstreeks naar de protocollen die hij/zij gebruikt, en we storten al het geld terug naar de portemonnee van de gebruiker nadat zijn/haar transactie is voltooid.
 {% endhint %}
+
+
+
+> 🧊 Special thanks to [blackcatx](https://twitter.com/gaintodayx) for translating this page.
 

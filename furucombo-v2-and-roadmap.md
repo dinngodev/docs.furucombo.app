@@ -51,5 +51,7 @@ Er komen in de nabije toekomst zoveel spannende releases aan om de Furucombo V2 
 * **Crypto Pooling:** als DeFi-aggregator is het gemakkelijk om de geldstroom en de algehele DeFibeweging te zien door de transacties op het Furucombo-proxycontract te volgen. In plaats van alleen de te volgen transacties hebben we het poolcombinatiesysteem geschetst, zodat gebruikers direct in deze strategieën kunnen investeren. Het poolcombinatiesysteem kan degens ook in staat stellen om fondsbeheerders te worden om de winst als geheel te maximaliseren
 * **Layer 1 & 2 Expansion en de Cross-Chain Bridge:** Gezien het hoge gasverbruik op Ethereum en de ontwikkelingssnelheid van Layer 2 en andere Layer 1-oplossingen, zullen we dit jaar diepgaand onderzoek doen en Furucombo uitbreiden. Er is een geweldige kans om te onderzoeken hoe je Furucombo naar een plek kunt brengen waar de gaskosten te verwaarlozen zijn. En het is de basis voor onze volgende stap naar een cross-chain DeFiaggregator.
 
-\*\*\*\*
+
+
+> 🧊 Special thanks to [blackcatx](https://twitter.com/gaintodayx) for translating this page.
 

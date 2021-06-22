@@ -26,3 +26,7 @@ U kunt vinden ons proxy contract wordt geverifieerd op Etherscan, waar u de cont
 
 Ja, hier is ons officiële COMBO token adres: [0xfFffFffF2ba8F66D4e51811C5190992176930278](https://etherscan.io/token/0xfFffFffF2ba8F66D4e51811C5190992176930278)
 
+
+
+> 🧊 Special thanks to [blackcatx](https://twitter.com/gaintodayx) for translating this page.
+

@@ -1,14 +1,18 @@
-# Collaboration
+# Samenwerking
 
-### How can I contribute to Furucombo \(as a developer\)?
+### Hoe kan ik \(als ontwikkelaar\) bijdragen aan Furucombo?
 
-We welcome any new ideas that make Furucombo a better product, be it a collaborative synergy with your product or new features suggestions. Please feel free to talk to us through our [Discord](https://discord.furucombo.app/) \#developer channel.
+We verwelkomen alle nieuwe ideeën die Furucombo tot een beter product maken, of het nu gaat om een samenwerkingssynergie met uw product of suggesties voor nieuwe functies. Aarzel niet om met ons te praten via ons [Discord](https://discord.furucombo.app/) \#developer-kanaal.
 
-### Do you have an API?
+### Heeft u een API?
 
-Yes, we do have an API for our business partners to access our top combos. For API inquiry, please reach out through our [Discord](https://discord.furucombo.app/) \#developer channel.
+Ja, we hebben een API voor onze zakenpartners om toegang te krijgen tot onze beste COMBOS. Neem voor API-onderzoek contact op via ons [Discord](https://discord.furucombo.app/) \#developer-kanaal.
 
-### Do you have a Github?
+### Heb je een Github?
 
-Currently, we don't have a public Github account.
+We hebben momenteel geen openbaar Github-account.
+
+
+
+> 🧊 Special thanks to [blackcatx](https://twitter.com/gaintodayx) for translating this page.
 

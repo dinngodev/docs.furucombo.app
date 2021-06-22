@@ -1,12 +1,16 @@
-# COMBO Is Here
+# COMBO is hier
 
 ![](../../.gitbook/assets/eotsbbnvqaas8tc.jpg)
 
-Furucombo is dedicated to [becoming a Super-Aggregator](https://medium.com/furucombo/the-road-to-becoming-a-super-aggregator-cbd2566a1990). Our next step is to bring you Furucombo v2, where we will expand the product into three aspects:
+Furucombo streeft ernaar een [Super-aggregator](https://medium.com/furucombo/the-road-to-becoming-a-super-aggregator-cbd2566a1990) te worden. Onze volgende stap is om u Furucombo v2 te bieden, waar we het product in drie aspecten zullen uitbreiden:onboard more builders and protocols to maximize capital efficiency;
 
-1. onboard more builders and protocols to maximize capital efficiency;
-2. integrate cross-chain solutions to tackle the segmentation issue;
-3. launch pool combo system to let degens become a fund manager to maximize the profit as a whole.
+1. breng meer bouwers en protocollen samen om de kapitaalefficiëntie te maximaliseren;
+2. integratie van ketenoverschrijdende oplossingen om het segmentatieprobleem aan te pakken;
+3. een poolcombosysteem lanceren om d-e-gens een fondsbeheerder te laten worden om de winst als geheel te maximaliseren.
 
-Furucombo is going to be an optimal ecosystem operating multi-sided markets with builders and users. The last piece of the puzzle would be the key to connect the dots into a self-sustainable ecosystem. That is the reason why we introduce you — **COMBO Token**.
+Furucombo wordt een optimaal ecosysteem dat veelzijdige markten bedient met bouwers en gebruikers.Het laatste stukje van de puzzel zou de sleutel zijn om de stippen te verbinden tot een zichzelf in stand houdend ecosysteem. Daarom introduceren wij u het **COMBO-token**.
+
+
+
+> 🧊 Special thanks to [blackcatx](https://twitter.com/gaintodayx) for translating this page.
 

@@ -1,14 +1,14 @@
-# Smart Contracts
+# Slimme contracten
 
 ## Proxy Contract
 
-v1.5.1 \(The latest version\) [0xefa99fa2703430a38d095a29f6dc32dd9fdc5a01](https://etherscan.io/address/0xefa99fa2703430a38d095a29f6dc32dd9fdc5a01)  
+v1.5.1 \(De nieuwste versie\) [0xefa99fa2703430a38d095a29f6dc32dd9fdc5a01](https://etherscan.io/address/0xefa99fa2703430a38d095a29f6dc32dd9fdc5a01)  
 v1.0.0-1 [0xA013AfbB9A92cEF49e898C87C060e6660E050569](https://etherscan.io/address/0xA013AfbB9A92cEF49e898C87C060e6660E050569)  
 v1.0.0 [0x17e8Ca1b4798B97602895f63206afCd1Fc90Ca5f](https://etherscan.io/address/0x17e8Ca1b4798B97602895f63206afCd1Fc90Ca5f)  
 v0.13.1 [0xEEbeC7874f46C4452610A11FA6bE0264f7f0557F](https://etherscan.io/address/0xeebec7874f46c4452610a11fa6be0264f7f0557f)   
 v0.4.1 [0x57805e5a227937BAc2B0FdaCaA30413ddac6B8E1](https://etherscan.io/address/0x57805e5a227937bac2b0fdacaa30413ddac6b8e1)
 
-## Ecosystem Token
+## Ecosysteem Token
 
 Ticker: $COMBO  
 Token contract: [0xfFffFffF2ba8F66D4e51811C5190992176930278](https://etherscan.io/token/0xfFffFffF2ba8F66D4e51811C5190992176930278)
@@ -18,7 +18,7 @@ Token contract: [0x2dadc3582c0655e8d21b1519bac30bc40ab14e9a](https://etherscan.i
 
 ## Handlers
 
-#### For v1.0.0 proxy contract \(The latest version\)
+#### Voor v1.0.0 proxy-contract \(de nieuwste versie\)
 
 * Aave v1 Protocol [0xd9C746b3074552a2314b1B19728e84A7aD92FB59](https://etherscan.io/address/0xd9C746b3074552a2314b1B19728e84A7aD92FB59)
 * Aave v2 Protocol [0xCef6901A33feAbe552aCfd702Fe427FA40643C28](https://etherscan.io/address/0xCef6901A33feAbe552aCfd702Fe427FA40643C28)
@@ -41,7 +41,7 @@ Token contract: [0x2dadc3582c0655e8d21b1519bac30bc40ab14e9a](https://etherscan.i
 * Weth [0x60A3743Ef3c6148b099EeBa11C479CD85865c71E](https://etherscan.io/address/0x60A3743Ef3c6148b099EeBa11C479CD85865c71E)
 * yVault [0x4Ca6f6631d354f88Ee019B619dAF2E7850f91088](https://etherscan.io/address/0x4Ca6f6631d354f88Ee019B619dAF2E7850f91088)
 
-#### For v0.13.1 proxy contract
+#### Voor v0.13.1 proxy-contract
 
 * Aave Protocol [0xF579B009748a62B1978639d6B54259F8Dc915229](https://etherscan.io/address/0xF579B009748a62B1978639d6B54259F8Dc915229) 
 * Balancer [0xeE1D7b0D358B044be21f58b4C93fF8bB97afF287](https://etherscan.io/address/0xeE1D7b0D358B044be21f58b4C93fF8bB97afF287)
@@ -63,4 +63,8 @@ Token contract: [0x2dadc3582c0655e8d21b1519bac30bc40ab14e9a](https://etherscan.i
 * UniswapV2 [0x58a21cfCee675d65D577B251668f7dC46Ea9c3A0](https://etherscan.io/address/0x58a21cfCee675d65D577B251668f7dC46Ea9c3A0) 
 * Weth [0x616aB9A7877674A7bcbF5B76DFF71c55Bd2E2d55](https://etherscan.io/address/0x616aB9A7877674A7bcbF5B76DFF71c55Bd2E2d55) 
 * yVault [0xC50C8F34c9955217a6b3e385a069184DCE17fD2A](https://etherscan.io/address/0xC50C8F34c9955217a6b3e385a069184DCE17fD2A) 
+
+
+
+> 🧊 Special thanks to [blackcatx](https://twitter.com/gaintodayx) for translating this page.
 

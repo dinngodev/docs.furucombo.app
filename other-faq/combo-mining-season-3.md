@@ -1,107 +1,103 @@
-# COMBO Mining Season 3 \(ongoing\)
+# COMBO Mijnbouw Seizoen 3 \(lopend\)
 
 
 
 ![](../.gitbook/assets/combo-season-3.png)
 
-Season 2 of COMBO mining has ended and we have collected excellent feedback and many great ideas for the third season. With the upcoming releases and breaking news, we couldn't be more excited to share what we have for you in the new season of COMBO mining!
+## Furucombo COMBO mijnbouw seizoen 3
 
-## Furucombo COMBO mining season 3
+{% file src="../.gitbook/assets/furucombo\_season\_3\_final-1-.pdf" caption="COMBO Mijnbouw Seizoen 3 Infographic" %}
 
-{% file src="../.gitbook/assets/furucombo\_season\_3\_final-1-.pdf" caption="COMBO mining season 3 Infographic" %}
+### **Programmaperiode**
 
-### **Program period**
+13 mei 2021, 03:00 \(UTC\) — 5 aug 2021, 03:00 \(UTC\)
 
-May 13 2021, 3:00 AM \(UTC\) — Aug 5 2021, 3:00 AM \(UTC\)
+### **Hoe deel te nemen?**
 
-### **How to participate**
+Het seizoen 3-programma bestaat uit twee delen. Elke gebruiker kan beslissen aan welke onderdelen ze deelnemen om de wekelijkse beloningen te verdienen.
 
-There will be two parts in the season 3 program. Each user can decide which part\(s\) to join to earn the weekly rewards.
+1. Liquidity Farming: zet COMBO- of COMBO/ETH LP-token in om beloningen te verdienen.
+2. Gebruik Farming: Gas Compensation + Weekly Challenge om deel te nemen aan NFTloterijen.
 
-1. Liquidity Farming: Stake COMBO or COMBO/ETH LP token to earn rewards.
-2. Usage Farming: Gas reimbursement + weekly challenge to join NFT lotteries.
+### 1. Liquiditeit grondbewerking
 
-### 1. Liquidity Farming
+In tegenstelling tot seizoen 2 hoeven spaarders gedurende deze periode niet elke week transacties uit te voeren om de wekelijkse beloningen te ontvangen.
 
-Unlike season 2, this time stakers don’t need to make transactions every week to get the weekly rewards.
+* De beloning wordt pro rata berekend met \(stortingsbedrag\) x \(stortingsduur\).
+* Wekelijkse distributie, 6 weken houdbaarheid
+* Wekelijkse budgetten: - COMBO Stortingspool: 10.000 COMBO - COMBO/ETH Uni-V2 LP Stortingspool: 77.500 COMBO
+* Alle budgetten worden gedeeld met de respectievelijke deposanten.
 
-* The reward is calculated pro-rata with \(Stake Amount\) x \(Stake duration\).
-* Weekly distribution, 6-week vesting
-* Weekly budgets: - COMBO Staking: 10,000 COMBO - COMBO/ETH Uni-V2 LP Staking: 77,500 COMBO
-* All budgets will be shared with the respective stakers.
+Om de beloningen te maximaliseren, raden we aan om COMBO-tokens of COMBO/ETH Uni-V2 LP-tokens te storten zodra je er een hebt. Omdat hoe eerder u stort, hoe groter uw stortingsgebied zal zijn, dus hogere beloningen.
 
-To maximize rewards, we recommend that you stake COMBO tokens or COMBO/ETH Uni-V2 LP tokens as soon as you own some. Because the earlier you stake, the bigger your staking area will be, hence higher rewards.
+### 2. Gebruik grondbewerking
 
-### 2. Usage Farming
+Usage Farming wil mensen aanmoedigen om de magie van Furucombo te gebruiken en uit te proberen. Dit is een basisprogramma voor het terugbetalen van gas, maar gebruikers die Furucombo NFT's hebben, kunnen hun beloningen ook tot 2 keer verhogen.
 
-Usage Farming aims to encourage people to use and to try out the magic of Furucombo. **This is a basic gas reimbursement program, but users who hold Furucombo NFTs can also boost their rewards up to 2 times.**
+* Beloning wordt pro rata berekend met \(gebruikt gas\) x \(gasprijs\) x NFT-effect / \(COMBO-prijs in ETH\)
+* Wekelijkse distributie, geen onvoorwaardelijke limiet:
+  * 100.000 COMBO als totale wekelijkse beloningen. Wanneer de limiet is bereikt, worden alle beloningen samen verlaagd.
+  * Maximaal gasverbruik per adres = 1.200.000 gaslimiet. Dit betreft gemiddeld zo'n drie transacties.
+* Welke transacties tellen?  
+  - In principe alle transacties die u op de combopagina verzendt waarbij tokenoverdrachten
 
-* The reward is calculated pro-rata with \(Gas Used\) x \(Gas Price\) x NFT effect / \(COMBO Price in ETH\)
-* Weekly distribution, no vesting
-* Cap: - 100,000 COMBO as total weekly rewards. If the cap is reached, all rewards will be scaled down together. **- Maximum gas used per address = 1,200,000 gas limit.** This will cover around three transactions on average.
-* Which transactions will count? - Basically all transactions you send on the combo page that involve token transfers. - Failed transactions will also count. - Token approvals are not counted because they do not interact with Furucombo. - Using wallets such as Argent and DappLogic will not be counted because the behavior of these wallets is quite unique. - Quick check? If your transaction has the tag “Interacted With \(To\): Furucombo: Proxy vx.x.x” on etherscan, it will be counted.
+  betrokken zijn.  
+  - Mislukte transacties tellen ook mee.  
+  - Token-goedkeuringen worden niet meegeteld omdat ze geen interactie hebben met Furucombo.  
+  - Het gebruik van wallets zoals Argent en DappLogic wordt niet meegeteld vanwege hun gedragsgedrag wallets is vrij uniek.  
+  - Snelle check? Als uw transactie de tag "Interacted With \(To\): Furucombo: Proxy vx.x.x" heeft
 
-### **How to get a Furucombo NFT?**
+  etherscan, het wordt geteld.
 
-This time we collaborate with our best fren [Lootex](https://lootex.io/stores/furucombo-nft) to issue FuruPizza on Polygon!
+### **Hoe kom ik aan een Furucombo NFT?**
 
-* **1st-week challenge: using the Aave cube 👻👻👻** - How: Every address which completes a transaction with any Aave cube will get a chance to win a limited NFT. - When: May 13 2021, 3:00 AM \(UTC\) — May 20 2021, 3:00 AM \(UTC\) - What: There will be 26 out of 30 limited NFTs for the winners in week 1. These NFT holders can boost their rewards starting from week 2.
-* **2nd-week challenge: using the Sushiswap cubes 🍣🍣🍣**
+Deze keer werken we samen met [Lootex](https://lootex.io/stores/furucombo-nft) om FuruPizza op Polygon uit te brengen!
 
-  - How: Every address which completes a transaction with any Sushiswap cube will get a chance to win a limited NFT.
+* **Week 1 Uitdaging: De Aave Cube gebruiken 👻👻👻** - Hoe: elk adres dat een transactie voltooit met een Aave-kubus maakt kans op een beperkte NFT. - Wanneer: 13 mei 2021, 03:00 \(UTC\) — 20 mei 2021, 03:00 \(UTC\) - Wat: Er zijn 26 van de 30 beperkte NFT's voor de winnaars in week 1. Deze NFT-houders kunnen hun beloningen verhogen vanaf week 2.
+* **2e week challenge: de Sushiswap blokjes gebruiken 🍣🍣🍣**
 
-  - When: May 20 2021, 3:00 AM \(UTC\) — May 27 2021, 3:00 AM \(UTC\)
+  - Hoe: Elk adres dat een transactie voltooit met een Sushiswap-kubus maakt kans op een beperkte NFT.
 
-  - What: There will be 30 limited NFTs for the winners in week 2. These NFT holders can boost their rewards starting from week 3.
+  - Wanneer: 20 mei 2021, 03:00 uur \(UTC\) — 27 mei 2021, 03:00 uur \(UTC\)
 
-* **3rd-week challenge: using the B.Protocol cubes 🥦🥦🥦** - How: Every address which completes a transaction with any B.Protocol cube will get a chance to win a limited NFT. - When: May 27 2021, 3:00 AM \(UTC\) — June 3 2021, 3:00 AM \(UTC\) - What: There will be 30 limited NFTs for the winners in week 3. These NFT holders can boost their rewards starting from week 4.
-* **4th-week challenge: using 4 cubes in one transaction** 🧊🧊🧊🧊
+  - Wat: Er zijn 30 beperkte NFT's voor de winnaars in week 2. Deze NFT-houders kunnen hun beloningen verhogen vanaf week 3.
 
-  - How: Every address which completes a transaction with 4 cubes will get a chance to win a limited NFT.
+* **3e week challenge: de B.Protocol blokken gebruiken 🥦🥦🥦** - Hoe: elk adres dat een transactie voltooit met een B.Protocol-kubus maakt kans op een beperkte NFT. - Wanneer: 27 mei 2021, 03:00 uur \(UTC\) — 3 juni 2021, 03:00 uur \(UTC\) - Wat: Er zijn 30 beperkte NFT's voor de winnaars in week 3. Deze NFT-houders kunnen hun beloningen verhogen vanaf week 4.
+* **Uitdaging van de 4e week: 4 kubussen gebruiken in één transactie**  🧊🧊🧊🧊
 
-  - When: June 3 2021, 3:00 AM \(UTC\) — June 10 2021, 3:00 AM \(UTC\)
+  - Hoe: elk adres dat een transactie van 4 kubussen voltooit, maakt kans op een beperkte NFT
 
-  - What: There will be 30 limited NFTs for the winners in week 4. These NFT holders can boost their rewards starting from week 5.
+  - Wanneer: 3 juni 2021, 3:00 AM \(UTC\) — 10 juni 2021, 3:00 AM \(UTC\)
 
-* **5th-week challenge: Use Polygon network, send out 1 txn.** 💜💜💜
+  - Wat: Er zijn 30 beperkte NFT's voor de winnaars in week 4. Deze NFT-houders kunnen hun beloningen vanaf week verhogen.
 
-  - How: Every address which completes a transaction on the Polygon network will get a chance to win a limited NFT.
+* Andere uitdagingen om een NFT te winnen? - Er zullen verschillende wekelijkse uitdagingen zijn tijdens het mijnbouwprogramma. Als je elke uitdaging voltooit, maak je kans om de NFT te winnen. We zullen de wekelijkse uitdaging een paar dagen voor elke periode op Twitter aankondigen. - Er zullen 12 soorten NFT's zijn en er zal een speciale bonus zijn als je het geluk hebt om alle 12 NFT's te verzamelen.
+* Eerder gedistribueerde NFT's kunnen ook worden gebruikt in mijnbouwseizoen 3. - We hebben al 33 Aave x Furucombo NFT's verzonden, als je er een hebt, kun je de gebruikslandbouwbeloning met 1,2x verhogen. - 4 loterijwinnaars van de Furucombo Creativity Campaign ontvangen eind mei hun Furucombo NFT, deze NFT's kunnen 1,2x de Commodity Farming Reward verhogen.
 
-  - When: June 10 2021, 3:00 AM \(UTC\) — June 17 2021, 3:00 AM \(UTC\)
+### Distributieproces
 
-  - What: There will be 30 limited NFTs for the winners in week 5. These NFT holders can boost their rewards starting from week 6. \*\*This week’s NFT also has a special utility function, we’ll announce how to use it soon! Stay tuned!
-
-* **6th-week challenge: using the Curve cubes on the Polygon network 🌈🌈🌈**
-
-  - How: Every address which completes a transaction with any Curve cube on the Polygon network will get a chance to win a limited NFT.
-
-  - When: June 17 2021, 3:00 AM \(UTC\) — June 24 2021, 3:00 AM \(UTC\)
-
-  - What: There will be 30 limited NFTs for the winners in week 6. These NFT holders can boost their rewards starting from week 7.
-
-* Other challenges to win a NFT? - There will be different weekly challenges throughout the mining program. Complete each challenge then you could get a chance to win the NFT. We will announce the weekly challenge on Twitter a few days before each period. - There will be 12 types of NFTs and there will be a special bonus if you are lucky enough to collect all 12 NFTs.
-* Previously distributed NFTs can be used in mining season 3 as well - We have already sent out 33 Aave x Furucombo NFTs, if you have one of them, you can boost the usage farming reward by 1.2x. - 4 lottery winners from the Furucombo creativity campaign will get their Furucombo NFT by the end of May, these NFTs can boost 1.2x of the usage farming reward.
-
-### Distribution process
-
-* We will distribute COMBO tokens as rewards on a weekly basis.
-* Furucombo team will calculate rewards every Thursday and share the result in our Discord channel for community review.
-* If no disputes are raised within 24hrs, the unlocked amount will then be updated to the Furucombo contract \(Typically by Friday night\). You can then claim your rewards through a “Claim COMBO” cube.
+* We zullen wekelijks COMBO-tokens uitdelen als beloning.
+* Het Furucombo-team berekent elke donderdag de beloningen en deelt het resultaat in ons Discord-kanaal voor beoordeling door de community.
+* Als er binnen 24 uur geen geschillen worden ingediend, wordt het ontgrendelde bedrag bijgewerkt naar het Furucombo-contract \(meestal op vrijdagavond\). Je kunt dan je beloningen claimen via een "Claim COMBO"-kubus.
 
 ![](../.gitbook/assets/0_fdxp6gipd57mvifs.png)
 
 
 
-That’s it! Enjoy participating in our COMBO mining season 3 and earning COMBO tokens in the following weeks. If you have any questions on this, our team is standing by in [Discord](https://discord.furucombo.app/) to answer any questions. Thanks for participating in the Furucombo community!
+Dat is het! Geniet van het deelnemen aan ons COMBO-mijnseizoen 3 en het verdienen van COMBO-tokens in de volgende weken. Als je hier vragen over hebt, staat ons team in Discord klaar om al je vragen te beantwoorden. Bedankt dat je lid bent geworden van de Furucombogemeenschap!
 
 {% hint style="success" %}
 [COMBO TX Rewards dashboard](https://go.furucombo.app/reward)  
 [Furucombo Dune dashboard](https://duneanalytics.com/Marcov/furucombo-statistics_1)
 {% endhint %}
 
-Things to Note
+Dingen om op te merken
 
-* This is the third round of the Furucombo mining program in a series. Any future rounds may have different rules and rewards.
-* Furucombo reserves the right to change, amend and add new rules agreed by the community during the program period.
-* Furucombo is beta software, and it should be treated as highly unstable. Please use it at your own risk.
+* Dit is de derde ronde van het Furucombo-mijnprogramma in een reeks. Alle toekomstige rondes kunnen andere regels en beloningen hebben.
+* Furucombo behoudt zich het recht voor om tijdens de programmaperiode door de community overeengekomen regels te wijzigen, aan te passen en toe te voegen.
+* Furucombo is bètasoftware en moet als zeer onstabiel worden beschouwd. Gebruik het op eigen risico.
+
+
+
+> 🧊 Special thanks to [blackcatx](https://twitter.com/gaintodayx) for translating this page.
 

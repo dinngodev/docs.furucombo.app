@@ -1,27 +1,25 @@
-# COMBO Distribution
+# COMBO-Distributie
 
 ![COMBO distribution](https://miro.medium.com/max/2346/0*I8fa_6eZC7mrkMRc)
 
 
 
-### Total Supply: 100,000,000 COMBO tokens
+### Totale toevoer: 100.000.000 COMBO-tokens
 
-* 25,000,000 for Core Team & Future Hire \(vested\)
-* 2,500,000 for Advisors \(vested\)
-* 19,500,000 for Investors & Shareholders \(vested\)
-* 48,000,000 for Community Growth
-* 5,000,000 for Mitigation Pool
+* 25.000.000 voor Core Team & Future Hire \(vested\)
+* 2.500.000 voor adviseurs \(vested\)
+* 19.500.000 voor Investeerders & Aandeelhouders \(vested\)
+* 48.000.000 voor gemeenschapsgroei
+* 5.000.000 voor mitigatiepool
 
-The long-term success of Furucombo lies in the hands of the community. With that in mind, we’re committed to never stop giving back. We allocate the majority of the COMBO token supply for the community, which will gradually be distributed to Furucombo users. Eventually, it will be COMBO holders’ call to decide how we distribute the tokens.
+Het succes op lange termijn van Furucombo is in handen van de gemeenschap. Met dat in gedachten zijn we vastbesloten om nooit te stoppen met teruggeven. We hebben de meeste COMBO-tokens voor de community toegewezen, die geleidelijk aan worden gedistribueerd naar Furucombo-gebruikers. Uiteindelijk zijn het de COMBO-houders die beslissen hoe we de tokens verdelen.
 
-The core development team is committed to the long-term success of Furucombo with a 48-month vesting plan \(10-month cliff, linear vested\). The portion of advisors, investors, and shareholders are also vested for 48-month with a 10-month cliff, 15-month with a 3-month cliff, 15-month with a 3-month cliff, respectively.
+Het kernontwikkelingsteam zet zich in voor het langetermijnsucces van Furucombo met een 48- maanden-holdingplan \(10-maanden cliff, lineaire inzet\). Het aandeel van adviseurs, investeerders en aandeelhouders wordt ook aangehouden voor respectievelijk 48 maanden met een klif van 10 maanden, 15 maanden met een klif van 3 maanden en 15 maanden met een klif van 3 maanden.
 
-Due to [the exploit ](https://medium.com/furucombo/furucombo-post-mortem-march-2021-ad19afd415e)that occurred on Saturday 27 February 2021, we are aiming to create and distribute 5M iouCOMBO tokens, which will be subject to a 360-day linear-vesting period, and the recovery pool in April. While the vesting starts from March 1st, anyone with the iouCOMBO token can claim the respected COMBO to date in the recovery pool. \([more info](https://medium.com/furucombo/mitigation-plan-e498a95d335e)\)
+Vanwege [de exploit](https://medium.com/furucombo/furucombo-post-mortem-march-2021-ad19afd415e) die plaatsvond op zaterdag 27 februari 2021, streven we ernaar om 5 miljoen iouCOMBO-tokens te creëren en te distribueren, met een lineaire vestingperiode van 360 dagen, en de herstelpool in april. Hoewel het eigendom vanaf 1 maart begint, kan iedereen met het iouCOMBO-token de gerespecteerde COMBO tot nu toe claimen in de herstelpool. \([meer informatie\)](https://medium.com/furucombo/mitigation-plan-e498a95d335e)
 
-The overall COMBO distribution schedule can be viewed in the graph below.
+Het algemene COMBO-distributieschema kan worden bekeken in de onderstaande grafiek.  
 
-![](https://miro.medium.com/max/3200/0*YKvQPsMNCU6l9aln)
 
-  
-
+> 🧊 Special thanks to [blackcatx](https://twitter.com/gaintodayx) for translating this page.
 

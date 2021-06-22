@@ -1,13 +1,17 @@
-# Feature Request
+# Functieverzoek
 
-### Can you add this DeFi and that token?
+### Kun je deze DeFi en dat token toevoegen?
 
-Make the wish at discord \#feedback with below information, and we will check it regularly. 
+Maak de wens \#feedback met onderstaande informatie, en we zullen het regelmatig controleren. 
 
-* For token listing, please provide its contract address.
-* For cube integration, please share what combos/strategies you would like to make with the cube.
+* Geef voor tokenvermelding het contractadres op.
+* Geef voor kubusintegratie op welke combo's/strategieën u met de kubus wilt maken.
 
-We always do our best to meet users needs, but no promises as time are limited 😇 
+We doen altijd ons best om aan de behoeften van gebruikers te voldoen, maar we beloven niets omdat de tijd beperkt is.😇 
+
+
+
+> 🧊 Special thanks to [blackcatx](https://twitter.com/gaintodayx) for translating this page.
 
 
 

@@ -1,4 +1,4 @@
-# Verken pagina
+# Verken Pagina
 
 ### Navigeer door de pagina Ontdekken 
 
@@ -9,4 +9,8 @@ De [Explore-pagina](https://furucombo.app/explore) dient als het DeFi-strategied
 ### Kan ik een combo die ik heb gemaakt op de verkenningspagina vermelden?
 
 Deel het op het discord-kanaal \#combohacking, en het Furucombo-team zal om de week nieuwe combo's van het kanaal op de verkenningspagina plaatsen.
+
+
+
+> 🧊 Special thanks to [blackcatx](https://twitter.com/gaintodayx) for translating this page.
 

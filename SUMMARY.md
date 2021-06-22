@@ -3,42 +3,28 @@
 * [Furucombo Inleiding](README.md)
 * [Furucombo V2 en Roadmap](furucombo-v2-and-roadmap.md)
 
-## Using Furucombo <a id="using-furucombo-1"></a>
+## Furucombo gebruiken <a id="using-furucombo-1"></a>
 
-* [Combo Page](using-furucombo-1/combo-page.md)
-* [Verken pagina](using-furucombo-1/explore-page.md)
-* [Decombo-pagina](using-furucombo-1/decombo-page.md)
-* [Tutorials](using-furucombo-1/tutorials/README.md)
-  * [Beginner’s Guide](using-furucombo-1/tutorials/beginners-guide.md)
-  * [How to Stake for Liquidity Mining](using-furucombo-1/tutorials/how-to-stake-for-liquidity-mining.md)
-  * [Flashloan Combo](using-furucombo-1/tutorials/flashloan-combo.md)
-  * [Passive Income \| Part 1](using-furucombo-1/tutorials/passive-income-part1.md)
-  * [Boost Maker vault](using-furucombo-1/tutorials/boost-maker-vault.md)
-  * [Close Maker vault](using-furucombo-1/tutorials/close-maker-vault.md)
-  * [Instantly Swap cTokens on Compound](using-furucombo-1/tutorials/instantly-swap-ctokens-on-compound.md)
-  * [Compound Cubes](using-furucombo-1/tutorials/compound-cubes.md)
-  * [Synthetix Cubes](using-furucombo-1/tutorials/synthetix-cubes.md)
-* [Furucombo on Polygon](using-furucombo-1/furucombo-on-polygon.md)
+* [Combo Pagina](using-furucombo-1/combo-page.md)
+* [Verken Pagina](using-furucombo-1/explore-page.md)
+* [Decombo Pagina](using-furucombo-1/decombo-page.md)
 
-## Other FAQ
+## Andere veelgestelde vragen <a id="other-faq"></a>
 
-* [COMBO Mining Season 3 \(ongoing\)](other-faq/combo-mining-season-3.md)
-* [COMBO Is Here](other-faq/combo-is-here/README.md)
-  * [COMBO FAQ](other-faq/combo-is-here/combo-faq.md)
-  * [COMBO's Utility](other-faq/combo-is-here/combos-utility.md)
-  * [COMBO Distribution](other-faq/combo-is-here/combo-distribution.md)
-  * [COMBO Mining Season 2 \(ended\)](other-faq/combo-is-here/combo-mining-season-2.md)
-  * [Transaction Mining Program \(ended\)](other-faq/combo-is-here/transaction-mining-program-ended.md)
-  * [COMBO launch on Balancer LBP \(ended\)](other-faq/combo-is-here/combo-launch-on-balancer-lbp.md)
-* [Collaboration](other-faq/collaboration.md)
-* [Feature Request](other-faq/feature-request.md)
+* [COMBO Mijnbouw Seizoen 3 \(lopend\)](other-faq/combo-mining-season-3.md)
+* [Hoe te storten voor liquiditeitsmining](other-faq/how-to-stake-for-liquidity-mining.md)
+* [COMBO is hier](other-faq/combo-is-here/README.md)
+  * [COMBO veelgestelde vragen](other-faq/combo-is-here/combo-faq.md)
+  * [COMBO's hulpprogramma](other-faq/combo-is-here/combos-utility.md)
+  * [COMBO-Distributie](other-faq/combo-is-here/combo-distribution.md)
+* [Samenwerking](other-faq/collaboration.md)
+* [Functieverzoek](other-faq/feature-request.md)
 
-## Resources
+## Middelen <a id="resources"></a>
 
-* [Smart Contracts](resources/smart-contracts.md)
-* [Brand Assets](resources/brand-assets.md)
-* [Audit Report](resources/audit.md)
-* [Bug Bounty Program](resources/bug-bounty-program.md)
+* [Slimme contracten](resources/smart-contracts.md)
+* [Auditrapport](resources/audit.md)
+* [Bug Bounty-Programma](resources/bug-bounty-program.md)
 
 ## Social Medias
 
