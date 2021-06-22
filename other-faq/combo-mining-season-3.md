@@ -79,6 +79,14 @@ This time we collaborate with our best fren [Lootex](https://lootex.io/stores/fu
 
   - What: There will be 30 limited NFTs for the winners in week 6. These NFT holders can boost their rewards starting from week 7.
 
+* **7th-week challenge: using the Token Bridge cube 🌉🌉🌉**
+
+  - How: Every address which completes a transaction with a Token Bridge cube will get a chance to win a limited NFT.
+
+  - When: June 24 2021, 3:00 AM \(UTC\) — July 1 2021, 3:00 AM \(UTC\)
+
+  - What: There will be 30 limited NFTs for the winners in week 7. These NFT holders can boost their rewards starting from week 8.
+
 * Other challenges to win a NFT? - There will be different weekly challenges throughout the mining program. Complete each challenge then you could get a chance to win the NFT. We will announce the weekly challenge on Twitter a few days before each period. - There will be 12 types of NFTs and there will be a special bonus if you are lucky enough to collect all 12 NFTs.
 * Previously distributed NFTs can be used in mining season 3 as well - We have already sent out 33 Aave x Furucombo NFTs, if you have one of them, you can boost the usage farming reward by 1.2x. - 4 lottery winners from the Furucombo creativity campaign will get their Furucombo NFT by the end of May, these NFTs can boost 1.2x of the usage farming reward.
 
