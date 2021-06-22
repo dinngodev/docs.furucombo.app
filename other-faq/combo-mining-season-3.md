@@ -8,7 +8,17 @@ Season 2 of COMBO mining has ended and we have collected excellent feedback and 
 
 ## Furucombo COMBO mining season 3
 
-{% file src="../.gitbook/assets/furucombo\_season\_3\_final-1-.pdf" caption="COMBO mining season 3 Infographic" %}
+{% hint style="success" %}
+### COMBO Mining SZN3 Bonus Event — Usage Farming on Polygon!!👩‍🎤 <a id="18b5"></a>
+
+### **TL;DR** <a id="9947"></a>
+
+📅  Begins: June 24 2021, 3 AM \(UTC\)  
+💰  Weekly total rewards: 7,000 $MATIC+14,000 $COMBO  
+🏃  Goal: Using [Furucombo](https://furucombo.app/) on Polygon AMAP!  
+🍕  Polygon Pizza can boost rewards by 1.2x! \([5th-week challenge](https://docs.furucombo.app/other-faq/combo-mining-season-3)\)  
+[👉  **More info**](https://docs.furucombo.app/other-faq/combo-mining-season-3-usage-farming-on-polygon)\*\*\*\*
+{% endhint %}
 
 ### **Program period**
 
@@ -106,6 +116,8 @@ That’s it! Enjoy participating in our COMBO mining season 3 and earning COMBO 
 [COMBO TX Rewards dashboard](https://go.furucombo.app/reward)  
 [Furucombo Dune dashboard](https://duneanalytics.com/Marcov/furucombo-statistics_1)
 {% endhint %}
+
+{% file src="../.gitbook/assets/furucombo\_season\_3\_final-1-.pdf" caption="COMBO mining season 3 Infographic" %}
 
 Things to Note
 
