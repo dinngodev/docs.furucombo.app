@@ -24,7 +24,7 @@
 ## Other FAQ
 
 * [COMBO Mining Season 3 \(ongoing\)](other-faq/combo-mining-season-3.md)
-* [COMBO Mining Season 3 — Usage Farming on Polygon](other-faq/combo-mining-season-3-usage-farming-on-polygon.md)
+* [COMBO Mining Season 3 — Usage Farming on Polygon \(ongoing\)](other-faq/combo-mining-season-3-usage-farming-on-polygon.md)
 * [COMBO Is Here](other-faq/combo-is-here/README.md)
   * [COMBO FAQ](other-faq/combo-is-here/combo-faq.md)
   * [COMBO's Utility](other-faq/combo-is-here/combos-utility.md)

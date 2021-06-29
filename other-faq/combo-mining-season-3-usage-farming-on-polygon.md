@@ -1,4 +1,4 @@
-# COMBO Mining Season 3 — Usage Farming on Polygon
+# COMBO Mining Season 3 — Usage Farming on Polygon \(ongoing\)
 
 ![](../.gitbook/assets/usage-farming-1.png)
 
