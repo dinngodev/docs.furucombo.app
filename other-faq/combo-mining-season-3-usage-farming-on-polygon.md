@@ -39,6 +39,8 @@ Jun 24 2021, 3:00 AM \(UTC\) — Aug 5 2021, 3:00 AM \(UTC\)
 * **NFT Effect** - Up to 2 times - We have sent out 30 Furucombo x Polygon Pizza NFTs, if you have one of them, you can boost the Usage Farming reward by 1.2x
 * **Cap** - 7,000 MATIC and 14,000 COMBO per week - Rewards will be scaled down pro-rata if the weekly cap is reached
 
+![Furucombo x Polygon Pizza NFT](../.gitbook/assets/polygon-pizza-nft.png)
+
 #### **Example:**
 
 * For a wallet address with 4 transactions in a farming week as shown below, it can get 0.75 MATIC + 1.5 COMBO for the week

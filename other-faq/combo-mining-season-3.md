@@ -81,6 +81,8 @@ This time we collaborate with our best fren [Lootex](https://lootex.io/stores/fu
 
   - What: There will be 30 limited NFTs for the winners in week 5. These NFT holders can boost their rewards starting from week 6. [\*\*This week’s NFT can be used to boost your usage farming rewards on Polygon.](https://docs.furucombo.app/other-faq/combo-mining-season-3-usage-farming-on-polygon)
 
+![Furucombo x Polygon Pizza NFT](../.gitbook/assets/polygon-pizza-nft%20%281%29.png)
+
 * **6th-week challenge: using the Curve cubes on the Polygon network 🌈🌈🌈**
 
   - How: Every address which completes a transaction with any Curve cube on the Polygon network will get a chance to win a limited NFT.
