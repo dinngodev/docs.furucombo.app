@@ -22,7 +22,7 @@ Jun 24 2021, 3:00 AM \(UTC\) — Aug 5 2021, 3:00 AM \(UTC\)
 * Whitelisted Tokens & Amount List - 100 USDC, 100 USDT, 100 DAI - 150 COMBO, 65 MATIC, 0.04 ETH, 0.003 WBTC - 0.3 AAVE, 10 SUSHI, 40 CRV, 10 SNX, 4 LINK
 * This is to prevent dummy addresses as the gas fee is extremely low on Polygon.
 
-#### **Step 2 — Use the following cubes:**
+#### **Step 2 — Use any cubes of Furucombo on Polygon, for example:**
 
 * **Aave:** Deposit, Withdraw, Borrow, Repay, Flashloan
 * **Quickswap:** Swap, Add Liquidity, Remove Liquidity
