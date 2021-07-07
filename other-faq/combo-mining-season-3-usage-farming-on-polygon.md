@@ -19,7 +19,7 @@ To make sure the program is able to truly reward those who engage in using Furuc
 **`[Adjustment 1] An eligible address`**  
 a. The wallet address used to join the farming program on Polygon has an amount larger than 0 ETH on Ethereum on June 24, 3 AM \(UTC\).  
 b. The wallet address that has sent over 100 USDC \(or other whitelisted tokens\) from Ethereum to Polygon with the "Token Bridge" cube on Furucombo will be eligible.   
-\(An address needs to fit both rules to become an eligible address for the program\).
+**\(An address needs to fit both rules to become an eligible address for the program\).**
 
 **`[Adjustment 2] Double weekly reward incentives`**  
 a. Even though Adjustment 1 will make the entry barrier higher than the original program design, we double the weekly rewards up to "20 MATIC + 40 COMBO per address". We believe these changes can ultimately benefit users who are genuinely trading on Furucombo.
