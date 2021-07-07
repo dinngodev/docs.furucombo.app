@@ -10,6 +10,20 @@ Thanks to the support from the Polygon team, a user can earn up to 10 MATIC & 20
 
 ## COMBO Mining SZN3 Bonus Event
 
+### Update on July 7
+
+To make sure the program is able to truly reward those who engage in using Furucombo on Polygon \(rather than washing trading\), we had a proposal voting [on our Discord](https://discord.gg/Qd4qsq5NUE) to adjust a couple of new adjustments. After a week of discussion, the final voting result is out.
+
+**The result is positive! Hence we’ll adjust the following two items from July 8 2021, 3 AM \(UTC\).**
+
+**`[Adjustment 1] An eligible address`**  
+a. The wallet address used to join the farming program on Polygon has an amount larger than 0 ETH on Ethereum on June 24, 3 AM \(UTC\).  
+b. The wallet address that has sent over 100 USDC \(or other whitelisted tokens\) from Ethereum to Polygon with the "Token Bridge" cube on Furucombo will be eligible.   
+\(An address needs to fit both rules to become an eligible address for the program\).
+
+**`[Adjustment 2] Double weekly reward incentives`**  
+a. Even though Adjustment 1 will make the entry barrier higher than the original program design, we double the weekly rewards up to "20 MATIC + 40 COMBO per address". We believe these changes can ultimately benefit users who are genuinely trading on Furucombo.
+
 ### Program period
 
 Jun 24 2021, 3:00 AM \(UTC\) — Aug 5 2021, 3:00 AM \(UTC\)
@@ -19,6 +33,7 @@ Jun 24 2021, 3:00 AM \(UTC\) — Aug 5 2021, 3:00 AM \(UTC\)
 #### Step 1 — Become an eligible address:
 
 * Any address that has sent over 100 USDC \(or other whitelisted tokens\) from Ethereum to Polygon with the ‘Token Bridge’ cube on Furucombo will be eligible.
+* The wallet address used to join the farming program on Polygon has an amount larger than 0 ETH on Ethereum on June 24, 3 AM \(UTC\).
 * Whitelisted Tokens & Amount List - 100 USDC, 100 USDT, 100 DAI - 150 COMBO, 65 MATIC, 0.04 ETH, 0.003 WBTC - 0.3 AAVE, 10 SUSHI, 40 CRV, 10 SNX, 4 LINK
 * This is to prevent dummy addresses as the gas fee is extremely low on Polygon.
 
@@ -33,7 +48,7 @@ Jun 24 2021, 3:00 AM \(UTC\) — Aug 5 2021, 3:00 AM \(UTC\)
 #### **Step 3 — What rewards can be earned:**
 
 * The more you use the cubes on Polygon Furucombo, and the less you use the same feature on Polygon, the more rewards you will be eligible to receive from this Polygon-only Usage Farming program.
-* **Rewards** - Rewards = Loyalty Point \* \(1 MATIC + 2 COMBO\) per week - Up to 10 MATIC + 20 COMBO per week
+* **Rewards** - Rewards = Loyalty Point \* \(2 MATIC + 4 COMBO\) per week - Up to 20 MATIC + 40 COMBO per week
 * **Loyalty Points** - Up to 10 points - Loyal Tx Count \* NFT Effect
 * **Loyal Tx Count** - Up to 5, renews each week - Furucombo Tx Count ⁃ Furucombo Tx Count \* Non-Furucombo Tx Count / All Tx Count
 * **NFT Effect** - Up to 2 times - We have sent out 30 Furucombo x Polygon Pizza NFTs, if you have one of them, you can boost the Usage Farming reward by 1.2x
@@ -43,9 +58,9 @@ Jun 24 2021, 3:00 AM \(UTC\) — Aug 5 2021, 3:00 AM \(UTC\)
 
 #### **Example:**
 
-* For a wallet address with 4 transactions in a farming week as shown below, it can get 0.75 MATIC + 1.5 COMBO for the week
+* For a wallet address with 4 transactions in a farming week as shown below, it can get 1.5 MATIC + 3 COMBO for the week
 * Details for the wallet: - Has sent over $100 USDC from Ethereum to Polygon with the ‘Token Bridge’ cube on Furucombo previously - 1 transaction sent from Furucombo, which used the Aave deposit cube in the past week - 1 transaction sent from Aave original site to deposit to Aave in the past week - 2 token approvals transactions in the past week - No Furucombo x Polygon Pizza NFT
-* Reward Calculation - Loyal Tx Count = 1–1 \* ¼ = 0.75 for the week \*Furucombo Tx Count = 1 \(as 1 Aave transaction sent from Furucombo\) \*Non-Furucombo Tx Count = 1 \(as 1 Aave transaction sent from Aave original site\) \*ALL Tx Count = 4 - Rewards = 0.75 \* \(1 MATIC + 2 COMBO\) = 0.75 MATIC + 1.5 COMBO for the week
+* Reward Calculation - Loyal Tx Count = 1–1 \* ¼ = 0.75 for the week \*Furucombo Tx Count = 1 \(as 1 Aave transaction sent from Furucombo\) \*Non-Furucombo Tx Count = 1 \(as 1 Aave transaction sent from Aave original site\) \*ALL Tx Count = 4 - Rewards = 0.75 \* \(2 MATIC + 4 COMBO\) = 1.5 MATIC + 3 COMBO for the week
 
 ### Distribution process
 
