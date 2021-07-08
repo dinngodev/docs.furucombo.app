@@ -11,10 +11,13 @@ v0.4.1 [0x57805e5a227937BAc2B0FdaCaA30413ddac6B8E1](https://etherscan.io/address
 
 ## Ecosystem Token
 
-Ticker: $COMBO  
+Ticker: $COMBO \(Ethereum Network\)  
 Token contract: [0xfFffFffF2ba8F66D4e51811C5190992176930278](https://etherscan.io/token/0xfFffFffF2ba8F66D4e51811C5190992176930278)
 
-Ticker: $rCOMBO  
+Ticker: $COMBO \(Polygon Network\)  
+Token contract: [0x6ddb31002abc64e1479fc439692f7ea061e78165](https://polygonscan.com/token/0x6ddb31002abc64e1479fc439692f7ea061e78165)
+
+Ticker: $rCOMBO \(Ethereum Network\)  
 Token contract: [0x2dadc3582c0655e8d21b1519bac30bc40ab14e9a](https://etherscan.io/token/0x2dadc3582c0655e8d21b1519bac30bc40ab14e9a#balances)
 
 ## Handlers
