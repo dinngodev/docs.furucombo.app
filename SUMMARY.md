@@ -2,6 +2,10 @@
 
 * [Furucombo Introduction](README.md)
 * [Furucombo V2 & Roadmap](furucombo-v2-and-roadmap.md)
+* [Furucombo Tokenomics](furucombo-tokenomics/README.md)
+  * [For Governors](furucombo-tokenomics/for-believers.md)
+  * [For Builders](furucombo-tokenomics/for-builders.md)
+  * [For Masters](furucombo-tokenomics/for-degens.md)
 
 ## Using Furucombo <a id="using-furucombo-1"></a>
 
