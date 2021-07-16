@@ -1,6 +1,6 @@
 # Smart Contracts
 
-## Proxy Contract
+## Proxy Contract \(Ethereum\)
 
 v1.6.0 \(The latest version\) [0x59daa74f2d15c87aac435ec18cb559f92490c100](https://etherscan.io/address/0x59daa74f2d15c87aac435ec18cb559f92490c100)  
 v1.5.1 [0xefa99fa2703430a38d095a29f6dc32dd9fdc5a01](https://etherscan.io/address/0xefa99fa2703430a38d095a29f6dc32dd9fdc5a01)  
@@ -8,6 +8,10 @@ v1.0.0-1 [0xA013AfbB9A92cEF49e898C87C060e6660E050569](https://etherscan.io/addre
 v1.0.0 [0x17e8Ca1b4798B97602895f63206afCd1Fc90Ca5f](https://etherscan.io/address/0x17e8Ca1b4798B97602895f63206afCd1Fc90Ca5f)  
 v0.13.1 [0xEEbeC7874f46C4452610A11FA6bE0264f7f0557F](https://etherscan.io/address/0xeebec7874f46c4452610a11fa6be0264f7f0557f)   
 v0.4.1 [0x57805e5a227937BAc2B0FdaCaA30413ddac6B8E1](https://etherscan.io/address/0x57805e5a227937bac2b0fdacaa30413ddac6b8e1)
+
+## Proxy Contract \(Polygon\)
+
+[0x125d2E4a83bBba4e6f51a244c494f9A1958D20BB](https://polygonscan.com/address/0x125d2e4a83bbba4e6f51a244c494f9a1958d20bb)
 
 ## Ecosystem Token
 
