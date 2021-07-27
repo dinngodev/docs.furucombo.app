@@ -11,7 +11,7 @@ v0.4.1 [0x57805e5a227937BAc2B0FdaCaA30413ddac6B8E1](https://etherscan.io/address
 
 ## Proxy Contract \(Polygon\)
 
-[0x125d2E4a83bBba4e6f51a244c494f9A1958D20BB](https://polygonscan.com/address/0x125d2e4a83bbba4e6f51a244c494f9a1958d20bb)
+v1.6.0 \(The latest version\) [0x125d2E4a83bBba4e6f51a244c494f9A1958D20BB](https://polygonscan.com/address/0x125d2e4a83bbba4e6f51a244c494f9a1958d20bb)
 
 ## Ecosystem Token
 
