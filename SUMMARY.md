@@ -16,6 +16,7 @@
   * [Limit Order](using-furucombo-1/tutorials/limit-order.md)
   * [Beginner’s Guide](using-furucombo-1/tutorials/beginners-guide.md)
   * [Flashloan Combo](using-furucombo-1/tutorials/flashloan-combo.md)
+  * [Troubleshooting Flash Loans](using-furucombo-1/tutorials/troubleshooting-flash-loans.md)
   * [How to Stake for Liquidity Mining](using-furucombo-1/tutorials/how-to-stake-for-liquidity-mining.md)
   * [Passive Income \| Part 1](using-furucombo-1/tutorials/passive-income-part1.md)
   * [Boost Maker vault](using-furucombo-1/tutorials/boost-maker-vault.md)
@@ -23,7 +24,6 @@
   * [Instantly Swap cTokens on Compound](using-furucombo-1/tutorials/instantly-swap-ctokens-on-compound.md)
   * [Compound Cubes](using-furucombo-1/tutorials/compound-cubes.md)
   * [Synthetix Cubes](using-furucombo-1/tutorials/synthetix-cubes.md)
-  * [Troubleshooting Flash Loans](using-furucombo-1/tutorials/troubleshooting-flash-loans.md)
 * [Furucombo on Polygon](using-furucombo-1/furucombo-on-polygon.md)
 
 ## Other FAQ

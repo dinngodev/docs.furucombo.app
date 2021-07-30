@@ -4,6 +4,8 @@ description: 'Tutorial: Troubleshooting Flash Loans'
 
 # Troubleshooting Flash Loans
 
+![](../../.gitbook/assets/tutorial-flashloan-combo.png)
+
 To learn more about flash loans, and how to appropriately set up a flash loan combo, visit our [tutorial](https://docs.furucombo.app/using-furucombo-1/tutorials/flashloan-combo) first before proceeding
 
 This guide is for troubleshooting flash loan errors, such as:
