@@ -41,7 +41,7 @@ Due to the nature of the DeFi space, expeditated development, unforeseen changes
 | :--- | :--- |
 | Usage Fee Development \(Current rate = 0%\) | Completed |
 | Sharable Link on Ethereum | Completed |
-| Sharable Link on Polygon | July 2021 |
+| Sharable Link on Polygon | Completed |
 | Referral System and Dashboard | Planning |
 | Pool Combo System and Dashboard | Planning |
 
