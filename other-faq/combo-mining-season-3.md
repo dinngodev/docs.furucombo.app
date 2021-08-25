@@ -1,4 +1,4 @@
-# COMBO Mining Season 3 \(ongoing\)
+# COMBO Mining Season 3 \(ended\)
 
 
 
