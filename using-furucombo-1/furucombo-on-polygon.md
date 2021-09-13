@@ -29,16 +29,7 @@ Currently, we only support MetaMask wallets on Chrome to access Furucombo on Pol
 
 ### How to move tokens from Ethereum to Polygon <a id="9c1a"></a>
 
-We will soon release a native token bridge on Furucombo, but right now we recommend using the Matic Bridge to convert the assets in the wallet between Ethereum and Polygon \(Matic\) network.
-
-1. Connect your MetaMask wallet on [Matic Bridge](https://wallet.matic.network/bridge/)
-2. Input the amount you’d like to move, and click “Transfer” and “Continue”
-3. Once you send out the transaction, you will see the balance updated in around 10 minutes. This means that your tokens have been successfully transferred to the same wallet address under the Polygon network.
-4. In a few minutes after, you should receive some extra MATIC tokens as provided by the Polygon team to support your gas fees on Polygon for a few transactions.
-
-{% embed url="https://youtu.be/2F6ch\_AhF3E" caption="How to move tokens from Ethereum to Polygon" %}
-
-For your reference, at the time of writing it costs around US$2.27 \(11 gwei\) in ETH to complete the transaction.
+You can use our Token Bridge cube to transfer funds from Ethereum to the Polygon network.
 
 ### What cubes do we have on Furucombo x Polygon <a id="d573"></a>
 

@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Furucombo Introduction](README.md)
-* [Furucombo V2 & Roadmap](furucombo-v2-and-roadmap.md)
+* [Furucombo V2 Prime & Roadmap](furucombo-v2-prime-and-roadmap.md)
 * [Furucombo Tokenomics](furucombo-tokenomics/README.md)
   * [For Governors](furucombo-tokenomics/for-believers.md)
   * [For Builders](furucombo-tokenomics/for-builders.md)
@@ -28,15 +28,10 @@
 
 ## Other FAQ
 
-* [COMBO Is Here](other-faq/combo-is-here/README.md)
+* [COMBO Info](other-faq/combo-is-here/README.md)
   * [COMBO FAQ](other-faq/combo-is-here/combo-faq.md)
   * [COMBO's Utility](other-faq/combo-is-here/combos-utility.md)
   * [COMBO Distribution](other-faq/combo-is-here/combo-distribution.md)
-  * [COMBO Mining Season 3 — Usage Farming on Polygon \(ended\)](other-faq/combo-is-here/combo-mining-season-3-usage-farming-on-polygon.md)
-  * [COMBO Mining Season 3 \(ended\)](other-faq/combo-is-here/combo-mining-season-3.md)
-  * [COMBO Mining Season 2 \(ended\)](other-faq/combo-is-here/combo-mining-season-2.md)
-  * [Transaction Mining Program \(ended\)](other-faq/combo-is-here/transaction-mining-program-ended.md)
-  * [COMBO launch on Balancer LBP \(ended\)](other-faq/combo-is-here/combo-launch-on-balancer-lbp.md)
 * [Collaboration](other-faq/collaboration.md)
 * [Feature Request](other-faq/feature-request.md)
 
@@ -55,4 +50,15 @@
 * [Forum](https://forum.furucombo.app/)
 * [Youtube](https://www.youtube.com/channel/UCa1kGD4lvTSrmfKbDjQNOxQ)
 * [Telegram](https://t.me/furucombo)
+
+## Archieve
+
+* [Furucombo Upgrade](archieve/furucombo-upgrade/README.md)
+  * [Furucombo V2 & Roadmap](archieve/furucombo-upgrade/furucombo-v2-and-roadmap.md)
+* [COMBO Programs](archieve/combo-programs/README.md)
+  * [COMBO Mining Season 3 — Usage Farming on Polygon \(ended\)](archieve/combo-programs/combo-mining-season-3-usage-farming-on-polygon.md)
+  * [COMBO Mining Season 3 \(ended\)](archieve/combo-programs/combo-mining-season-3.md)
+  * [COMBO Mining Season 2 \(ended\)](archieve/combo-programs/combo-mining-season-2.md)
+  * [Transaction Mining Program \(ended\)](archieve/combo-programs/transaction-mining-program-ended.md)
+  * [COMBO launch on Balancer LBP \(ended\)](archieve/combo-programs/combo-launch-on-balancer-lbp.md)
 
