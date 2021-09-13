@@ -13,6 +13,7 @@
 * [Explore Page](using-furucombo-1/explore-page.md)
 * [Decombo Page](using-furucombo-1/decombo-page.md)
 * [Tutorials](using-furucombo-1/tutorials/README.md)
+  * [Furucombo on Polygon](using-furucombo-1/tutorials/furucombo-on-polygon.md)
   * [Limit Order](using-furucombo-1/tutorials/limit-order.md)
   * [Beginner’s Guide](using-furucombo-1/tutorials/beginners-guide.md)
   * [Flashloan Combo](using-furucombo-1/tutorials/flashloan-combo.md)
@@ -24,7 +25,6 @@
   * [Instantly Swap cTokens on Compound](using-furucombo-1/tutorials/instantly-swap-ctokens-on-compound.md)
   * [Compound Cubes](using-furucombo-1/tutorials/compound-cubes.md)
   * [Synthetix Cubes](using-furucombo-1/tutorials/synthetix-cubes.md)
-* [Furucombo on Polygon](using-furucombo-1/furucombo-on-polygon.md)
 
 ## Other FAQ
 

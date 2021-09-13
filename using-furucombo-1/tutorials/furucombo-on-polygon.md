@@ -4,7 +4,7 @@ description: 'Tutorial: Furucombo on Polygon'
 
 # Furucombo on Polygon
 
-![](../.gitbook/assets/1_ouv-hl7oar7_pp2slxvsrq.png)
+![](../../.gitbook/assets/1_ouv-hl7oar7_pp2slxvsrq.png)
 
 Polygon is a well-structured development framework for building and connecting Ethereum-compatible blockchain networks. In the last six months, the total value locked on Polygon has reached $6 billion. We have seen tremendous demand to manage portfolios with Furucombo on Polygon, as many Ethereum Dapps including Aave and Sushiswap have expanded to the network.
 
@@ -23,7 +23,7 @@ In this article, we will cover all your frequently asked questions and share a r
 2. Click the network switch button and select Polygon
 3. Switch the network on your Metamask wallet
 
-![](../.gitbook/assets/0_-vnnv6lmzceediew.gif)
+![](../../.gitbook/assets/0_-vnnv6lmzceediew.gif)
 
 Currently, we only support MetaMask wallets on Chrome to access Furucombo on Polygon, and please note that you will not be able to send transactions if your MetaMask wallet is linked with a hardware wallet.
 
@@ -33,7 +33,7 @@ You can use our Token Bridge cube to transfer funds from Ethereum to the Polygon
 
 ### What cubes do we have on Furucombo x Polygon <a id="d573"></a>
 
-![](../.gitbook/assets/1_dtnryxgzseey-jtv9bqa7w.png)
+![](../../.gitbook/assets/1_dtnryxgzseey-jtv9bqa7w.png)
 
 Once you have tokens in your wallet on Polygon, you can then start to explore the DeFi legos that Furucombo supports.
 
@@ -56,7 +56,7 @@ We have supported 19 cubes since the launch on Polygon. With cubes from Aave, Cu
 
 * We will share more interesting strategies on Twitter with the[ \#combochallenge](https://twitter.com/hashtag/combochallenge?src=hashtag_click) tag!
 
-![](../.gitbook/assets/0_pfewhdlbstf3kbxd.png)
+![](../../.gitbook/assets/0_pfewhdlbstf3kbxd.png)
 
 ### **I have WETH on Polygon, but I want to lend MATIC on Aave. How can I do this? And what about fees?**
 
@@ -64,7 +64,7 @@ We have supported 19 cubes since the launch on Polygon. With cubes from Aave, Cu
 2. Click the “Approve” button to grant Furucombo access to move your WETH tokens.
 3. Click the “Send” button to actually convert your WETH to MATIC and deposit to Aave simultaneously.
 
-![](../.gitbook/assets/0_tsnohbo0s69pv_zu.png)
+![](../../.gitbook/assets/0_tsnohbo0s69pv_zu.png)
 
 For your reference, it costs around US$0.001 \(1 gwei\) to complete the transaction on Polygon on the day of writing. __While it costs about US$1.1 \(12 gwei\) on Ethereum to complete a similar transaction. That is 1000+ times less using Polygon!
 
@@ -74,5 +74,5 @@ On top of the fact that the gas fees are significantly lower on Polygon compared
 
 Let’s hop on the Polygon train and explore Furucombo in a near gas-less world!
 
-![Extra 5.66% APR in MATIC if you are a MATIC lender on the Aave Polygon market.](../.gitbook/assets/0_8p24i_vabr1xqb-r.png)
+![Extra 5.66% APR in MATIC if you are a MATIC lender on the Aave Polygon market.](../../.gitbook/assets/0_8p24i_vabr1xqb-r.png)
 
