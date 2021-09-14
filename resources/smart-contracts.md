@@ -24,7 +24,7 @@ Token contract: [0x6ddb31002abc64e1479fc439692f7ea061e78165](https://polygonscan
 Ticker: $rCOMBO \(Ethereum Network\)  
 Token contract: [0x2dadc3582c0655e8d21b1519bac30bc40ab14e9a](https://etherscan.io/token/0x2dadc3582c0655e8d21b1519bac30bc40ab14e9a#balances)
 
-## Handlers
+## Handlers \(Ethereum\)
 
 #### For v1.0.0 proxy contract \(The latest version\)
 
@@ -71,4 +71,18 @@ Token contract: [0x2dadc3582c0655e8d21b1519bac30bc40ab14e9a](https://etherscan.i
 * UniswapV2 [0x58a21cfCee675d65D577B251668f7dC46Ea9c3A0](https://etherscan.io/address/0x58a21cfCee675d65D577B251668f7dC46Ea9c3A0) 
 * Weth [0x616aB9A7877674A7bcbF5B76DFF71c55Bd2E2d55](https://etherscan.io/address/0x616aB9A7877674A7bcbF5B76DFF71c55Bd2E2d55) 
 * yVault [0xC50C8F34c9955217a6b3e385a069184DCE17fD2A](https://etherscan.io/address/0xC50C8F34c9955217a6b3e385a069184DCE17fD2A) 
+
+## Handlers \(Polygon\)
+
+#### For v1.6.0 proxy contract \(The latest version\)
+
+* HQuickSwap [0x6107114BDf5691ADEE675Ea6E9f09d34c6338cc4](https://polygonscan.com/address/0x6107114BDf5691ADEE675Ea6E9f09d34c6338cc4)
+* HSushiSwap [0x987477eF104d7B827aea9894522daaBb7C83055D](https://polygonscan.com/address/0x987477eF104d7B827aea9894522daaBb7C83055D)
+* HFunds [0x3B3f747aC68750Eb936e9116141b79358579DE84](https://polygonscan.com/address/0x3B3f747aC68750Eb936e9116141b79358579DE84)
+* HCurve [0x34e484184F350f3dD01054B8D20fC94e8Ff5d16B](https://polygonscan.com/address/0x34e484184F350f3dD01054B8D20fC94e8Ff5d16B)
+* HWmatic [0x253c788C1Da46019B6045d10514337E31DC938E9](https://polygonscan.com/address/0x253c788C1Da46019B6045d10514337E31DC938E9)
+* HCurveDao [0x40bd318505e00095D0549a0b45553626FDA46114](https://polygonscan.com/address/0x40bd318505e00095D0549a0b45553626FDA46114)
+* HAaveProtocolV2 [0xD4E8f7FfDF98F7C170A48A31d2f6d358829878Af](https://polygonscan.com/address/0xD4E8f7FfDF98F7C170A48A31d2f6d358829878Af)
+
+
 
