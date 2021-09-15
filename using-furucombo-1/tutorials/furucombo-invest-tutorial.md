@@ -25,7 +25,7 @@ Before we see which pools we might be interested in investing in, we need to ens
 ![](https://lh4.googleusercontent.com/70chG-KlmXZAXID5Qr8k1I0k_V2sSWbVCOzd4C5CqQcSX_-WQNog5Q5HM_5ng8G32fggs89c494Mt_7BCQNxxJB9VJDPDfU5-jkQ4i1IZlPkyLjxqjhoPIIpY2V4bj3jWZ6yg8JE=s0)
 
 **Step 3 -**   
-Next we need to connect our wallet. Simply click the wallet icon on the top right hand corner of your screen \(next to the network selector\), and choose the wallet of your choice from the list. For this guide we will use the most common wallet which is the [MetaMask](https://metamask.io/) web3 wallet. Ensure you are connected on your metamask wallet, and connected to the correct network as well. If it is your first time using the Polygon network, visit our [Furucombo on Polygon guide](https://docs.furucombo.app/using-furucombo-1/furucombo-on-polygon) for more information on how to access the network.
+Next we need to connect our wallet. Simply click the wallet icon on the top right hand corner of your screen \(next to the network selector\), and choose the wallet of your choice from the list. For this guide we will use the most common wallet which is the [MetaMask](https://metamask.io/) web3 wallet. Ensure you are connected on your metamask wallet, and connected to the correct network as well. If it is your first time using the Polygon network, visit our [Furucombo on Polygon guide](https://docs.furucombo.app/using-furucombo-1/tutorials/furucombo-on-polygon) for more information on how to access the network.
 
 ![](https://lh3.googleusercontent.com/YP2DXcJmB7RImpQEgtibi9kWXRvF-9MKldBW41o_wHNDWvS8iotrPk2HbS-6nevwdYdk_BpHFEn3lyk-KGmpJc_KaoRtXY5lkBIdhn0AqyTmedGG8etd8-CljHPRTMHGWMuan89W=s0)
 
