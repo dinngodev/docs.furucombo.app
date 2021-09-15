@@ -4,7 +4,7 @@ description: >-
   help you manage your wealth!
 ---
 
-# Furucombo Invest Tutorial
+# Furucombo Invest
 
 ![](https://lh3.googleusercontent.com/ggqUTxO4fPI9Me1wNrUtWv-Ur6hXJu-fTE7TfWm45xEVgD8yefkZFyzjbndp7uuh-Lwvfmdda54dxv4NHuTEvfJi4A-8B4ra6KDYzVwOMBGEnqz_C2aAy1EWC0oNbeyVewP5qYzp=s0)
 
