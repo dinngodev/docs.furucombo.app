@@ -13,6 +13,7 @@
 * [Explore Page](using-furucombo-1/explore-page.md)
 * [Decombo Page](using-furucombo-1/decombo-page.md)
 * [Tutorials](using-furucombo-1/tutorials/README.md)
+  * [Furucombo Invest Tutorial](using-furucombo-1/tutorials/furucombo-invest-tutorial.md)
   * [Furucombo on Polygon](using-furucombo-1/tutorials/furucombo-on-polygon.md)
   * [Limit Order](using-furucombo-1/tutorials/limit-order.md)
   * [Beginner’s Guide](using-furucombo-1/tutorials/beginners-guide.md)
