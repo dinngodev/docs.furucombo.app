@@ -31,6 +31,8 @@ Currently, we only support MetaMask wallets on Chrome to access Furucombo on Pol
 
 You can use our Token Bridge cube to transfer funds from Ethereum to the Polygon network.
 
+![Token Bridge cube](../../.gitbook/assets/fireshot-capture-069-furucombo-_create-all-kinds-of-defi-combo.-beta.furucombo.app.png)
+
 ### What cubes do we have on Furucombo x Polygon <a id="d573"></a>
 
 ![](../../.gitbook/assets/1_dtnryxgzseey-jtv9bqa7w.png)
