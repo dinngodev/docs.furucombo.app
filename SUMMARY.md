@@ -10,6 +10,7 @@
 ## Using Furucombo <a id="using-furucombo-1"></a>
 
 * [Combo Page](using-furucombo-1/combo-page.md)
+* [Invest Page](using-furucombo-1/invest-page.md)
 * [Explore Page](using-furucombo-1/explore-page.md)
 * [Decombo Page](using-furucombo-1/decombo-page.md)
 * [Tutorials](using-furucombo-1/tutorials/README.md)
