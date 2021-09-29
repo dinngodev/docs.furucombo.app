@@ -1,5 +1,7 @@
 # Furucombo Tokenomics
 
+![](../.gitbook/assets/image%20%2834%29.png)
+
 > One thing that we would all agree on about the DeFi space is: _there are too many things going on and too little time to DYOR!_
 
 As the DeFi space continues to change at pace, users feel overwhelmed by the number of new DeFi products and the complexity of assessing them. Masters are good at profit-making, but the return is limited by the capital one can allocate. Builders are frustrated because it becomes more difficult to stand out in a sea of legos and increasingly difficult or costly to carry out composability with other protocols.

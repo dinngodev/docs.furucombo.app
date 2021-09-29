@@ -6,6 +6,10 @@
   * [For Governors](furucombo-tokenomics/for-believers.md)
   * [For Builders](furucombo-tokenomics/for-builders.md)
   * [For Masters](furucombo-tokenomics/for-degens.md)
+  * [COMBO Info](furucombo-tokenomics/combo-is-here/README.md)
+    * [COMBO FAQ](furucombo-tokenomics/combo-is-here/combo-faq.md)
+    * [COMBO's Utility](furucombo-tokenomics/combo-is-here/combos-utility.md)
+    * [COMBO Distribution](furucombo-tokenomics/combo-is-here/combo-distribution.md)
 
 ## Using Furucombo <a id="using-furucombo-1"></a>
 
@@ -13,6 +17,7 @@
 * [Invest Page](using-furucombo-1/invest-page.md)
 * [Explore Page](using-furucombo-1/explore-page.md)
 * [Decombo Page](using-furucombo-1/decombo-page.md)
+* [Loyalty Program](using-furucombo-1/loyalty-program.md)
 * [Tutorials](using-furucombo-1/tutorials/README.md)
   * [Furucombo Invest](using-furucombo-1/tutorials/furucombo-invest-tutorial.md)
   * [Furucombo on Polygon](using-furucombo-1/tutorials/furucombo-on-polygon.md)
@@ -28,21 +33,23 @@
   * [Compound Cubes](using-furucombo-1/tutorials/compound-cubes.md)
   * [Synthetix Cubes](using-furucombo-1/tutorials/synthetix-cubes.md)
 
-## Other FAQ
+## Security
 
-* [COMBO Info](other-faq/combo-is-here/README.md)
-  * [COMBO FAQ](other-faq/combo-is-here/combo-faq.md)
-  * [COMBO's Utility](other-faq/combo-is-here/combos-utility.md)
-  * [COMBO Distribution](other-faq/combo-is-here/combo-distribution.md)
-* [Collaboration](other-faq/collaboration.md)
-* [Feature Request](other-faq/feature-request.md)
+---
+
+* [Audit Report](audit.md)
+* [Bug Bounty Program](bug-bounty-program.md)
+
+## Dev
+
+* [Furucombo Trevi](dev/furucombo-trevi.md)
+* [Collaboration](dev/collaboration.md)
+* [Feature Request](dev/feature-request.md)
 
 ## Resources
 
 * [Smart Contracts](resources/smart-contracts.md)
 * [Brand Assets](resources/brand-assets.md)
-* [Audit Report](resources/audit.md)
-* [Bug Bounty Program](resources/bug-bounty-program.md)
 
 ## Social Medias
 
