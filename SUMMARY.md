@@ -18,7 +18,7 @@
 * [Explore Page](using-furucombo-1/explore-page.md)
 * [Decombo Page](using-furucombo-1/decombo-page.md)
 * [Loyalty Program](using-furucombo-1/loyalty-program.md)
-* [Tutorials](using-furucombo-1/tutorials/README.md)
+* [Furucombo Tutorials](using-furucombo-1/tutorials/README.md)
   * [Furucombo Invest](using-furucombo-1/tutorials/furucombo-invest-tutorial.md)
   * [Furucombo on Polygon](using-furucombo-1/tutorials/furucombo-on-polygon.md)
   * [Limit Order](using-furucombo-1/tutorials/limit-order.md)
