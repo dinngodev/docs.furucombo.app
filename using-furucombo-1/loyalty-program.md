@@ -42,7 +42,7 @@ Note that points & NFTs are updated daily so they may not immediately reflect in
 
 **1. Wooden Cube**
 
-* Requires 1000 points to transmute a wooden cube
+* Requires 1500 points to transmute a wooden cube
 
 **2. Metal Cube**
 
