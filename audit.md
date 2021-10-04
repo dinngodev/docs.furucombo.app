@@ -21,16 +21,28 @@ The Furucmobo website and API have been audited by [cure53](https://cure53.de/).
 
 [Certora](https://www.certora.com/) has formally verified the Proxy, Registry, and handlers of the Furucombo system. Some minor issues were detected which have all been addressed. The full report can be viewed [here](https://github.com/dinngodev/furucombo-contract/tree/master/audit/Certora)**.**
 
+### **Furucombo Smart Wallet & Auto-Farming Feature Contract**
+
+**Peckshield**   
+  
+The Furucombo smart wallet and auto-farming feature contract have been audited by [Peckshield](https://peckshield.cn/en).   
+****There were no major or critical issues detected. The full report can be viewed [here](https://github.com/dinngodev/furucombo-smart-wallet/tree/master/audit/PeckShield)**.**
+
+#### Dedaub 
+
+The Furucombo smart wallet and auto-farming feature contract have been audited by [Dedaub](https://www.dedaub.com/).   
+****There were no major or critical issues detected. The full report can be viewed [here](https://github.com/dinngodev/furucombo-smart-wallet/tree/master/audit/Dedaub)**.**
+
 ### **Furucombo Trevi System Contract**
 
 #### **C**hainsulting
 
-The Trevi system contract has been audited by [Chainsulting](https://chainsulting.de/).   
+The Furucombo Trevi system contract has been audited by [Chainsulting](https://chainsulting.de/).   
 ****There were no major or critical issues detected. The full report can be viewed [here](https://github.com/dinngodev/trevi/tree/master/audit/Chainsulting)**.**
 
 #### HashCloak
 
-The Trevi system contract has been audited by [HashCloak](https://hashcloak.com/).   
+The Furucombo Trevi system contract has been audited by [HashCloak](https://hashcloak.com/).   
 ****There were no major or critical issues detected. The full report can be viewed [here](https://github.com/dinngodev/trevi/tree/master/audit/HashCloak)**.**
 
 #### Peckshield 
