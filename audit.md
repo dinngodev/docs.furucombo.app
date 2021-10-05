@@ -50,7 +50,7 @@ The Furucombo Trevi system contract has been audited by [HashCloak](https://hash
 The Trevi system contract has been audited by [Peckshield](https://peckshield.cn/en).   
 ****There were no major or critical issues detected. The full report can be viewed [here](https://github.com/dinngodev/trevi/tree/master/audit/PeckShield)**.**
 
-### COMBO token and Vesting contracts
+### COMBO token and Vesting contract
 
 #### **C**hainsulting
 
