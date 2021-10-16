@@ -8,11 +8,11 @@ Furucombo is a tool built for end-users to optimize their DeFi strategy simply b
 
 ## Do you charge any fees?
 
-No, currently we do not charge any fee.
+No, currently we do not charge any fees.
 
 ## How do you make money then?
 
-We are exploring different possibilities now, feel free to share your ideas at our [Discord](https://discord.furucombo.app/) community!
+We are exploring different possibilities now, feel free to share your ideas at our [Discord](https://discord.furucombo.app) community!
 
 ## What is the risk of using Furucombo?
 
@@ -20,10 +20,9 @@ On Furucombo, we use a proxy contract and handler contracts to execute your tran
 
 ## Is Furucombo open-sourced?
 
-You can find our proxy contract is verified [on Etherscan](https://etherscan.io/accounts/label/Furucombo), where you can see the contract source code.  
+You can find our proxy contract is verified [on Etherscan](https://etherscan.io/accounts/label/Furucombo), where you can see the contract source code.\
 The rest of Furucombo is not open-sourced yet.
 
 ## Does Furucombo have a token?
 
 Yes, here's our official COMBO token address: [0xfFffFffF2ba8F66D4e51811C5190992176930278](https://etherscan.io/token/0xfFffFffF2ba8F66D4e51811C5190992176930278)
-
