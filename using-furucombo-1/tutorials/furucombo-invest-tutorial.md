@@ -14,7 +14,7 @@ This tutorial will guide you through the process of using Furucombo Invest to he
 
 If you are more of a visual learner, feel free to watch our community made tutorial instead from user [Dosh](https://twitter.com/D0SHTech):
 
-[https://youtu.be/\_EkLFR-UKts](https://youtu.be/\_EkLFR-UKts)
+{% embed url="https://youtu.be/_EkLFR-UKts" %}
 
 ## **Basics:**
 
