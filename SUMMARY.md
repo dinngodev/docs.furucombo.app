@@ -11,11 +11,11 @@
     * [COMBO's Utility](furucombo-tokenomics/combo-is-here/combos-utility.md)
     * [COMBO Distribution](furucombo-tokenomics/combo-is-here/combo-distribution.md)
 
-## Using Furucombo <a id="using-furucombo-1"></a>
+## Using Furucombo <a href="using-furucombo-1" id="using-furucombo-1"></a>
 
-* [Combo Page](using-furucombo-1/combo-page.md)
+* [Create Page](using-furucombo-1/combo-page.md)
 * [Invest Page](using-furucombo-1/invest-page.md)
-* [Explore Page](using-furucombo-1/explore-page.md)
+* [Learn Page](using-furucombo-1/explore-page.md)
 * [Decombo Page](using-furucombo-1/decombo-page.md)
 * [Loyalty Program](using-furucombo-1/loyalty-program.md)
 * [Furucombo Tutorials](using-furucombo-1/tutorials/README.md)
@@ -26,7 +26,7 @@
   * [Flashloan Combo](using-furucombo-1/tutorials/flashloan-combo.md)
   * [Troubleshooting Flash Loans](using-furucombo-1/tutorials/troubleshooting-flash-loans.md)
   * [How to Stake for Liquidity Mining](using-furucombo-1/tutorials/how-to-stake-for-liquidity-mining.md)
-  * [Passive Income \| Part 1](using-furucombo-1/tutorials/passive-income-part1.md)
+  * [Passive Income | Part 1](using-furucombo-1/tutorials/passive-income-part1.md)
   * [Boost Maker vault](using-furucombo-1/tutorials/boost-maker-vault.md)
   * [Close Maker vault](using-furucombo-1/tutorials/close-maker-vault.md)
   * [Instantly Swap cTokens on Compound](using-furucombo-1/tutorials/instantly-swap-ctokens-on-compound.md)
@@ -35,7 +35,7 @@
 
 ## Security
 
----
+***
 
 * [Audit Report](audit.md)
 * [Bug Bounty Program](bug-bounty-program.md)
@@ -56,7 +56,7 @@
 * [Twitter](https://twitter.com/furucombo)
 * [Discord](https://discord.gg/JuamDaq)
 * [Blog](https://medium.com/@furucombo)
-* [Forum](https://forum.furucombo.app/)
+* [Forum](https://forum.furucombo.app)
 * [Youtube](https://www.youtube.com/channel/UCa1kGD4lvTSrmfKbDjQNOxQ)
 * [Telegram](https://t.me/furucombo)
 
@@ -65,9 +65,8 @@
 * [Furucombo Upgrade](archieve/furucombo-upgrade/README.md)
   * [Furucombo V2 & Roadmap](archieve/furucombo-upgrade/furucombo-v2-and-roadmap.md)
 * [COMBO Programs](archieve/combo-programs/README.md)
-  * [COMBO Mining Season 3 — Usage Farming on Polygon \(ended\)](archieve/combo-programs/combo-mining-season-3-usage-farming-on-polygon.md)
-  * [COMBO Mining Season 3 \(ended\)](archieve/combo-programs/combo-mining-season-3.md)
-  * [COMBO Mining Season 2 \(ended\)](archieve/combo-programs/combo-mining-season-2.md)
-  * [Transaction Mining Program \(ended\)](archieve/combo-programs/transaction-mining-program-ended.md)
-  * [COMBO launch on Balancer LBP \(ended\)](archieve/combo-programs/combo-launch-on-balancer-lbp.md)
-
+  * [COMBO Mining Season 3 — Usage Farming on Polygon (ended)](archieve/combo-programs/combo-mining-season-3-usage-farming-on-polygon.md)
+  * [COMBO Mining Season 3 (ended)](archieve/combo-programs/combo-mining-season-3.md)
+  * [COMBO Mining Season 2 (ended)](archieve/combo-programs/combo-mining-season-2.md)
+  * [Transaction Mining Program (ended)](archieve/combo-programs/transaction-mining-program-ended.md)
+  * [COMBO launch on Balancer LBP (ended)](archieve/combo-programs/combo-launch-on-balancer-lbp.md)

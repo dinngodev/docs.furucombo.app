@@ -1,9 +1,9 @@
 # COMBO FAQ
 
-#### **What’s COMBO?** 
+#### **What’s COMBO?**&#x20;
 
-* To become a completely self-sustainable ecosystem, Furucombo v2, COMBO Token would be the key piece of the puzzle to make it happen. → [Introducing COMBO Token](%20https://go.furucombo.app/26zZv%20)
-* COMBO token Address: [`0xffffffff2ba8f66d4e51811c5190992176930278`](https://etherscan.io/token/0xfFffFffF2ba8F66D4e51811C5190992176930278)\`\`
+* To become a completely self-sustainable ecosystem, Furucombo v2, COMBO Token would be the key piece of the puzzle to make it happen. → [Introducing COMBO Token](https://go.furucombo.app/26zZv)
+* COMBO token Address: [`0xffffffff2ba8f66d4e51811c5190992176930278`](https://etherscan.io/token/0xfFffFffF2ba8F66D4e51811C5190992176930278)``
 
 #### **COMBO Utility?**
 
@@ -22,6 +22,4 @@
 * Join Furucombo ongoing campaigns.
 
 ![Furucombo Invest Auto-Farming Pool](../../.gitbook/assets/comboinvest.png)
-
-
 

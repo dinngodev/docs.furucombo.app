@@ -1,4 +1,4 @@
-# COMBO Mining Season 3 \(ended\)
+# COMBO Mining Season 3 (ended)
 
 
 
@@ -9,24 +9,24 @@ Season 2 of COMBO mining has ended and we have collected excellent feedback and 
 ## Furucombo COMBO mining season 3
 
 {% hint style="success" %}
-### COMBO Mining SZN3 Bonus Event — Usage Farming on Polygon!!👩‍🎤 <a id="18b5"></a>
+### COMBO Mining SZN3 Bonus Event — Usage Farming on Polygon!!👩‍🎤 <a href="18b5" id="18b5"></a>
 
-### **TL;DR** <a id="9947"></a>
+### **TL;DR** <a href="9947" id="9947"></a>
 
-📅  Begins: June 24 2021, 3 AM \(UTC\)  
-💰  Weekly total rewards: 7,000 $MATIC+14,000 $COMBO  
-🏃  Goal: Using [Furucombo](https://furucombo.app/) on Polygon AMAP!  
-🍕  Polygon Pizza can boost rewards by 1.2x! \(5th-week challenge pizza\)  
-[👉  **More info**](https://docs.furucombo.app/other-faq/combo-mining-season-3-usage-farming-on-polygon)\*\*\*\*
+📅  Begins: June 24 2021, 3 AM (UTC)\
+💰  Weekly total rewards: 7,000 $MATIC+14,000 $COMBO\
+🏃  Goal: Using [Furucombo](https://furucombo.app) on Polygon AMAP!\
+🍕  Polygon Pizza can boost rewards by 1.2x! (5th-week challenge pizza)\
+[👉  **More info**](https://docs.furucombo.app/other-faq/combo-mining-season-3-usage-farming-on-polygon)****
 {% endhint %}
 
 ### **Program period**
 
-May 13 2021, 3:00 AM \(UTC\) — Aug 5 2021, 3:00 AM \(UTC\)
+May 13 2021, 3:00 AM (UTC) — Aug 5 2021, 3:00 AM (UTC)
 
 ### **How to participate**
 
-There will be two parts in the season 3 program. Each user can decide which part\(s\) to join to earn the weekly rewards.
+There will be two parts in the season 3 program. Each user can decide which part(s) to join to earn the weekly rewards.
 
 1. Liquidity Farming: Stake COMBO or COMBO/ETH LP token to earn rewards.
 2. Usage Farming: Gas reimbursement + weekly challenge to join NFT lotteries.
@@ -35,9 +35,11 @@ There will be two parts in the season 3 program. Each user can decide which part
 
 Unlike season 2, this time stakers don’t need to make transactions every week to get the weekly rewards.
 
-* The reward is calculated pro-rata with \(Stake Amount\) x \(Stake duration\).
+* The reward is calculated pro-rata with (Stake Amount) x (Stake duration).
 * Weekly distribution, 6-week vesting
-* Weekly budgets: - COMBO Staking: 10,000 COMBO - COMBO/ETH Uni-V2 LP Staking: 77,500 COMBO
+* Weekly budgets:\
+  \- COMBO Staking: 10,000 COMBO\
+  \- COMBO/ETH Uni-V2 LP Staking: 77,500 COMBO
 * All budgets will be shared with the respective stakers.
 
 To maximize rewards, we recommend that you stake COMBO tokens or COMBO/ETH Uni-V2 LP tokens as soon as you own some. Because the earlier you stake, the bigger your staking area will be, hence higher rewards.
@@ -46,124 +48,133 @@ To maximize rewards, we recommend that you stake COMBO tokens or COMBO/ETH Uni-V
 
 Usage Farming aims to encourage people to use and to try out the magic of Furucombo. **This is a basic gas reimbursement program, but users who hold Furucombo NFTs can also boost their rewards up to 2 times.**
 
-* The reward is calculated pro-rata with \(Gas Used\) x \(Gas Price\) x NFT effect / \(COMBO Price in ETH\)
+* The reward is calculated pro-rata with (Gas Used) x (Gas Price) x NFT effect / (COMBO Price in ETH)
 * Weekly distribution, no vesting
-* Cap: - 100,000 COMBO as total weekly rewards. If the cap is reached, all rewards will be scaled down together. **- Maximum gas used per address = 1,200,000 gas limit.** This will cover around three transactions on average.
-* Which transactions will count? - Basically all transactions you send on the combo page that involve token transfers. - Failed transactions will also count. - Token approvals are not counted because they do not interact with Furucombo. - Using smart wallets such as Argent, DappLogic, Gnosis Safe will not be counted because the behavior of these wallets is quite unique. - Quick check? If your transaction has the tag “Interacted With \(To\): Furucombo: Proxy vx.x.x” on etherscan, it will be counted.
+* Cap:\
+  \- 100,000 COMBO as total weekly rewards. If the cap is reached, all rewards will be scaled down together.\
+  **- Maximum gas used per address = 1,200,000 gas limit.** This will cover around three transactions on average.
+* Which transactions will count?\
+  \- Basically all transactions you send on the combo page that involve token transfers.\
+  \- Failed transactions will also count.\
+  \- Token approvals are not counted because they do not interact with Furucombo.\
+  \- Using smart wallets such as Argent, DappLogic, Gnosis Safe will not be counted because the behavior of these wallets is quite unique.\
+  \- Quick check? If your transaction has the tag “Interacted With (To): Furucombo: Proxy vx.x.x” on etherscan, it will be counted.
 
 ### **How to get a Furucombo NFT?**
 
 This time we collaborate with our best fren [Lootex](https://lootex.io/stores/furucombo-nft) to issue FuruPizza on Polygon!
 
-* **1st-week challenge: using the Aave cube 👻👻👻** - How: Every address which completes a transaction with any Aave cube will get a chance to win a limited NFT. - When: May 13 2021, 3:00 AM \(UTC\) — May 20 2021, 3:00 AM \(UTC\) - What: There will be 26 out of 30 limited NFTs for the winners in week 1. These NFT holders can boost their rewards starting from week 2.
-* **2nd-week challenge: using the Sushiswap cubes 🍣🍣🍣**
+* **1st-week challenge: using the Aave cube 👻👻👻**\
+  \- How: Every address which completes a transaction with any Aave cube will get a chance to win a limited NFT.\
+  \- When: May 13 2021, 3:00 AM (UTC) — May 20 2021, 3:00 AM (UTC)\
+  \- What: There will be 26 out of 30 limited NFTs for the winners in week 1. These NFT holders can boost their rewards starting from week 2.
+*   **2nd-week challenge: using the Sushiswap cubes 🍣🍣🍣**
 
-  - How: Every address which completes a transaction with any Sushiswap cube will get a chance to win a limited NFT.
+    \- How: Every address which completes a transaction with any Sushiswap cube will get a chance to win a limited NFT.
 
-  - When: May 20 2021, 3:00 AM \(UTC\) — May 27 2021, 3:00 AM \(UTC\)
+    \- When: May 20 2021, 3:00 AM (UTC) — May 27 2021, 3:00 AM (UTC)
 
-  - What: There will be 30 limited NFTs for the winners in week 2. These NFT holders can boost their rewards starting from week 3.
+    \- What: There will be 30 limited NFTs for the winners in week 2. These NFT holders can boost their rewards starting from week 3.
+* **3rd-week challenge: using the B.Protocol cubes 🥦🥦🥦**\
+  ****- How: Every address which completes a transaction with any B.Protocol cube will get a chance to win a limited NFT.\
+  \- When: May 27 2021, 3:00 AM (UTC) — June 3 2021, 3:00 AM (UTC)\
+  \- What: There will be 30 limited NFTs for the winners in week 3. These NFT holders can boost their rewards starting from week 4.
+*   **4th-week challenge: using 4 cubes in one transaction **🧊🧊🧊🧊
 
-* **3rd-week challenge: using the B.Protocol cubes 🥦🥦🥦** - How: Every address which completes a transaction with any B.Protocol cube will get a chance to win a limited NFT. - When: May 27 2021, 3:00 AM \(UTC\) — June 3 2021, 3:00 AM \(UTC\) - What: There will be 30 limited NFTs for the winners in week 3. These NFT holders can boost their rewards starting from week 4.
-* **4th-week challenge: using 4 cubes in one transaction** 🧊🧊🧊🧊
+    \- How: Every address which completes a transaction with 4 cubes will get a chance to win a limited NFT.
 
-  - How: Every address which completes a transaction with 4 cubes will get a chance to win a limited NFT.
+    \- When: June 3 2021, 3:00 AM (UTC) — June 10 2021, 3:00 AM (UTC)
 
-  - When: June 3 2021, 3:00 AM \(UTC\) — June 10 2021, 3:00 AM \(UTC\)
+    \- What: There will be 30 limited NFTs for the winners in week 4. These NFT holders can boost their rewards starting from week 5.
+*   **5th-week challenge: Use Polygon network, send out 1 txn.** 💜💜💜
 
-  - What: There will be 30 limited NFTs for the winners in week 4. These NFT holders can boost their rewards starting from week 5.
+    \- How: Every address which completes a transaction on the Polygon network will get a chance to win a limited NFT.
 
-* **5th-week challenge: Use Polygon network, send out 1 txn.** 💜💜💜
+    \- When: June 10 2021, 3:00 AM (UTC) — June 17 2021, 3:00 AM (UTC)
 
-  - How: Every address which completes a transaction on the Polygon network will get a chance to win a limited NFT.
+    \- What: There will be 30 limited NFTs for the winners in week 5. These NFT holders can boost their rewards starting from week 6. [\*\*This week’s NFT can be used to boost your usage farming rewards on Polygon.](https://docs.furucombo.app/other-faq/combo-mining-season-3-usage-farming-on-polygon)
 
-  - When: June 10 2021, 3:00 AM \(UTC\) — June 17 2021, 3:00 AM \(UTC\)
+![Furucombo x Polygon Pizza NFT](<../../.gitbook/assets/polygon-pizza-nft (1).png>)
 
-  - What: There will be 30 limited NFTs for the winners in week 5. These NFT holders can boost their rewards starting from week 6. [\*\*This week’s NFT can be used to boost your usage farming rewards on Polygon.](https://docs.furucombo.app/other-faq/combo-mining-season-3-usage-farming-on-polygon)
+*   **6th-week challenge: using the Curve cubes on the Polygon network 🌈🌈🌈**
 
-![Furucombo x Polygon Pizza NFT](../../.gitbook/assets/polygon-pizza-nft%20%281%29.png)
+    \- How: Every address which completes a transaction with any Curve cube on the Polygon network will get a chance to win a limited NFT.
 
-* **6th-week challenge: using the Curve cubes on the Polygon network 🌈🌈🌈**
+    \- When: June 17 2021, 3:00 AM (UTC) — June 24 2021, 3:00 AM (UTC)
 
-  - How: Every address which completes a transaction with any Curve cube on the Polygon network will get a chance to win a limited NFT.
+    \- What: There will be 30 limited NFTs for the winners in week 6. These NFT holders can boost their rewards starting from week 7.
+*   **7th-week challenge: using the Token Bridge cube 🌉🌉🌉**
 
-  - When: June 17 2021, 3:00 AM \(UTC\) — June 24 2021, 3:00 AM \(UTC\)
+    \- How: Every address which completes a transaction with a Token Bridge cube will get a chance to win a limited NFT.
 
-  - What: There will be 30 limited NFTs for the winners in week 6. These NFT holders can boost their rewards starting from week 7.
+    \- When: June 24 2021, 3:00 AM (UTC) — July 1 2021, 3:00 AM (UTC)
 
-* **7th-week challenge: using the Token Bridge cube 🌉🌉🌉**
+    \- What: There will be 30 limited NFTs for the winners in week 7. These NFT holders can boost their rewards starting from week 8.
+*   **8th-week challenge: using the QuickSawp cubes on the Polygon network 🐉🐉🐉**
 
-  - How: Every address which completes a transaction with a Token Bridge cube will get a chance to win a limited NFT.
+    \- How: Every address which completes a transaction with any QuickSawp cube on the Polygon network will get a chance to win a limited NFT.
 
-  - When: June 24 2021, 3:00 AM \(UTC\) — July 1 2021, 3:00 AM \(UTC\)
+    \- When: July 1 2021, 3:00 AM (UTC) — July 8 2021, 3:00 AM (UTC)
 
-  - What: There will be 30 limited NFTs for the winners in week 7. These NFT holders can boost their rewards starting from week 8.
+    \- What: There will be 30 limited NFTs for the winners in week 8. These NFT holders can boost their rewards starting from week 9.
+*   **9th-week challenge: Add Liquidity - COMBO/WETH to QuickSwap 🐉💦🏊**
 
-* **8th-week challenge: using the QuickSawp cubes on the Polygon network 🐉🐉🐉**
+    \- How: Every address which adds liquidity to QuickSwap's COMBO/WETH pool will get a chance to win a limited NFT.
 
-  - How: Every address which completes a transaction with any QuickSawp cube on the Polygon network will get a chance to win a limited NFT.
+    \- When: July 8 2021, 3:00 AM (UTC) — July 15 2021, 3:00 AM (UTC)
 
-  - When: July 1 2021, 3:00 AM \(UTC\) — July 8 2021, 3:00 AM \(UTC\)
+    \- What: There will be 30 limited NFTs for the winners in week 9. These NFT holders can boost their rewards starting from week 10.
+*   **10th-week challenge: using 5 cubes in one transaction on the Polygon network 👩‍🎤👩‍🎤👩‍🎤**
 
-  - What: There will be 30 limited NFTs for the winners in week 8. These NFT holders can boost their rewards starting from week 9.
+    \- How: Every address which completes a transaction with 5 cubes on the Polygon network will get a chance to win a limited NFT.
 
-* **9th-week challenge: Add Liquidity - COMBO/WETH to QuickSwap 🐉💦🏊**
+    \- When: July 15 2021, 3:00 AM (UTC) — July 22 2021, 3:00 AM (UTC)
 
-  - How: Every address which adds liquidity to QuickSwap's COMBO/WETH pool will get a chance to win a limited NFT.
+    \- What: There will be 30 limited NFTs for the winners in week 10. These NFT holders can boost their rewards starting from week 11.
+*   **11th-week challenge: using the Limit Order combo 🤖🤖🤖**
 
-  - When: July 8 2021, 3:00 AM \(UTC\) — July 15 2021, 3:00 AM \(UTC\)
+    \- How: Every address which completes a transaction with [a limit order combo](https://furucombo.app/explore/combo\_furucombo\_00003) will get a chance to win a limited NFT.
 
-  - What: There will be 30 limited NFTs for the winners in week 9. These NFT holders can boost their rewards starting from week 10.
+    \- When: July 22 2021, 3:00 AM (UTC) — July 29 2021, 3:00 AM (UTC)
 
-* **10th-week challenge: using 5 cubes in one transaction on the Polygon network 👩‍🎤👩‍🎤👩‍🎤**
+    \- What: There will be 30 limited NFTs for the winners in week 11. These NFT holders can boost their rewards starting from week 12.
+*   **12th-week challenge: using the Uniswap V3 Swap Token cube 🦄🦄🦄**
 
-  - How: Every address which completes a transaction with 5 cubes on the Polygon network will get a chance to win a limited NFT.
+    \- How: Every address which completes a transaction with a Uniswap V3 Swap Token cube will get a chance to win a limited NFT.
 
-  - When: July 15 2021, 3:00 AM \(UTC\) — July 22 2021, 3:00 AM \(UTC\)
+    \- When: July 29 2021, 3:00 AM (UTC) — Aug 5 2021, 3:00 AM (UTC)
 
-  - What: There will be 30 limited NFTs for the winners in week 10. These NFT holders can boost their rewards starting from week 11.
-
-* **11th-week challenge: using the Limit Order combo 🤖🤖🤖**
-
-  - How: Every address which completes a transaction with [a limit order combo](https://furucombo.app/explore/combo_furucombo_00003) will get a chance to win a limited NFT.
-
-  - When: July 22 2021, 3:00 AM \(UTC\) — July 29 2021, 3:00 AM \(UTC\)
-
-  - What: There will be 30 limited NFTs for the winners in week 11. These NFT holders can boost their rewards starting from week 12.
-
-* **12th-week challenge: using the Uniswap V3 Swap Token cube 🦄🦄🦄**
-
-  - How: Every address which completes a transaction with a Uniswap V3 Swap Token cube will get a chance to win a limited NFT.
-
-  - When: July 29 2021, 3:00 AM \(UTC\) — Aug 5 2021, 3:00 AM \(UTC\)
-
-  - What: There will be 30 limited NFTs for the winners in week 12.
-
-* Other challenges to win a NFT? - There will be different weekly challenges throughout the mining program. Complete each challenge then you could get a chance to win the NFT. We will announce the weekly challenge on Twitter a few days before each period. - There will be 12 types of NFTs and there will be a special bonus if you are lucky enough to collect all 12 NFTs.
-* Previously distributed NFTs can be used in mining season 3 as well - We have already sent out 33 Aave x Furucombo NFTs, if you have one of them, you can boost the usage farming reward by 1.2x. - 4 lottery winners from the Furucombo creativity campaign will get their Furucombo NFT by the end of May, these NFTs can boost 1.2x of the usage farming reward.
+    \- What: There will be 30 limited NFTs for the winners in week 12.
+* Other challenges to win a NFT?\
+  \- There will be different weekly challenges throughout the mining program. Complete each challenge then you could get a chance to win the NFT. We will announce the weekly challenge on Twitter a few days before each period.\
+  \- There will be 12 types of NFTs and there will be a special bonus if you are lucky enough to collect all 12 NFTs.
+* Previously distributed NFTs can be used in mining season 3 as well\
+  \- We have already sent out 33 Aave x Furucombo NFTs, if you have one of them, you can boost the usage farming reward by 1.2x.\
+  \- 4 lottery winners from the Furucombo creativity campaign will get their Furucombo NFT by the end of May, these NFTs can boost 1.2x of the usage farming reward.
 
 ### Distribution process
 
 * We will distribute COMBO tokens as rewards on a weekly basis.
 * Furucombo team will calculate rewards every Thursday and share the result in our Discord channel for community review.
-* If no disputes are raised within 24hrs, the unlocked amount will then be updated to the Furucombo contract \(Typically by Friday night\). You can then claim your rewards through a “Claim COMBO” cube.
+* If no disputes are raised within 24hrs, the unlocked amount will then be updated to the Furucombo contract (Typically by Friday night). You can then claim your rewards through a “Claim COMBO” cube.
 
-![](../../.gitbook/assets/0_fdxp6gipd57mvifs.png)
+![](../../.gitbook/assets/0\_fdxp6gipd57mvifs.png)
 
 
 
-That’s it! Enjoy participating in our COMBO mining season 3 and earning COMBO tokens in the following weeks. If you have any questions on this, our team is standing by in [Discord](https://discord.furucombo.app/) to answer any questions. Thanks for participating in the Furucombo community!
+That’s it! Enjoy participating in our COMBO mining season 3 and earning COMBO tokens in the following weeks. If you have any questions on this, our team is standing by in [Discord](https://discord.furucombo.app) to answer any questions. Thanks for participating in the Furucombo community!
 
 {% hint style="success" %}
-[COMBO TX Rewards dashboard](https://go.furucombo.app/reward)  
-[Furucombo Dune dashboard](https://duneanalytics.com/Marcov/furucombo-statistics_1)
+[COMBO TX Rewards dashboard](https://go.furucombo.app/reward)\
+[Furucombo Dune dashboard](https://duneanalytics.com/Marcov/furucombo-statistics\_1)
 {% endhint %}
 
-{% file src="../../.gitbook/assets/furucombo\_season\_3\_final-1-.pdf" caption="COMBO mining season 3 Infographic" %}
+{% file src="../../.gitbook/assets/furucombo_season_3_final-1-.pdf" %}
+COMBO mining season 3 Infographic
+{% endfile %}
 
 Things to Note
 
 * This is the third round of the Furucombo mining program in a series. Any future rounds may have different rules and rewards.
 * Furucombo reserves the right to change, amend and add new rules agreed by the community during the program period.
 * Furucombo is beta software, and it should be treated as highly unstable. Please use it at your own risk.
-
