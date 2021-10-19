@@ -16,7 +16,7 @@ Furucombo is free of charge at the moment and the Governor can vote to decide th
 
 Anyone with vCOMBO tokens is a Furucombo Governor.
 
-#### Once you lock your COMBO tokens, you will get vCOMBO in return. 
+#### Once you lock your COMBO tokens, you will get vCOMBO in return.&#x20;
 
 * You can choose the locking period - the longer you lock, the more vCOMBO you will get.
 * The vCOMBO token is non-transferable, but you could delegate your voting power to others.
@@ -34,7 +34,7 @@ The more vCOMBO you hold or get delegated from others, the more voting power you
 
 ## Furucombo Treasury
 
-Furucombo Treasury is where we park the proceeds of the Furucombo protocol. It will be a composite of COMBO/USDC LP tokens. 
+Furucombo Treasury is where we park the proceeds of the Furucombo protocol. It will be a composite of COMBO/USDC LP tokens.&#x20;
 
 The revenue stream covers below components:
 
@@ -54,14 +54,12 @@ The revenue stream covers below components:
 Due to the nature of the DeFi space, expeditated development, unforeseen changes, or community feedback may cause these plans to change.
 {% endhint %}
 
-| Subject | Status |
-| :--- | :--- |
-| [Governance Forum](https://forum.furucombo.app/) | Launched |
-| [Discord Exclusive Channel for Voting](https://discord.com/channels/518722025095954434/518729593834700800/860019197816209418) | Launched |
-| Combo Locking Contract \(stake COMBO & receive vCOMBO\) | Q3 2021 |
-| Governance Portal for Off-chain Voting \(using [Snapshot](https://snapshot.org/#/)\) | Q3 2021 |
-| Governance Notification System to keep every Governor updated | Q4 2021 |
-| Governance Portal for On-chain Voting | 2022 |
-
-
+| Subject                                                                                                                       | Status    |
+| ----------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Governance Forum](https://forum.furucombo.app)                                                                               | Launched  |
+| [Discord Exclusive Channel for Voting](https://discord.com/channels/518722025095954434/518729593834700800/860019197816209418) | Launched  |
+| Combo Locking Contract (stake COMBO & receive vCOMBO)                                                                         | Completed |
+| Governance Portal for Off-chain Voting (using [Snapshot](https://snapshot.org/#/))                                            | Q4 2021   |
+| Governance Notification System to keep every Governor updated                                                                 | Q4 2021   |
+| Governance Portal for On-chain Voting                                                                                         | 2022      |
 
