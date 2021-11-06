@@ -14,7 +14,7 @@ How to use the Create mode
 
 ## Do you charge any fees?
 
-Most of the services and features are free from charge, except the ao-invest feature as 20% performance fees are collected and managed by Furucombo Treasury.
+Most of the services and features are free from charge, except the auto-invest feature as 20% performance fees are collected and managed by Furucombo Treasury.
 
 ## What is the risk of using Furucombo?
 
