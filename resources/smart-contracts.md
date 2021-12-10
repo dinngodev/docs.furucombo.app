@@ -64,7 +64,7 @@ Token contract: [0x2dadc3582c0655e8d21b1519bac30bc40ab14e9a](https://etherscan.i
 
 ### Handlers:
 
-#### For v1.0.0 proxy contract (The latest version)
+#### For v1.6.0 proxy contract (The latest version)
 
 * Aave v1 Protocol [0xd9C746b3074552a2314b1B19728e84A7aD92FB59](https://etherscan.io/address/0xd9C746b3074552a2314b1B19728e84A7aD92FB59)
 * Aave v2 Protocol [0xCef6901A33feAbe552aCfd702Fe427FA40643C28](https://etherscan.io/address/0xCef6901A33feAbe552aCfd702Fe427FA40643C28)
