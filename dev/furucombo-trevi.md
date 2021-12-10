@@ -17,7 +17,7 @@ With Trevi, you can:
 * Add a flash loan use case for the staking position.
 * Easily integrate with Furucombo.
 
-## Terminology <a href="583f" id="583f"></a>
+## Terminology <a href="#583f" id="583f"></a>
 
 Before you continue reading, there are some basic terminology for your reference:
 
@@ -26,7 +26,7 @@ Before you continue reading, there are some basic terminology for your reference
 * **Angel:** The name of the reward distribution contract where a Rewarder grants the rewards as lovely angels. One Angel consists of one type of reward. You can create several Angels if you want to provide several types of tokens as reward.
 * **Fountain:** The name of the staking contract where users stake tokens in order to get rewards from Angels.
 
-## What is Trevi? <a href="71ec" id="71ec"></a>
+## What is Trevi? <a href="#71ec" id="71ec"></a>
 
 Trevi is an ERC20-based staking and reward distribution system. It enables project teams to manage and schedule reward distribution with ease.
 
@@ -35,13 +35,13 @@ The contract named Archangel manages the whole Trevi system (you can check its f
 * With the Fountain Factory contract, anyone can create a Fountain with the contract interface to allow token staking.
 * With the Angel Factory contract, anyone can create an Angel to run their rewarding program with tokens.
 
-Important notice: **AVOID USING TOKENS THAT HAVE FLOATING AMOUNTS** (including inflationary/deflationary tokens, interest tokens or rebase tokens), which might lead to error according to the contract design policy.
+Important notice: **AVOID USING TOKENS THAT HAVE FLOATING AMOUNTS** (including inflationary/deflationary tokens, interest tokens or rebase tokens) AND **AVOID USING TOKENS WITH DECIMALS LOWER THAN 18** (e.g. USDC, USDT, WBTC), which might lead to error according to the contract design policy.
 
 Once you create the Angel(s), you are now the ‘Rewarder,’ and you can manage the reward schedule and assign which Fountain can get your reward. On the other hand, your users can stake their tokens to the Fountain you assign to earn the reward from your Angel(s).
 
 ![Furucombo Trevi schematic diagram](https://miro.medium.com/max/1260/1\*mdRyVyXQ7lNewH2x\_cqYzA.png)
 
-## How to grant rewards through Trevi (For Rewarders) <a href="5498" id="5498"></a>
+## How to grant rewards through Trevi (For Rewarders) <a href="#5498" id="5498"></a>
 
 As Rewarders who plan to have a reward system, they don’t need to build any contract to start the program. They can launch the program through Trevi directly on Polygonscan.
 
@@ -51,13 +51,13 @@ There are only three steps to issue the rewards:
 2. Assign which token staking you want to incentivize
 3. Set reward distribution rate and schedule
 
-### 1. Create an Angel contract to store your reward <a href="70fd" id="70fd"></a>
+### 1. Create an Angel contract to store your reward <a href="#70fd" id="70fd"></a>
 
-First, a Rewarder needs to create the Angel contract through the [Angel Factory contract](https://polygonscan.com/address/0x66Ab9f76e7822B7160E22f8b02Dbd2D757FabF32#code) interface. You can call the function **`create(address reward)`**_** **_of the Angel Factory to create the Angel. The parameter **`reward`** is the token address of the reward you provide.
+First, a Rewarder needs to create the Angel contract through the [Angel Factory contract](https://polygonscan.com/address/0x66Ab9f76e7822B7160E22f8b02Dbd2D757FabF32#code) interface. You can call the function **`create(address reward)` **_****_ of the Angel Factory to create the Angel. The parameter **`reward`** is the token address of the reward you provide.
 
 ![Angel Factory Contract](https://miro.medium.com/max/1260/0\*vas5yjUIyYgWRcv6)
 
-### 2. Assign which token staking you want to incentivize <a href="e655" id="e655"></a>
+### 2. Assign which token staking you want to incentivize <a href="#e655" id="e655"></a>
 
 Secondly, decide which Fountain(s) you want to incentivize. A Rewarder can call the function **`add(uint256 allocPoint, address _lpToken, address _Rewarder)`** to assign the Fountain(s) to receive the reward in the [Angel](https://polygonscan.com/address/0x062ffe63b7a0d7f27a8105e717c6ea45e5848ad3#code)(s).
 
@@ -71,7 +71,7 @@ Note: You may need to create a Fountain beforehand if the token you want to ince
 
 ![Fountain Factory Contract](https://miro.medium.com/max/1260/0\*z6rk2ip\_ajXINEmB)
 
-### 3. Set reward distribution rate and schedule <a href="633c" id="633c"></a>
+### 3. Set reward distribution rate and schedule <a href="#633c" id="633c"></a>
 
 Now the Rewarder is ready to kick-off the reward distribution. There are two ways to set the distribution rate and schedule.
 
@@ -94,7 +94,7 @@ Rewarders provide the distribution rate and the end time of the distribution. Th
 
 That’s it! After the above 3 steps, the reward program will start to run. It will distribute the rewards to the user who stakes tokens to the Fountain every block based on the configuration you set up.
 
-## How to earn rewards from Trevi (For Stakers) <a href="20c7" id="20c7"></a>
+## How to earn rewards from Trevi (For Stakers) <a href="#20c7" id="20c7"></a>
 
 As a user who stakes tokens to earn rewards, it is easy to earn multiple rewards with Trevi. Users only stake their tokens to a single staking contract, and they could get the rewards from different Angles. How to do it exactly? There are three steps:
 
@@ -102,7 +102,7 @@ As a user who stakes tokens to earn rewards, it is easy to earn multiple rewards
 2. Sign up for the available rewards from Angels
 3. Accumulate and claim the rewards over blocks
 
-### 1. Deposit the staking token to a Fountain <a href="bf9c" id="bf9c"></a>
+### 1. Deposit the staking token to a Fountain <a href="#bf9c" id="bf9c"></a>
 
 Users need to stake their tokens to the Fountain. Every token address will have a unique Fountain contract, and users can call the function **`deposit(uint256 amount)`** of that Fountain contract to stake the specific token.
 
@@ -110,7 +110,7 @@ The deposit function will transfer the tokens from the user’s address to the F
 
 ![Fountain Contract](https://miro.medium.com/max/1260/0\*A3ZBwf\_DgCeFzhkI)
 
-### 2. Sign up for the available rewards from Angels <a href="de50" id="de50"></a>
+### 2. Sign up for the available rewards from Angels <a href="#de50" id="de50"></a>
 
 Before starting to earn the reward, there is one more thing the users need to do. Users need to select which available rewards they want to have. Sign up for more types of rewards mean that users have a chance to earn more rewards, but it would cost more gas when users do any other operation (e.g., unstake token, transfer FTN token, etc.). Users can call the function **`joinAngel(address angel)`** of the Fountain to sign up for a single type of reward, or the function **`joinAngels(address[] angels)`** of the Fountain to join multiple types of rewards from multiple Angels.
 
@@ -118,7 +118,7 @@ Once the transaction goes through, the Angels will start to calculate the reward
 
 ![Fountain Contract](https://miro.medium.com/max/1260/0\*b0yt\_N9xcDAYZlb1)
 
-### 3. Accumulate and claim the rewards over blocks <a href="85e9" id="85e9"></a>
+### 3. Accumulate and claim the rewards over blocks <a href="#85e9" id="85e9"></a>
 
 The reward is distributed every block, and users can decide when to claim the accumulated rewards. Users can call the function **`harvestAll()`** of the Fountain to claim all available rewards. Alternatively, they can call the function **`harvest(address angel)`** of the Fountain to claim the reward from the specific Angel contract.
 
@@ -126,6 +126,6 @@ The reward is distributed every block, and users can decide when to claim the ac
 
 Note: The reward is accumulated per address, it means that once you transfer a FTN token to another address, the accumulated rewards will still be claimable only by your original address, and the new address will need to sign up for the available rewards to start to accumulate its claimable reward.
 
-## Last but not least <a href="f5b3" id="f5b3"></a>
+## Last but not least <a href="#f5b3" id="f5b3"></a>
 
 We have covered the basic functions of Trevi in this tutorial, while there are many other special features in Trevi such as: flash loans of Fountains and Angels, harvest permits, and join permits. If you are interested in more about Trevi, visit the repository on our [GitHub](https://github.com/dinngodev/trevi) to find out more details. For more information such as contract addresses, you can refer to our [Gitbook](https://docs.furucombo.app). Whether you are a Rewarder, user, or developer, we welcome everyone to use our Trevi reward distribution contract to build your project.
