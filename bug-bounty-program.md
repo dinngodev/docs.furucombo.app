@@ -75,7 +75,7 @@ The following vulnerabilities are excluded from the rewards for this bug bounty 
 
 Any testing with mainnet or public testnet contracts; all testing should be done on private testnets. Any testing with pricing oracles or third party smart contracts, attempting phishing or other social engineering attacks against our employees and/or customers, any testing with third party systems and applications (e.g. browser extensions) as well as websites (e.g. SSO providers, advertising networks), any denial of service attacks, automated testing of services that generates significant amounts of traffic, & public disclosure of an unpatched vulnerability in an embargoed bounty.
 
-#### Web Vulnerabilites or Out of Scope Issues
+#### Web Vulnerabilities or Out of Scope Issues
 
 Other issues found outside of the locations mentioned above, such as [https://furucombo.app/](https://furucombo.app), will be considered on a case by case basis. Please reach out to the Furucombo development team on [Discord](https://discord.furucombo.app) for clarification.
 
