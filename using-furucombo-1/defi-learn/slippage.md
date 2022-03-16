@@ -12,9 +12,9 @@ Let's get started!
 
 ### Slippage can either be positive or negative.
 
-📈A positive slippage occurs when an order is executed at a more favourable price than the intended execution price.
+📈 A positive slippage occurs when an order is executed at a more favourable price than the intended execution price.
 
-📉Conversely, if a trader received a less favourable price than intended, it is considered negative slippage.
+📉 Conversely, if a trader received a less favourable price than intended, it is considered negative slippage.
 
 ### What causes slippage?
 
@@ -46,4 +46,4 @@ Use a limit order combo, powered by [Gelato network](https://www.gelato.network)
 
 You can set your own slippage tolerance when trading on [Furucombo](https://furucombo.app). Your txn will revert if the price change unfavourably by more than the percentage you set. However, note that if you set the slippage tolerance too low, your txn might not be able to execute and will fail.
 
-![](../../.gitbook/assets/slippage.png)
+![Sliooage tolerance](../../.gitbook/assets/slippage.png)
