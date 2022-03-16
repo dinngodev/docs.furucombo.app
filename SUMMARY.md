@@ -11,7 +11,7 @@
     * [COMBO's Utility](furucombo-tokenomics/combo-is-here/combos-utility.md)
     * [COMBO Distribution](furucombo-tokenomics/combo-is-here/combo-distribution.md)
 
-## Using Furucombo <a href="using-furucombo-1" id="using-furucombo-1"></a>
+## Using Furucombo <a href="#using-furucombo-1" id="using-furucombo-1"></a>
 
 * [Create Page](using-furucombo-1/combo-page.md)
 * [Invest Page](using-furucombo-1/invest-page.md)
@@ -32,6 +32,8 @@
   * [Instantly Swap cTokens on Compound](using-furucombo-1/tutorials/instantly-swap-ctokens-on-compound.md)
   * [Compound Cubes](using-furucombo-1/tutorials/compound-cubes.md)
   * [Synthetix Cubes](using-furucombo-1/tutorials/synthetix-cubes.md)
+* [DeFi Learn](using-furucombo-1/defi-learn/README.md)
+  * [Slippage](using-furucombo-1/defi-learn/slippage.md)
 
 ## Security
 

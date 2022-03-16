@@ -10,14 +10,14 @@ Polygon is a well-structured development framework for building and connecting E
 
 In this article, we will cover all your frequently asked questions and share a range of figures to give our community a better view of gas and transaction fee advantages of using Polygon.
 
-## We will cover <a href="68a4" id="68a4"></a>
+## We will cover <a href="#68a4" id="68a4"></a>
 
 * How to access Furucombo on Polygon
 * How to move tokens from Ethereum to Polygon
 * What cubes we have on Furucombo x Polygon
 * I have WETH, but I want to lend MATIC on Aave, how? What about fees?
 
-### How to access Furucombo on Polygon <a href="1358" id="1358"></a>
+### How to access Furucombo on Polygon <a href="#1358" id="1358"></a>
 
 1. Connect your MetaMask wallet
 2. Click the network switch button and select Polygon
@@ -27,13 +27,13 @@ In this article, we will cover all your frequently asked questions and share a r
 
 Currently, we only support MetaMask wallets on Chrome to access Furucombo on Polygon, and please note that you will not be able to send transactions if your MetaMask wallet is linked with a hardware wallet.
 
-### How to move tokens from Ethereum to Polygon <a href="9c1a" id="9c1a"></a>
+### How to move tokens from Ethereum to Polygon <a href="#9c1a" id="9c1a"></a>
 
 You can use our Token Bridge cube to transfer funds from Ethereum to the Polygon network.
 
 ![Token Bridge cube](../../.gitbook/assets/fireshot-capture-069-furucombo-\_create-all-kinds-of-defi-combo.-beta.furucombo.app.png)
 
-### What cubes do we have on Furucombo x Polygon <a href="d573" id="d573"></a>
+### What cubes do we have on Furucombo x Polygon <a href="#d573" id="d573"></a>
 
 ![](../../.gitbook/assets/1\_dtnryxgzseey-jtv9bqa7w.png)
 
@@ -68,7 +68,7 @@ We have supported 19 cubes since the launch on Polygon. With cubes from Aave, Cu
 
 ![](../../.gitbook/assets/0\_tsnohbo0s69pv\_zu.png)
 
-For your reference, it costs around US$0.001 (1 gwei) to complete the transaction on Polygon on the day of writing._ _While it costs about US$1.1 (12 gwei) on Ethereum to complete a similar transaction. That is 1000+ times less using Polygon!
+For your reference, it costs around US$0.001 (1 gwei) to complete the transaction on Polygon on the day of writing. __ While it costs about US$1.1 (12 gwei) on Ethereum to complete a similar transaction. That is 1000+ times less using Polygon!
 
 What other advantages?
 

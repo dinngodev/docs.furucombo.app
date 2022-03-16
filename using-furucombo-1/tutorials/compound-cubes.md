@@ -22,15 +22,15 @@ Here we would like to recap the most used Compound combos in 2020, introduce the
 
 1. **Self-Liquidation Combo (**[Shortcut](https://furucombo.app/combo/c0ga39145c7c72kf03qg?refreshPrice=1))
 
-* **😮  What: **To close Compound debt position without any upfront funds.
-* **🕗  When: **When your collateral ratio is in danger.
-* 🤔  **How: **It will use your collateral to pay off ALL the debts on Compound powered by flashloan.
+* **😮  What:** To close Compound debt position without any upfront funds.
+* **🕗  When:** When your collateral ratio is in danger.
+* 🤔  **How:** It will use your collateral to pay off ALL the debts on Compound powered by flashloan.
 
 **2. cToken Swap Combo (**[Shortcut](https://furucombo.app/explore/combo\_compound\_00001))
 
-* **😮  What: **To swap cToken with ease
-* **🕗  When: **Whenever you want to change cToken position, for higher APY or for other purposes.
-* 🤔  **How: **It will withdraw and swap the original ctoken, and then supply the new token to Compound. We even have a super combo to further simplify the process.
+* **😮  What:** To swap cToken with ease
+* **🕗  When:** Whenever you want to change cToken position, for higher APY or for other purposes.
+* 🤔  **How:** It will withdraw and swap the original ctoken, and then supply the new token to Compound. We even have a super combo to further simplify the process.
 
 ### What are Compound smart cubes?
 
@@ -50,7 +50,7 @@ Reminder: The Compound collateral-and-debt position is manageable under both Fur
 
 1. **Supply to borrow combo**
 
-* **😮  What: **To create a debt position on Compound.
+* **😮  What:** To create a debt position on Compound.
 * **🕗  When:** Whenever you like.
 * 🤔  **How:** Supply tokens with your own wallet, then do the borrow with your smart wallet.
 
@@ -58,33 +58,33 @@ Reminder: The Compound collateral-and-debt position is manageable under both Fur
 
 **2. Debt swap combo (**[Shortcut](https://furucombo.app/combo/c0gf2nhmvubc72hld9rg?refreshPrice=1))
 
-* **😮  What: **To swap debt token with ease
-* **🕗  When: **Whenever you want to change debt position, for lower borrow APY or for other purposes.
+* **😮  What:** To swap debt token with ease
+* **🕗  When:** Whenever you want to change debt position, for lower borrow APY or for other purposes.
 * 🤔  **How:** Use the flash borrowed tokens to repay the debt, then borrow new debt to pay back the flashloan.
 
 ![Debt swap combo](https://miro.medium.com/max/2786/0\*Za11VHA1MNvv0LGM)
 
 **3. Collateral swap combo (**[Shortcut](https://furucombo.app/combo/c0gf3l3gbu8c71g6sn80?refreshPrice=1))
 
-* **😮  What: **To swap your collateral with ease
-* **🕗  When: **Whenever you want to change the collateral position, for higher lending APY or for other purposes.
-* 🤔  **How: **Use the flash borrowed tokens to supply into your smart wallet and further decrease the utilization rate, then withdraw the released collateral to pay back the flashloan.
+* **😮  What:** To swap your collateral with ease
+* **🕗  When:** Whenever you want to change the collateral position, for higher lending APY or for other purposes.
+* 🤔  **How:** Use the flash borrowed tokens to supply into your smart wallet and further decrease the utilization rate, then withdraw the released collateral to pay back the flashloan.
 
 ![Collateral swap combo](https://miro.medium.com/max/2852/0\*Jq7laHASIwfWidom)
 
 **4. Self-liquidation combo for the smart wallet position (**[Shortcut](https://furucombo.app/combo/c0gf493gbu8c71g6sn9g?refreshPrice=1))
 
-* **😮  What: **To close Compound debt position without any upfront funds.
-* **🕗  When: **When your collateral ratio is in danger.
-* 🤔  **How: **It will use your collateral to pay off ALL the debts on Compound powered by flashloan.
+* **😮  What:** To close Compound debt position without any upfront funds.
+* **🕗  When:** When your collateral ratio is in danger.
+* 🤔  **How:** It will use your collateral to pay off ALL the debts on Compound powered by flashloan.
 
 ![Self-liquidation combo for the smart wallet position](https://miro.medium.com/max/2784/0\*7ebQl6ZrVzEAJPiP)
 
-### **Is this all? Of course not!** <a href="dad7" id="dad7"></a>
+### **Is this all? Of course not!** <a href="#dad7" id="dad7"></a>
 
 There are so many other combos you can create with the newly released borrow features! For example… you can now borrow money from Compound to join farming, and you can move your collateral-and-debt position between Compound and Maker easily with flashloan.
 
-_🎉 Bravo! You are the Compound pro now! _\
+_🎉 Bravo! You are the Compound pro now!_ \
 _Go make your own combo to maximize your position with ease! 🎉_
 
 ![](<../../.gitbook/assets/1\_rqjs5y9tpgufzxczib5qbg (5).gif>)

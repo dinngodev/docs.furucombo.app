@@ -11,7 +11,7 @@ On top of that, we are introducing Furucombo V2 Prime, where investors can inves
 In short:\
 Furucombo V2 Prime provides the best trading experience for fund managers, thus fund managers can provide the best return for investors.
 
-**Permissionless **and no-limitations are the keys to the best trading experience on Furucombo. You don’t need to know how to code to be a fund manager here. No need to write your smart contract or automation script to run your creative strategy. Additionally, you don’t need to apply or get approved to be a fund manager. All you need to get started is profitable investment strategies and Furucombo.
+**Permissionless** and no-limitations are the keys to the best trading experience on Furucombo. You don’t need to know how to code to be a fund manager here. No need to write your smart contract or automation script to run your creative strategy. Additionally, you don’t need to apply or get approved to be a fund manager. All you need to get started is profitable investment strategies and Furucombo.
 
 Furucombo V2 Prime will lower the barriers to entry for fund managers. That also means that it can capture the long-tail yield aggregator market and opportunities for the investors to further increase the overall returns.
 

@@ -9,9 +9,9 @@ Season 2 of COMBO mining has ended and we have collected excellent feedback and 
 ## Furucombo COMBO mining season 3
 
 {% hint style="success" %}
-### COMBO Mining SZN3 Bonus Event — Usage Farming on Polygon!!👩‍🎤 <a href="18b5" id="18b5"></a>
+### COMBO Mining SZN3 Bonus Event — Usage Farming on Polygon!!👩‍🎤 <a href="#18b5" id="18b5"></a>
 
-### **TL;DR** <a href="9947" id="9947"></a>
+### **TL;DR** <a href="#9947" id="9947"></a>
 
 📅  Begins: June 24 2021, 3 AM (UTC)\
 💰  Weekly total rewards: 7,000 $MATIC+14,000 $COMBO\
@@ -79,7 +79,7 @@ This time we collaborate with our best fren [Lootex](https://lootex.io/stores/fu
   ****- How: Every address which completes a transaction with any B.Protocol cube will get a chance to win a limited NFT.\
   \- When: May 27 2021, 3:00 AM (UTC) — June 3 2021, 3:00 AM (UTC)\
   \- What: There will be 30 limited NFTs for the winners in week 3. These NFT holders can boost their rewards starting from week 4.
-*   **4th-week challenge: using 4 cubes in one transaction **🧊🧊🧊🧊
+*   **4th-week challenge: using 4 cubes in one transaction** 🧊🧊🧊🧊
 
     \- How: Every address which completes a transaction with 4 cubes will get a chance to win a limited NFT.
 

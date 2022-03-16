@@ -20,13 +20,13 @@ Mar 11 2021, 3:00 AM (UTC) — May 6 2021, 3:00 AM (UTC)
 
 Anyone can participate in the COMBO mining season 2 program. Every week, you just need to complete the following two steps, then you will receive your COMBO rewards.
 
-### **Steps:** <a href="0cbf" id="0cbf"></a>
+### **Steps:** <a href="#0cbf" id="0cbf"></a>
 
-1. **Eligibility requirement: **Be an active user! Send out at least one transaction on Furucombo during each week’s program.\
+1. **Eligibility requirement:** Be an active user! Send out at least one transaction on Furucombo during each week’s program.\
    \- A token approval transaction will not be counted as an eligible transaction since it will not interact with Furucombo.\
    \- Using wallets such as Argent and DappLogic will not be counted as an eligible transaction as well since these wallets’ behavior is quite unique. Quick check? If your transaction has the tag “Interacted With (To): Furucombo: Proxy vx.x.x” on etherscan, it will be counted.\
    ****
-2. **Staking area: **The amount and length of time of your staked COMBO tokens or COMBO/ETH LP tokens.\
+2. **Staking area:** The amount and length of time of your staked COMBO tokens or COMBO/ETH LP tokens.\
    \- Staking area = staking amount x staking duration
 
 To maximize rewards, we recommend that you stake COMBO tokens or COMBO/ETH Uni-V2 LP tokens as soon as you own some. Because the earlier you stake, the bigger your staking area will be, hence higher rewards.
