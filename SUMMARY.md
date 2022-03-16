@@ -13,7 +13,10 @@
 
 ## Using Furucombo <a href="#using-furucombo-1" id="using-furucombo-1"></a>
 
-* [Create Page](using-furucombo-1/combo-page.md)
+* [Create Page](using-furucombo-1/combo-page/README.md)
+  * [DeFi Cube FAQ](using-furucombo-1/combo-page/defi-cube-faq.md)
+  * [Utility Cube FAQ](using-furucombo-1/combo-page/utility-cube-faq.md)
+  * [Other FAQ](using-furucombo-1/combo-page/other-faq.md)
 * [Invest Page](using-furucombo-1/invest-page.md)
 * [Learn Page](using-furucombo-1/explore-page.md)
 * [Decombo Page](using-furucombo-1/decombo-page.md)
