@@ -46,4 +46,4 @@ Use a limit order combo, powered by [Gelato network](https://www.gelato.network)
 
 You can set your own slippage tolerance when trading on [Furucombo](https://furucombo.app). Your txn will revert if the price change unfavourably by more than the percentage you set. However, note that if you set the slippage tolerance too low, your txn might not be able to execute and will fail.
 
-![Sliooage tolerance](../../.gitbook/assets/slippage.png)
+![Slippage tolerance](../../.gitbook/assets/slippage.png)
