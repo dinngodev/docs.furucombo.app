@@ -1,10 +1,8 @@
 ---
-description: slippage
+description: What is slippage, what is its effect, & how can you avoid it while trading?
 ---
 
 # What is slippage
-
-
 
 ![](<../../.gitbook/assets/slippage meme.png>)
 
