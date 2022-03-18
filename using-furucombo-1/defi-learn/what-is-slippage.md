@@ -1,8 +1,8 @@
 ---
-description: Understand what is liquidation and how to avoid it.
+description: slippage
 ---
 
-# What is slippage, what is its effect, & how can you avoid it while trading?
+# What is slippage
 
 
 
