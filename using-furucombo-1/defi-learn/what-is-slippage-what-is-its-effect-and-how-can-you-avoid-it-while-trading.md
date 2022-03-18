@@ -1,8 +1,10 @@
 ---
-description: What is slippage, what is its effect, & how can you avoid it while trading?
+description: Understand what is liquidation and how to avoid it.
 ---
 
-# Slippage
+# What is slippage, what is its effect, & how can you avoid it while trading?
+
+
 
 ![](<../../.gitbook/assets/slippage meme.png>)
 

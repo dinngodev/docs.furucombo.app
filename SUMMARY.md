@@ -36,7 +36,7 @@
   * [Compound Cubes](using-furucombo-1/tutorials/compound-cubes.md)
   * [Synthetix Cubes](using-furucombo-1/tutorials/synthetix-cubes.md)
 * [DeFi Learn](using-furucombo-1/defi-learn/README.md)
-  * [Slippage](using-furucombo-1/defi-learn/slippage.md)
+  * [What is slippage, what is its effect, & how can you avoid it while trading?](using-furucombo-1/defi-learn/what-is-slippage-what-is-its-effect-and-how-can-you-avoid-it-while-trading.md)
 
 ## Security
 
