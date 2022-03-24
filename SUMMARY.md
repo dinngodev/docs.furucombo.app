@@ -37,6 +37,7 @@
   * [Synthetix Cubes](using-furucombo-1/tutorials/synthetix-cubes.md)
 * [DeFi Learn](using-furucombo-1/defi-learn/README.md)
   * [What is slippage](using-furucombo-1/defi-learn/what-is-slippage.md)
+  * [What is liquidation](using-furucombo-1/defi-learn/what-is-liquidation.md)
 
 ## Security
 
