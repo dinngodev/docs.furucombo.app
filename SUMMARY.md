@@ -65,6 +65,8 @@
 * [Forum](https://forum.furucombo.app)
 * [Youtube](https://www.youtube.com/channel/UCa1kGD4lvTSrmfKbDjQNOxQ)
 * [Telegram](https://t.me/furucombo)
+* [Terms and Conditions](social-medias/terms-and-conditions/README.md)
+  * [Risk acknowledgement](social-medias/terms-and-conditions/risk-acknowledgement.md)
 
 ## Archieve
 
