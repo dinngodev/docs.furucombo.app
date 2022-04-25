@@ -68,7 +68,7 @@
 
 ## Terms and Conditions
 
-* [Risk acknowledgement](terms-and-conditions/risk-acknowledgement.md)
+* [Risk Disclaimer](terms-and-conditions/risk-disclaimer.md)
 
 ## Archieve
 
