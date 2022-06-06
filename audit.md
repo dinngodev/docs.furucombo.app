@@ -8,7 +8,7 @@ Furucombo is composed of [Proxy Contract](https://etherscan.io/address/0xA013Afb
 
 #### Peckshield&#x20;
 
-[Peckshield](https://peckshield.cn/en) has formally verified the Proxy, Registry, and handlers of the Furucombo system. Some minor issues were detected which have all been addressed. The full report can be viewed [here](https://github.com/dinngodev/furucombo-contract/tree/master/audit/PeckShield)**.**
+[Peckshield](https://peckshield.com/) has formally verified the Proxy, Registry, and handlers of the Furucombo system. Some minor issues were detected which have all been addressed. The full report can be viewed [here](https://github.com/dinngodev/furucombo-contract/tree/master/audit/PeckShield)**.**
 
 #### Certora&#x20;
 
@@ -32,14 +32,14 @@ The Furucombo smart wallet and auto-farming feature contract have been audited b
 
 **Peckshield**&#x20;
 
-The Furucombo fund system contract has been audited by [Peckshield](https://peckshield.cn/en). **** \
+The Furucombo fund system contract has been audited by [Peckshield](https://peckshield.com/). **** \
 ****There were no major or critical issues detected. The full report can be viewed [here](https://github.com/dinngodev/furucombo-funds-contract/tree/master/audit/PeckShield)**.**
 
 ### **Furucombo Smart Wallet & Auto-Farming Feature Contract**
 
 **Peckshield** \
 \
-The Furucombo smart wallet and auto-farming feature contract have been audited by [Peckshield](https://peckshield.cn/en). **** \
+The Furucombo smart wallet and auto-farming feature contract have been audited by [Peckshield](https://peckshield.com/). **** \
 ****There were no major or critical issues detected. The full report can be viewed [here](https://github.com/dinngodev/furucombo-smart-wallet/tree/master/audit/PeckShield)**.**
 
 #### Dedaub&#x20;
@@ -61,7 +61,7 @@ The Furucombo Trevi system contract has been audited by [HashCloak](https://hash
 
 #### Peckshield&#x20;
 
-The Trevi system contract has been audited by [Peckshield](https://peckshield.cn/en). **** \
+The Trevi system contract has been audited by [Peckshield](https://peckshield.com/). **** \
 ****There were no major or critical issues detected. The full report can be viewed [here](https://github.com/dinngodev/trevi/tree/master/audit/PeckShield)**.**
 
 ### COMBO token and Vesting contract
