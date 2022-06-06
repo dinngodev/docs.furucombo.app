@@ -23,6 +23,18 @@ The Furucmobo website and API have been audited by [cure53](https://cure53.de/).
 \[cure53] Website & API audit report
 {% endfile %}
 
+### Furucombo **Funds** Contract
+
+#### Dedaub&#x20;
+
+The Furucombo smart wallet and auto-farming feature contract have been audited by [Dedaub](https://www.dedaub.com/). **** \
+****There were no major or critical issues detected. The full report can be viewed [here](https://github.com/dinngodev/furucombo-funds-contract/tree/master/audit/Dedaub)**.**
+
+**Peckshield**&#x20;
+
+The Furucombo fund system contract has been audited by [Peckshield](https://peckshield.cn/en). **** \
+****There were no major or critical issues detected. The full report can be viewed [here](https://github.com/dinngodev/furucombo-funds-contract/tree/master/audit/PeckShield)**.**
+
 ### **Furucombo Smart Wallet & Auto-Farming Feature Contract**
 
 **Peckshield** \
