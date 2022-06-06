@@ -20,7 +20,7 @@
 * [Invest Page](using-furucombo-1/invest-page.md)
 * [Learn Page](using-furucombo-1/explore-page.md)
 * [Decombo Page](using-furucombo-1/decombo-page.md)
-* [Loyalty Program](using-furucombo-1/loyalty-program.md)
+* [Loyalty Program V2](using-furucombo-1/loyalty-program.md)
 * [Furucombo Tutorials](using-furucombo-1/tutorials/README.md)
   * [Furucombo Invest](using-furucombo-1/tutorials/furucombo-invest-tutorial.md)
   * [Furucombo on Polygon](using-furucombo-1/tutorials/furucombo-on-polygon.md)
@@ -62,7 +62,7 @@
 * [Twitter](https://twitter.com/furucombo)
 * [Discord](https://discord.gg/JuamDaq)
 * [Blog](https://medium.com/@furucombo)
-* [Forum](https://forum.furucombo.app)
+* [Forum](https://forum.furucombo.app/)
 * [Youtube](https://www.youtube.com/channel/UCa1kGD4lvTSrmfKbDjQNOxQ)
 * [Telegram](https://t.me/furucombo)
 
