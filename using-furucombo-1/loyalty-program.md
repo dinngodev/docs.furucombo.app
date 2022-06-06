@@ -12,7 +12,7 @@ What’s new from the old point system:
 
 ## How to Earn Points <a href="#1928" id="1928"></a>
 
-Points can be earned from any of the Furucombo products: create or [invest](https://medium.com/furucombo/furucombo-invest-tutorial-563e0e7dcd58) (pool, [farm](https://medium.com/furucombo/furucombo-invest-tutorial-563e0e7dcd58/#8108), or [fund](https://medium.com/furucombo/introduction-to-furucombo-funds-861926f698ee))
+Points can be earned from any of the Furucombo products: create or [invest](https://docs.furucombo.app/using-furucombo-1/tutorials/furucombo-invest-tutorial) (pool, [farm](https://medium.com/furucombo/furucombo-invest-tutorial-563e0e7dcd58/#8108), or [fund](https://medium.com/furucombo/introduction-to-furucombo-funds-861926f698ee))
 
 From create mode:
 
@@ -21,7 +21,7 @@ From create mode:
 
 From invest mode:
 
-* users can earn 20 points per week for every $1000 staked in an [auto-invest farm](https://medium.com/furucombo/furucombo-invest-tutorial-563e0e7dcd58/#8108).
+* users can earn 20 points per week for every $1000 staked in an [auto-invest farm](https://docs.furucombo.app/using-furucombo-1/tutorials/furucombo-invest-tutorial).
 * users can earn 30 points per week for every $1000 staked in a [fund](https://medium.com/furucombo/introduction-to-furucombo-funds-861926f698ee) (up to $10k total staked)
   * Every subsequent $1000 increment amount greater than $10k will earn 15 points per week up to $25k
   * Every subsequent $1000 increment amount greater than $25k will earn 7.5 points per week up to $50k
