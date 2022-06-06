@@ -48,7 +48,7 @@ The weekly rewards are being vested starting from April 8th. It would be unlocke
   \- Rewards: 140,625 COMBO\
   \- Only active users who stake LP tokens will be able to share the rewards in this pool.
 
-The transaction mining program will distribute COMBO tokens as rewards on a weekly basis. \*\*Furucombo team will calculate rewards every Thursday and share the result in our [Discord channel](https://discord.furucombo.app) for community review. If no disputes are raised within 24hrs, the unlocked amount will then be updated to the Furucombo contract (Typically by Friday night). You can then claim your rewards through a “Claim COMBO” cube.\*\*
+The transaction mining program will distribute COMBO tokens as rewards on a weekly basis. \*\*Furucombo team will calculate rewards every Thursday and share the result in our [Discord channel](https://discord.furucombo.app/) for community review. If no disputes are raised within 24hrs, the unlocked amount will then be updated to the Furucombo contract (Typically by Friday night). You can then claim your rewards through a “Claim COMBO” cube.\*\*
 
 ![Claim COMBO](https://miro.medium.com/max/680/1\*iBIAnh6a4oEQpUFs6MCU0w.png)
 
@@ -73,7 +73,7 @@ How? → [https://go.furucombo.app/e0fQg](https://go.furucombo.app/e0fQg)
 
 The reason why you must put an “Add funds” cube in the middle is because when Furucombo executes the “claim COMBO” cube, the COMBO tokens go straight to your wallet but not to the Furucombo proxy. In order to let Furucombo proxy continue executing the “Stake COMBO” cube, you need to send the claimed COMBO back to the Furucombo proxy.
 
-That’s it! Enjoy participating in our COMBO mining season 2 and earning COMBO tokens in the following weeks. If you have any questions on this, our team is standing by in [Discord](https://discord.furucombo.app) to answer any questions. Thanks for participating in the Furucombo community!
+That’s it! Enjoy participating in our COMBO mining season 2 and earning COMBO tokens in the following weeks. If you have any questions on this, our team is standing by in [Discord](https://discord.furucombo.app/) to answer any questions. Thanks for participating in the Furucombo community!
 
 **Things to Note**
 

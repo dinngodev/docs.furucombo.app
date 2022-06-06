@@ -21,7 +21,7 @@ If you are more of a visual learner, feel free to watch our community made tutor
 #### **For new users to Furucombo.**
 
 **Step 1 -** \
-****Head over to [our website](https://furucombo.app) and click the ‘Launch App button located in the middle of your screen.
+****Head over to [our website](https://furucombo.app/) and click the ‘Launch App button located in the middle of your screen.
 
 ![](https://lh4.googleusercontent.com/39doN9B-Xauk4s0I5O6hZE1axwEaOdqVRCuLNCw0Fr3xLWiHN0GqmZvZZz\_3hKeWvDVkknfZzlOPptLF8gCpckYhbfkvuSdD08KT9VBNxoellZ6TTJd14cLGuKDpcSJ1Um5\_e-TQ=s0)
 
@@ -31,7 +31,7 @@ If you are more of a visual learner, feel free to watch our community made tutor
 ![](https://lh4.googleusercontent.com/70chG-KlmXZAXID5Qr8k1I0k\_V2sSWbVCOzd4C5CqQcSX\_-WQNog5Q5HM\_5ng8G32fggs89c494Mt\_7BCQNxxJB9VJDPDfU5-jkQ4i1IZlPkyLjxqjhoPIIpY2V4bj3jWZ6yg8JE=s0)
 
 **Step 3 -** \
-****Next we need to connect our wallet. Simply click the wallet icon on the top right hand corner of your screen (next to the network selector), and choose the wallet of your choice from the list. For this guide we will use the most common wallet which is the [MetaMask](https://metamask.io) web3 wallet. Ensure you are connected on your metamask wallet, and connected to the correct network as well. If it is your first time using the Polygon network, visit our [Furucombo on Polygon guide](https://docs.furucombo.app/using-furucombo-1/tutorials/furucombo-on-polygon) for more information on how to access the network.
+****Next we need to connect our wallet. Simply click the wallet icon on the top right hand corner of your screen (next to the network selector), and choose the wallet of your choice from the list. For this guide we will use the most common wallet which is the [MetaMask](https://metamask.io/) web3 wallet. Ensure you are connected on your metamask wallet, and connected to the correct network as well. If it is your first time using the Polygon network, visit our [Furucombo on Polygon guide](https://docs.furucombo.app/using-furucombo-1/tutorials/furucombo-on-polygon) for more information on how to access the network.
 
 ![](https://lh3.googleusercontent.com/YP2DXcJmB7RImpQEgtibi9kWXRvF-9MKldBW41o\_wHNDWvS8iotrPk2HbS-6nevwdYdk\_BpHFEn3lyk-KGmpJc\_KaoRtXY5lkBIdhn0AqyTmedGG8etd8-CljHPRTMHGWMuan89W=s0)
 

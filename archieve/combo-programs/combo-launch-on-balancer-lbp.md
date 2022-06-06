@@ -32,7 +32,7 @@ To get some COMBO token on Balancer LBP, you just need to go through three steps
 
 ### Step 1: Navigate to Balancer LBP via Furucombo
 
-Go to [Furucombo](https://furucombo.app)’s homepage and you will see a live price chart to help you to know the current COMBO price trend immediately. It’s not live yet, but you will see a “Buy/Sell COMBO” button to lead you to the [Balancer LBP page](https://balancer.exchange/#/swap/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/0xfFffFffF2ba8F66D4e51811C5190992176930278).
+Go to [Furucombo](https://furucombo.app/)’s homepage and you will see a live price chart to help you to know the current COMBO price trend immediately. It’s not live yet, but you will see a “Buy/Sell COMBO” button to lead you to the [Balancer LBP page](https://balancer.exchange/#/swap/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/0xfFffFffF2ba8F66D4e51811C5190992176930278).
 
 Once you arrive at Balancer, you should see a page similar to the one below.
 

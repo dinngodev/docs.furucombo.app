@@ -22,6 +22,7 @@
 * [Decombo Page](using-furucombo-1/decombo-page.md)
 * [Loyalty Program V2](using-furucombo-1/loyalty-program.md)
 * [Furucombo Tutorials](using-furucombo-1/tutorials/README.md)
+  * [Furucombo Fund](using-furucombo-1/tutorials/furucombo-fund.md)
   * [Furucombo Invest](using-furucombo-1/tutorials/furucombo-invest-tutorial.md)
   * [Furucombo on Polygon](using-furucombo-1/tutorials/furucombo-on-polygon.md)
   * [Limit Order](using-furucombo-1/tutorials/limit-order.md)

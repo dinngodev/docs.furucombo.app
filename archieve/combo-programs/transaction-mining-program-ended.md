@@ -4,7 +4,7 @@
 
 In our [previous article](https://medium.com/furucombo/announcing-combo-token-launch-53ea05a68e74), we talked about COMBO token’s distribution plan. We mentioned that in phase 2 of the event, we would launch a finely structured transaction mining program! Hence, in this article, we are going to share how this transaction mining program works and how to participate! The program will last for two months, starting at [3:00 AM (UTC) on Jan 15, 2021](https://savvytime.com/converter/utc-to-taiwan-taipei-ca-san-francisco-ny-new-york-city-united-kingdom-london/jan-15-2021/3am).
 
-## **How does it work** <a href="d608" id="d608"></a>
+## **How does it work** <a href="#d608" id="d608"></a>
 
 The core value of this transaction mining program is very simple － _**you use Furucombo, you get COMBO token.**_ The main purpose of this is to distribute the COMBO tokens to our users and to COMBO holders fairly, and it’s also the first stage of our growth campaign to incentivize more users onboard. We hope it will bring significant growth and benefit to our esteemed community.
 
@@ -22,7 +22,7 @@ The transaction mining program will distribute COMBO tokens as rewards on a week
 > This means,\
 > _The more you trade, the more COMBO you get. The more and the longer you stake, the heavier weight you get to multiple rewards._
 
-### **1. Eligible transactions** <a href="3b18" id="3b18"></a>
+### **1. Eligible transactions** <a href="#3b18" id="3b18"></a>
 
 If you use Furucombo to send out a transaction that includes cubes and tokens listed below, then you’re eligible to get COMBO token rewards based on your volume. Since we want to encourage everyone to participate in this program with the lowest bar to join, we specifically design the rewards to let every eligible cube user get COMBO rewards without the need to stake any tokens. Namely, you just use Furucombo as usual to perform your strategies and you can earn free COMBO tokens at no cost.
 
@@ -44,7 +44,7 @@ For Swap cubes, we calculate the weekly trading volume with “output” token, 
 
 **Important:** Staking and transactions from smart contracts will not be counted. For example, Argent and DappLogic will not be counted as the behavior of these wallets are quite unique. Quick check? If your transaction has the tag “Interacted With (To): Furucombo: Proxy vx.x.x” on etherscan, it will be counted.
 
-### **2. Pools** <a href="22fc" id="22fc"></a>
+### **2. Pools** <a href="#22fc" id="22fc"></a>
 
 Pools are weight factors used to magnify your rewards. There are two pools on Furucombo where you can stake specific tokens to increase your weight.
 
@@ -53,7 +53,7 @@ Pools are weight factors used to magnify your rewards. There are two pools on Fu
 
 Please note that the weight is calculated based on **staking area** = **staking amount** x **staking duration**. In other words, you’d want to stake as many tokens and as longer period as you can to optimize your rewards.
 
-### **3. Rewards Calculation** <a href="f3c0" id="f3c0"></a>
+### **3. Rewards Calculation** <a href="#f3c0" id="f3c0"></a>
 
 You can find the script of the rewards calculations through the link here: [https://github.com/dinngodev/furucombo-reward-scripts](https://github.com/dinngodev/furucombo-reward-scripts)\
 In summary, reward distribution is decided by weekly trading rank, staking amount, and staking duration.
@@ -88,7 +88,7 @@ Rewards allocation:
 >
 > \*The numbers are updated after [the Feb 22–24 community vote](https://discordapp.com/channels/518722025095954434/803945177780846592/814082120115945472).
 
-## How to participate <a href="0743" id="0743"></a>
+## How to participate <a href="#0743" id="0743"></a>
 
 Anyone can participate in the transaction mining program. All you need to do is use Furucombo to send out transactions that include eligible cubes and tokens. To maximize rewards, we recommend that you stake COMBO token or COMBO/ETH Uni-V2 LP token as soon as you own some. Because the earlier you stake, the bigger your staking area will be, hence higher rewards.
 
@@ -104,6 +104,6 @@ How? → [https://go.furucombo.app/e0fQg](https://go.furucombo.app/e0fQg)
 
 The reason why you must put an “Add funds” cube in the middle is because when Furucombo executes the “claim COMBO” cube, those COMBO tokens go straight to your wallet but not Furucombo proxy. In order to let Furucombo proxy to continue executing the “Stake COMBO” cube, you need to send the just claimed COMBO back to Furucombo proxy.
 
-That’s it! Enjoy earning COMBO tokens every week. If you have any questions on this, our team is standing by in [Discord](https://discord.furucombo.app) to answer any questions. Thanks for participating in the Furucombo community!
+That’s it! Enjoy earning COMBO tokens every week. If you have any questions on this, our team is standing by in [Discord](https://discord.furucombo.app/) to answer any questions. Thanks for participating in the Furucombo community!
 
 📮 Official COMBO Address: 0[xfFffFffF2ba8F66D4e51811C5190992176930278](https://etherscan.io/token/0xfFffFffF2ba8F66D4e51811C5190992176930278)

@@ -53,6 +53,6 @@ There are so many exciting releases coming in the near future to make the Furuco
 
 ## **Something missing?** <a href="#20c2" id="20c2"></a>
 
-Shout out to the community to join us on the [forum](https://forum.furucombo.app) and tell us what you want to see next for everything related to Furucombo. No matter how crazy your idea is, we want you to share it with us. Let’s build together! ;)
+Shout out to the community to join us on the [forum](https://forum.furucombo.app/) and tell us what you want to see next for everything related to Furucombo. No matter how crazy your idea is, we want you to share it with us. Let’s build together! ;)
 
 ****

@@ -77,7 +77,7 @@ Any testing with mainnet or public testnet contracts; all testing should be done
 
 #### Web Vulnerabilities or Out of Scope Issues
 
-Other issues found outside of the locations mentioned above, such as [https://furucombo.app/](https://furucombo.app), will be considered on a case by case basis. Please reach out to the Furucombo development team on [Discord](https://discord.furucombo.app) for clarification.
+Other issues found outside of the locations mentioned above, such as [https://furucombo.app/](https://furucombo.app/), will be considered on a case by case basis. Please reach out to the Furucombo development team on [Discord](https://discord.furucombo.app/) for clarification.
 
 {% hint style="warning" %}
 _Breaking or neglecting any of the rules mentioned above will be a violation of the Furucombo Bug Bounty Program. Furucombo reserves the right to modify or cancel the program at Furucombo’s sole discretion and at any time._

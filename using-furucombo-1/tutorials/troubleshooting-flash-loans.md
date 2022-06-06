@@ -66,4 +66,4 @@ This guide is for troubleshooting flash loan errors, such as:
 
 
 
-If you are still having issues, please join us on our [Discord](https://discord.furucombo.app) in the #support channel and we will be glad to help you diagnose what the problem might be.
+If you are still having issues, please join us on our [Discord](https://discord.furucombo.app/) in the #support channel and we will be glad to help you diagnose what the problem might be.

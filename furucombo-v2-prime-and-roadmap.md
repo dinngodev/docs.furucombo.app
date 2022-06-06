@@ -35,4 +35,4 @@ Trevi is audited by PeckShield and HaskCloak, and is an open-source contract for
 
 ### **2. Whitelisted & Permissionless Pool Combos**
 
-We will continue to deliver and support various trading strategies along the way, and are looking for fund managers with creative ideas to join the whitelisted phase. If you are interested in the fund manager role, contact us on our [Discord](https://discord.furucombo.app)! ;)
+We will continue to deliver and support various trading strategies along the way, and are looking for fund managers with creative ideas to join the whitelisted phase. If you are interested in the fund manager role, contact us on our [Discord](https://discord.furucombo.app/)! ;)

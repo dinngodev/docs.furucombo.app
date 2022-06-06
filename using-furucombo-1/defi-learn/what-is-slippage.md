@@ -38,12 +38,12 @@ Try to not FOMO when the price swings violently to avoid suffering from the nega
 
 A limit order will only be executed at your desired price, eliminating the risk of negative slippage which can occur.\
 \
-Use a limit order combo, powered by [Gelato network](https://www.gelato.network): [https://furucombo.app/explore/combo\_furucombo\_00003](https://furucombo.app/explore/combo\_furucombo\_00003).
+Use a limit order combo, powered by [Gelato network](https://www.gelato.network/): [https://furucombo.app/explore/combo\_furucombo\_00003](https://furucombo.app/explore/combo\_furucombo\_00003).
 
 ![Limit order](../../.gitbook/assets/limitorder.png)
 
 #### **4️⃣ Slippage Tolerance:**&#x20;
 
-You can set your own slippage tolerance when trading on [Furucombo](https://furucombo.app). Your txn will revert if the price change unfavourably by more than the percentage you set. However, note that if you set the slippage tolerance too low, your txn might not be able to execute and will fail.
+You can set your own slippage tolerance when trading on [Furucombo](https://furucombo.app/). Your txn will revert if the price change unfavourably by more than the percentage you set. However, note that if you set the slippage tolerance too low, your txn might not be able to execute and will fail.
 
 ![Slippage tolerance](../../.gitbook/assets/slippage.png)

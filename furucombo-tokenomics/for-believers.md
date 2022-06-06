@@ -56,7 +56,7 @@ Due to the nature of the DeFi space, expeditated development, unforeseen changes
 
 | Subject                                                                                                                       | Status    |
 | ----------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Governance Forum](https://forum.furucombo.app)                                                                               | Launched  |
+| [Governance Forum](https://forum.furucombo.app/)                                                                              | Launched  |
 | [Discord Exclusive Channel for Voting](https://discord.com/channels/518722025095954434/518729593834700800/860019197816209418) | Launched  |
 | Combo Locking Contract (stake COMBO & receive vCOMBO)                                                                         | Completed |
 | Governance Portal for Off-chain Voting (using [Snapshot](https://snapshot.org/#/))                                            | Q4 2021   |

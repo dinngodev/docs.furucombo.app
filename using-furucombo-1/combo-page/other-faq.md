@@ -175,7 +175,7 @@ You can use the "cancel" button in-app if you are using MetaMask or Trust. For o
 
 In this situation make sure to not keep sending transactions. Every new transaction will be stuck pending until the oldest transaction is confirmed. You can get rid of the stuck transaction by speeding it up or canceling it, depending on if the wallet you are using you has natively that option. For example, Metamask or Trust wallet have both the options to cancel or speed up transactions.&#x20;
 
-Alternatively, if your wallet provider doesn't have a speed-up or cancel option, you can still drop the stuck transaction by sending a 0 ETH transaction to your address (to yourself) using the same nonce (number id). You can inspect the nonce in your transaction on [Etherscan ](https://etherscan.io)and use services like [MEW ](https://www.myetherwallet.com)and [MyCrypto ](https://mycrypto.com)to send this transaction with higher gas cost and replace the stuck one.&#x20;
+Alternatively, if your wallet provider doesn't have a speed-up or cancel option, you can still drop the stuck transaction by sending a 0 ETH transaction to your address (to yourself) using the same nonce (number id). You can inspect the nonce in your transaction on [Etherscan ](https://etherscan.io)and use services like [MEW ](https://www.myetherwallet.com/)and [MyCrypto ](https://mycrypto.com/)to send this transaction with higher gas cost and replace the stuck one.&#x20;
 
 ### I can not press the send button
 

@@ -14,7 +14,7 @@ As it says, Send Token cube lets you send token to your designated address. Some
 
 When you "wrap" ETH, you aren't really wrapping so much as trading via a smart contract for an equal token called WETH. If you want to get plain ETH back you need to "unwrap" it. AKA trade it back for plain ETH.
 
-To learn more about WETH, visit[ weth.io](https://weth.io)
+To learn more about WETH, visit[ weth.io](https://weth.io/)
 
 ### What is Add Funds?
 
@@ -36,5 +36,5 @@ For example (see below image), you want to swap your collaterals on Compound, sa
 
 Gas Saver cube is used when you have some CHI or GST2 tokens in your wallet. When you burn them (esp at a high gas price), you get a refund to make the gas cost much cheaper to execute than the same transaction that doesn't use GasToken. To learn more about gas token, check out the links below:
 
-* [GasToken.io](https://gastoken.io/#:\~:text=GasToken%20is%20a%20new%2C%20cutting,gas%20when%20it%20is%20expensive.)
+* [GasToken.io](https://gastoken.io)
 * [CHI token by 1inch ](https://medium.com/@1inch.exchange/everything-you-wanted-to-know-about-chi-gastoken-a1ba0ea55bf3)
