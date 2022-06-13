@@ -1,4 +1,4 @@
-# Deployed contracts
+# Smart Contracts
 
 ## Polygon Network
 
@@ -41,61 +41,7 @@ QUICK / WETH: [0x475FED92d9d20B34D8a1af912cc9D2d9597F587F](https://polygonscan.c
 
 WETH / MOCA: [0xcb224540A65688734be7cF7662effc6B402CbF71](https://polygonscan.com/address/0xcb224540A65688734be7cF7662effc6B402CbF71)
 
-### Fund Contracts:
 
-ComptrollerProxyAdmin: [0xc953fAbdF4192b63ba0af14f015E8aa09Ef4DC9b](https://polygonscan.com/address/0xc953fAbdF4192b63ba0af14f015E8aa09Ef4DC9b)
-
-ComptrollerProxy: [0x24fdb881EfAaF200c29c7449fB16845cc081BAB7](https://polygonscan.com/address/0x24fdb881EfAaF200c29c7449fB16845cc081BAB7)
-
-ComptrollerImplementation: [0x490f5da21446e348E8a1209C5a87fb7001260CFf](https://polygonscan.com/address/0x490f5da21446e348E8a1209C5a87fb7001260CFf)
-
-FundProxyFactory: [0xFD1353baBf86387FcB6D009C7b74c1aB2178B304](https://polygonscan.com/address/0xFD1353baBf86387FcB6D009C7b74c1aB2178B304)
-
-FundProxy: [0x1082aad357898058629825496c2Bd3Af28b9441F](https://polygonscan.com/address/0x1082aad357898058629825496c2Bd3Af28b9441F)
-
-FundImplementation: [0x8d697440b392269fefD5588e0A023dA283640312](https://polygonscan.com/address/0x8d697440b392269fefD5588e0A023dA283640312)
-
-MortgageVault：[0x1305D3Af1De234FF420F9EB3Da9d48A993d3B102](https://polygonscan.com/address/0x1305D3Af1De234FF420F9EB3Da9d48A993d3B102)
-
-ShareToken：[0x39B6B8eC7eF967f063C568c6796895Bc43549542](https://polygonscan.com/address/0x39B6B8eC7eF967f063C568c6796895Bc43549542)
-
-AssetRegistry：[0xE9a65dA3ac8599fda56Ec7e5c39467401078753b](https://polygonscan.com/address/0xE9a65dA3ac8599fda56Ec7e5c39467401078753b)
-
-AssetRouter：[0x82d68B262237f1AcA6d4225F35A313f5771f94E2](https://polygonscan.com/address/0x82d68B262237f1AcA6d4225F35A313f5771f94E2)
-
-RAaveProtocolV2Asset：[0xde9a257876cf624F994bF58cD6C3A3584Cf50dCA](https://polygonscan.com/address/0xde9a257876cf624F994bF58cD6C3A3584Cf50dCA)
-
-RAaveProtocolV2Debt：[0x1aFA78116950bbBAd7f8ECb554fe8fF75EA81AD9](https://polygonscan.com/address/0x1aFA78116950bbBAd7f8ECb554fe8fF75EA81AD9)
-
-RCanonical：[0x10579adE323b4eA5b075dB2f2df17180d661CfEB](https://polygonscan.com/address/0x10579adE323b4eA5b075dB2f2df17180d661CfEB)
-
-RCurveStable：[0x54e2bE7f4F9CDFd36402B5AE0350F683e9082d1f](https://polygonscan.com/address/0x54e2bE7f4F9CDFd36402B5AE0350F683e9082d1f)
-
-RUniSwapV2Like：[0x7Fab20B5e7126b74e299E1055A5E9e76e7A820F7](https://polygonscan.com/address/0x7Fab20B5e7126b74e299E1055A5E9e76e7A820F7)
-
-Chainlink：[0xd652aB89E48622744050c3cbeB4084BC58430Fc6](https://polygonscan.com/address/0xd652aB89E48622744050c3cbeB4084BC58430Fc6)
-
-TaskExecutor：[0x5464020009fbC03a931C79ACC062C6C677Ccb1C1](https://polygonscan.com/address/0x5464020009fbC03a931C79ACC062C6C677Ccb1C1)
-
-SetupAction：[0xb9d3db5881f6ce4a01cB21AEF99915dfA51C4d54](https://polygonscan.com/address/0xb9d3db5881f6ce4a01cB21AEF99915dfA51C4d54)
-
-AFurucombo：[0x83f105A3c6d83Fd90255057dCd08798335443F96](https://polygonscan.com/address/0x83f105A3c6d83Fd90255057dCd08798335443F96)
-
-FurucomboRegistry：[0x32A5441F003b4ca3FD5a44aae3af9f756947D88B](https://polygonscan.com/address/0x32A5441F003b4ca3FD5a44aae3af9f756947D88B)
-
-FurucomboProxy：[0x6f2eA968ae4D50c0Dbd5020c148a5eEB87e4F8cb](https://polygonscan.com/address/0x6f2eA968ae4D50c0Dbd5020c148a5eEB87e4F8cb)
-
-HAaveProtocolV2：[0x5eCA66B5978a1A2E7bb2e150Cd9Febf91e1E388D](https://polygonscan.com/address/0x5eCA66B5978a1A2E7bb2e150Cd9Febf91e1E388D)
-
-HCurve：[0x7867C483d3578a906eEAE7c45A515bd0a56C3b30](https://polygonscan.com/address/0x7867C483d3578a906eEAE7c45A515bd0a56C3b30)
-
-HFunds：[0xA51293E7af8E4924f37D32cEB54EEEc501F55E87](https://polygonscan.com/address/0xA51293E7af8E4924f37D32cEB54EEEc501F55E87)
-
-HParaSwapV5：[0xDb1222397edc3b0484D590C2d42CC57891AB4dF3](https://polygonscan.com/address/0xDb1222397edc3b0484D590C2d42CC57891AB4dF3)
-
-HQuickSwap：[0x3E0E1f4Ac1008a7aB13Bdd54bD10A8C3DA1240bb](https://polygonscan.com/address/0x3E0E1f4Ac1008a7aB13Bdd54bD10A8C3DA1240bb)
-
-HSushiSwap：[0x4d1D8B99600Af4118DF633b2d80702d9Bf13D72a](https://polygonscan.com/address/0x4d1D8B99600Af4118DF633b2d80702d9Bf13D72a)
 
 ## Ethereum Network
 
