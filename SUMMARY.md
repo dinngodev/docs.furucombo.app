@@ -56,7 +56,7 @@
 
 ## Resources
 
-* [Smart Contracts](resources/smart-contracts.md)
+* [Deployed contracts](resources/smart-contracts.md)
 * [Brand Assets](resources/brand-assets.md)
 
 ## Social Medias
