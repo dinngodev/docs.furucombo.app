@@ -19,7 +19,7 @@ Furucombo aims to tackle the above problems. To that end, Furucombo emphasizes U
 1. Propose and collect feedback on the [Furucombo Forum](https://forum.furucombo.app/)
 2. Pass COMBO Governance on Snapshot
 3. Develop the smart contract as per the Cube Listing Policy
-4. Submit and schedule the contract review with the Operator \(currently the Furucombo founding team\)
+4. Submit and schedule the contract review with the Operator (currently the Furucombo founding team)
 5. The Operator must register the contract in the system with a multi-sig wallet
 6. Lock COMBO to activate the cube
 
@@ -39,7 +39,7 @@ Furucombo Governors with a sufficient amount of vCOMBO could commit to activatin
 
 #### Regular Audit
 
-Furucombo Operator \(currently the Furucombo founding team\) will schedule and conduct regular internal and external audits to ensure more and more experienced experts examined the code along with the growth of the protocol.
+Furucombo Operator (currently the Furucombo founding team) will schedule and conduct regular internal and external audits to ensure more and more experienced experts examined the code along with the growth of the protocol.
 
 #### Insurance Policy
 
@@ -55,7 +55,7 @@ On the other hand, Furucombo Governors can allocate the funds in the Furucombo T
 2. Interact with other members of the community to gather support.
 3. Find a Governor who supports your idea to create a cube listing proposal, or you can get enough vCOMBO to be a Governor yourself and create the listing proposal.
 4. If the proposal is passed with support from the Governors, you can then develop the smart contract per the Cube Listing Policy.
-5. Once the contract is ready, submit and schedule the contract review with the Operator \(currently the Furucombo founding team\)
+5. Once the contract is ready, submit and schedule the contract review with the Operator (currently the Furucombo founding team)
 6. If the review is positive, the Operator will register the contract in the system with a multi-sig wallet.
 7. Then you need to purchase COMBO tokens from open market. For example, you can [buy COMBO from Uniswap](https://furucombo.app/combo/c3gnmecke6ss71ddm290). Then, you need to lock these COMBO tokens into the COMBO locking contract to activate the cube. You can also seek support from the Furucombo governance beforehand to see if any sponsors from the community.
 
@@ -71,13 +71,11 @@ On the other hand, Furucombo Governors can allocate the funds in the Furucombo T
 Due to the nature of the DeFi space, expeditated development, unforeseen changes, or community feedback may cause these plans to change.
 {% endhint %}
 
-| Subject | Status |
-| :--- | :--- |
-| [Smart Contract Open Source](../resources/smart-contracts.md#proxy-contract) | Completed |
-| Trial Run on External Builder Participation \([Sushiswap and B.Protocol](https://furucombo.app/combo)\) | Completed |
-| Cube Listing Policy | Planning |
-| Cube Stats Dashboard | Planning |
-| Smart Contract for Cube Activation | Planning |
-
-
+| Subject                                                                                               | Status    |
+| ----------------------------------------------------------------------------------------------------- | --------- |
+| [Smart Contract Open Source](../resources/deployed-contracts.md#proxy-contract)                       | Completed |
+| Trial Run on External Builder Participation ([Sushiswap and B.Protocol](https://furucombo.app/combo)) | Completed |
+| Cube Listing Policy                                                                                   | Planning  |
+| Cube Stats Dashboard                                                                                  | Planning  |
+| Smart Contract for Cube Activation                                                                    | Planning  |
 
